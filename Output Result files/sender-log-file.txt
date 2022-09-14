@@ -1,0 +1,2868 @@
+Packet sent; type=DATA; seqNum=0;length=1456;checksum_in_packet=1145476812
+Packet sent; type=DATA; seqNum=1;length=1456;checksum_in_packet=3521477015
+Packet sent; type=DATA; seqNum=2;length=1456;checksum_in_packet=1713364683
+Packet sent; type=DATA; seqNum=3;length=1456;checksum_in_packet=2957390641
+Packet sent; type=DATA; seqNum=4;length=1456;checksum_in_packet=2700285281
+Packet received; type=ACK; seqNum=1;length=0;checksum_in_packet=1372519324
+Updating window;
+Window state: [1(0), 2(0), 3(0), 4(0), 5(1), 6(1), 7(1), 8(1), 9(1), 10(1), ]
+Packet received; type=ACK; seqNum=2;length=0;checksum_in_packet=376340812
+Updating window;
+Window state: [2(0), 3(0), 4(0), 5(1), 6(1), 7(1), 8(1), 9(1), 10(1), 11(1), ]
+Packet sent; type=DATA; seqNum=5;length=1456;checksum_in_packet=261485492
+Packet sent; type=DATA; seqNum=3;length=1456;checksum_in_packet=2957390641
+Packet sent; type=DATA; seqNum=4;length=1456;checksum_in_packet=2700285281
+Triple dup acks received for packet seqNum=5
+Triple dup acks received for packet seqNum=6
+Triple dup acks received for packet seqNum=7
+Triple dup acks received for packet seqNum=8
+Packet received; type=ACK; seqNum=3;length=0;checksum_in_packet=722381052
+Updating window;
+Window state: [3(0), 4(0), 5(0), 6(1), 7(1), 8(1), 9(1), 10(1), 11(1), 12(1), ]
+Packet sent; type=DATA; seqNum=3;length=1456;checksum_in_packet=2957390641
+Packet received; type=ACK; seqNum=4;length=0;checksum_in_packet=2569958636
+Updating window;
+Window state: [4(0), 5(0), 6(1), 7(1), 8(1), 9(1), 10(1), 11(1), 12(1), 13(1), ]
+Packet sent; type=DATA; seqNum=4;length=1456;checksum_in_packet=2700285281
+Packet received; type=ACK; seqNum=5;length=0;checksum_in_packet=2756599132
+Updating window;
+Window state: [5(0), 6(1), 7(1), 8(1), 9(1), 10(1), 11(1), 12(1), 13(1), 14(1), ]
+Packet sent; type=DATA; seqNum=5;length=1456;checksum_in_packet=261485492
+Packet received; type=ACK; seqNum=6;length=0;checksum_in_packet=3824035724
+Updating window;
+Window state: [6(1), 7(1), 8(1), 9(1), 10(1), 11(1), 12(1), 13(1), 14(1), 15(1), ]
+Packet sent; type=DATA; seqNum=6;length=1456;checksum_in_packet=3260308514
+Packet received; type=ACK; seqNum=7;length=0;checksum_in_packet=3733851708
+Updating window;
+Window state: [7(1), 8(1), 9(1), 10(1), 11(1), 12(1), 13(1), 14(1), 15(1), 16(1), ]
+Packet sent; type=DATA; seqNum=7;length=1456;checksum_in_packet=2836534623
+Packet received; type=ACK; seqNum=8;length=0;checksum_in_packet=1558092269
+Updating window;
+Window state: [8(1), 9(1), 10(1), 11(1), 12(1), 13(1), 14(1), 15(1), 16(1), 17(1), ]
+Packet sent; type=DATA; seqNum=8;length=1456;checksum_in_packet=2727185383
+Packet received; type=ACK; seqNum=9;length=0;checksum_in_packet=1639886941
+Updating window;
+Window state: [9(1), 10(1), 11(1), 12(1), 13(1), 14(1), 15(1), 16(1), 17(1), 18(1), ]
+Packet sent; type=DATA; seqNum=9;length=1456;checksum_in_packet=172239292
+Packet received; type=ACK; seqNum=10;length=0;checksum_in_packet=639552141
+Updating window;
+Window state: [10(1), 11(1), 12(1), 13(1), 14(1), 15(1), 16(1), 17(1), 18(1), 19(1), ]
+Packet sent; type=DATA; seqNum=10;length=1456;checksum_in_packet=3956658460
+Packet received; type=ACK; seqNum=11;length=0;checksum_in_packet=461300541
+Updating window;
+Window state: [11(1), 12(1), 13(1), 14(1), 15(1), 16(1), 17(1), 18(1), 19(1), 20(1), ]
+Packet sent; type=DATA; seqNum=11;length=1456;checksum_in_packet=1468903981
+Packet received; type=ACK; seqNum=12;length=0;checksum_in_packet=2841526061
+Updating window;
+Window state: [12(1), 13(1), 14(1), 15(1), 16(1), 17(1), 18(1), 19(1), 20(1), 21(1), ]
+Packet sent; type=DATA; seqNum=12;length=1456;checksum_in_packet=3745427828
+Packet received; type=ACK; seqNum=13;length=0;checksum_in_packet=2487096989
+Updating window;
+Window state: [13(1), 14(1), 15(1), 16(1), 17(1), 18(1), 19(1), 20(1), 21(1), 22(1), ]
+Packet sent; type=DATA; seqNum=13;length=1456;checksum_in_packet=92219049
+Timeout for packet seqNum=13
+Packet received; type=ACK; seqNum=14;length=0;checksum_in_packet=3550374989
+Updating window;
+Window state: [14(1), 15(1), 16(1), 17(1), 18(1), 19(1), 20(1), 21(1), 22(1), 23(1), ]
+Packet sent; type=DATA; seqNum=14;length=1456;checksum_in_packet=24895066
+Packet received; type=ACK; seqNum=15;length=0;checksum_in_packet=4009641469
+Updating window;
+Window state: [15(1), 16(1), 17(1), 18(1), 19(1), 20(1), 21(1), 22(1), 23(1), 24(1), ]
+Packet sent; type=DATA; seqNum=15;length=1456;checksum_in_packet=1230372850
+Packet received; type=ACK; seqNum=16;length=0;checksum_in_packet=206456238
+Updating window;
+Window state: [16(1), 17(1), 18(1), 19(1), 20(1), 21(1), 22(1), 23(1), 24(1), 25(1), ]
+Packet sent; type=DATA; seqNum=16;length=1456;checksum_in_packet=4110650530
+Packet received; type=ACK; seqNum=17;length=0;checksum_in_packet=825125918
+Updating window;
+Window state: [17(1), 18(1), 19(1), 20(1), 21(1), 22(1), 23(1), 24(1), 25(1), 26(1), ]
+Packet sent; type=DATA; seqNum=17;length=1456;checksum_in_packet=4200172573
+Packet received; type=ACK; seqNum=18;length=0;checksum_in_packet=1989023438
+Updating window;
+Window state: [18(1), 19(1), 20(1), 21(1), 22(1), 23(1), 24(1), 25(1), 26(1), 27(1), ]
+Packet sent; type=DATA; seqNum=18;length=1456;checksum_in_packet=3254228200
+Packet received; type=ACK; seqNum=19;length=0;checksum_in_packet=1273905022
+Updating window;
+Window state: [19(1), 20(1), 21(1), 22(1), 23(1), 24(1), 25(1), 26(1), 27(1), 28(1), ]
+Packet sent; type=DATA; seqNum=19;length=1456;checksum_in_packet=2234741788
+Packet received; type=ACK; seqNum=20;length=0;checksum_in_packet=4191085422
+Updating window;
+Window state: [20(1), 21(1), 22(1), 23(1), 24(1), 25(1), 26(1), 27(1), 28(1), 29(1), ]
+Packet sent; type=DATA; seqNum=20;length=1456;checksum_in_packet=3071800985
+Packet received; type=ACK; seqNum=21;length=0;checksum_in_packet=3299789534
+Updating window;
+Window state: [21(1), 22(1), 23(1), 24(1), 25(1), 26(1), 27(1), 28(1), 29(1), 30(1), ]
+Packet sent; type=DATA; seqNum=21;length=1456;checksum_in_packet=2521378094
+Packet received; type=ACK; seqNum=22;length=0;checksum_in_packet=2198777870
+Updating window;
+Window state: [22(1), 23(1), 24(1), 25(1), 26(1), 27(1), 28(1), 29(1), 30(1), 31(1), ]
+Packet sent; type=DATA; seqNum=22;length=1456;checksum_in_packet=2870530380
+Packet received; type=ACK; seqNum=23;length=0;checksum_in_packet=3194919358
+Updating window;
+Window state: [23(1), 24(1), 25(1), 26(1), 27(1), 28(1), 29(1), 30(1), 31(1), 32(1), ]
+Packet sent; type=DATA; seqNum=23;length=1456;checksum_in_packet=1627336484
+Packet received; type=ACK; seqNum=24;length=0;checksum_in_packet=1010699887
+Updating window;
+Window state: [24(1), 25(1), 26(1), 27(1), 28(1), 29(1), 30(1), 31(1), 32(1), 33(1), ]
+Packet sent; type=DATA; seqNum=24;length=1456;checksum_in_packet=82873120
+Packet received; type=ACK; seqNum=25;length=0;checksum_in_packet=22947807
+Updating window;
+Window state: [25(1), 26(1), 27(1), 28(1), 29(1), 30(1), 31(1), 32(1), 33(1), 34(1), ]
+Packet sent; type=DATA; seqNum=25;length=1456;checksum_in_packet=1487807461
+Packet received; type=ACK; seqNum=26;length=0;checksum_in_packet=1191075087
+Updating window;
+Window state: [26(1), 27(1), 28(1), 29(1), 30(1), 31(1), 32(1), 33(1), 34(1), 35(1), ]
+Packet sent; type=DATA; seqNum=26;length=1456;checksum_in_packet=468767401
+Packet received; type=ACK; seqNum=27;length=0;checksum_in_packet=2073982143
+Updating window;
+Window state: [27(1), 28(1), 29(1), 30(1), 31(1), 32(1), 33(1), 34(1), 35(1), 36(1), ]
+Packet sent; type=DATA; seqNum=27;length=1456;checksum_in_packet=346596040
+Packet received; type=ACK; seqNum=28;length=0;checksum_in_packet=3384715439
+Updating window;
+Window state: [28(1), 29(1), 30(1), 31(1), 32(1), 33(1), 34(1), 35(1), 36(1), 37(1), ]
+Packet sent; type=DATA; seqNum=28;length=1456;checksum_in_packet=2850626628
+Packet received; type=ACK; seqNum=29;length=0;checksum_in_packet=4108222751
+Updating window;
+Window state: [29(1), 30(1), 31(1), 32(1), 33(1), 34(1), 35(1), 36(1), 37(1), 38(1), ]
+Packet sent; type=DATA; seqNum=29;length=1456;checksum_in_packet=4112040053
+Packet received; type=ACK; seqNum=30;length=0;checksum_in_packet=3011443663
+Updating window;
+Window state: [30(1), 31(1), 32(1), 33(1), 34(1), 35(1), 36(1), 37(1), 38(1), 39(1), ]
+Packet sent; type=DATA; seqNum=30;length=1456;checksum_in_packet=1583943839
+Packet received; type=ACK; seqNum=31;length=0;checksum_in_packet=2384384639
+Updating window;
+Window state: [31(1), 32(1), 33(1), 34(1), 35(1), 36(1), 37(1), 38(1), 39(1), 40(1), ]
+Packet sent; type=DATA; seqNum=31;length=1456;checksum_in_packet=2193514607
+Packet received; type=ACK; seqNum=32;length=0;checksum_in_packet=2909797672
+Updating window;
+Window state: [32(1), 33(1), 34(1), 35(1), 36(1), 37(1), 38(1), 39(1), 40(1), 41(1), ]
+Packet sent; type=DATA; seqNum=32;length=1456;checksum_in_packet=1383405187
+Packet received; type=ACK; seqNum=33;length=0;checksum_in_packet=2416956568
+Updating window;
+Window state: [33(1), 34(1), 35(1), 36(1), 37(1), 38(1), 39(1), 40(1), 41(1), 42(1), ]
+Packet sent; type=DATA; seqNum=33;length=1456;checksum_in_packet=4265957224
+Packet received; type=ACK; seqNum=34;length=0;checksum_in_packet=3618614856
+Updating window;
+Window state: [34(1), 35(1), 36(1), 37(1), 38(1), 39(1), 40(1), 41(1), 42(1), 43(1), ]
+Packet sent; type=DATA; seqNum=34;length=1456;checksum_in_packet=3186097328
+Packet received; type=ACK; seqNum=35;length=0;checksum_in_packet=3939469304
+Updating window;
+Window state: [35(1), 36(1), 37(1), 38(1), 39(1), 40(1), 41(1), 42(1), 43(1), 44(1), ]
+Packet sent; type=DATA; seqNum=35;length=1456;checksum_in_packet=1704022708
+Packet received; type=ACK; seqNum=36;length=0;checksum_in_packet=1492081640
+Updating window;
+Window state: [36(1), 37(1), 38(1), 39(1), 40(1), 41(1), 42(1), 43(1), 44(1), 45(1), ]
+Packet sent; type=DATA; seqNum=36;length=1456;checksum_in_packet=4181620841
+Packet received; type=ACK; seqNum=37;length=0;checksum_in_packet=1703899736
+Updating window;
+Window state: [37(1), 38(1), 39(1), 40(1), 41(1), 42(1), 43(1), 44(1), 45(1), 46(1), ]
+Packet sent; type=DATA; seqNum=37;length=1456;checksum_in_packet=837449445
+Packet received; type=ACK; seqNum=38;length=0;checksum_in_packet=573507720
+Updating window;
+Window state: [38(1), 39(1), 40(1), 41(1), 42(1), 43(1), 44(1), 45(1), 46(1), 47(1), ]
+Packet sent; type=DATA; seqNum=38;length=1456;checksum_in_packet=1178077480
+Packet received; type=ACK; seqNum=39;length=0;checksum_in_packet=525279544
+Updating window;
+Window state: [39(1), 40(1), 41(1), 42(1), 43(1), 44(1), 45(1), 46(1), 47(1), 48(1), ]
+Packet sent; type=DATA; seqNum=39;length=1456;checksum_in_packet=424367535
+Timeout for packet seqNum=39
+Packet received; type=ACK; seqNum=40;length=0;checksum_in_packet=2636101353
+Updating window;
+Window state: [40(1), 41(1), 42(1), 43(1), 44(1), 45(1), 46(1), 47(1), 48(1), 49(1), ]
+Packet sent; type=DATA; seqNum=40;length=1456;checksum_in_packet=2921447648
+Packet received; type=ACK; seqNum=41;length=0;checksum_in_packet=2692718425
+Updating window;
+Window state: [41(1), 42(1), 43(1), 44(1), 45(1), 46(1), 47(1), 48(1), 49(1), 50(1), ]
+Packet sent; type=DATA; seqNum=41;length=1456;checksum_in_packet=1382439316
+Packet received; type=ACK; seqNum=42;length=0;checksum_in_packet=3890210185
+Updating window;
+Window state: [42(1), 43(1), 44(1), 45(1), 46(1), 47(1), 48(1), 49(1), 50(1), 51(1), ]
+Packet sent; type=DATA; seqNum=42;length=1456;checksum_in_packet=3761089082
+Timeout for packet seqNum=42
+Packet received; type=ACK; seqNum=43;length=0;checksum_in_packet=3670002745
+Updating window;
+Window state: [43(1), 44(1), 45(1), 46(1), 47(1), 48(1), 49(1), 50(1), 51(1), 52(1), ]
+Packet sent; type=DATA; seqNum=43;length=1456;checksum_in_packet=551674627
+Packet received; type=ACK; seqNum=44;length=0;checksum_in_packet=1755254825
+Updating window;
+Window state: [44(1), 45(1), 46(1), 47(1), 48(1), 49(1), 50(1), 51(1), 52(1), 53(1), ]
+Packet sent; type=DATA; seqNum=44;length=1456;checksum_in_packet=3141238712
+Packet received; type=ACK; seqNum=45;length=0;checksum_in_packet=1442789785
+Updating window;
+Window state: [45(1), 46(1), 47(1), 48(1), 49(1), 50(1), 51(1), 52(1), 53(1), 54(1), ]
+Packet sent; type=DATA; seqNum=45;length=1456;checksum_in_packet=3284892193
+Packet received; type=ACK; seqNum=46;length=0;checksum_in_packet=308233033
+Updating window;
+Window state: [46(1), 47(1), 48(1), 49(1), 50(1), 51(1), 52(1), 53(1), 54(1), 55(1), ]
+Packet sent; type=DATA; seqNum=46;length=1456;checksum_in_packet=1885176205
+Packet received; type=ACK; seqNum=47;length=0;checksum_in_packet=792685305
+Updating window;
+Window state: [47(1), 48(1), 49(1), 50(1), 51(1), 52(1), 53(1), 54(1), 55(1), 56(1), ]
+Packet sent; type=DATA; seqNum=47;length=1456;checksum_in_packet=4089093305
+Packet received; type=ACK; seqNum=48;length=0;checksum_in_packet=3448728234
+Updating window;
+Window state: [48(1), 49(1), 50(1), 51(1), 52(1), 53(1), 54(1), 55(1), 56(1), 57(1), ]
+Packet sent; type=DATA; seqNum=48;length=1456;checksum_in_packet=699751512
+Packet received; type=ACK; seqNum=49;length=0;checksum_in_packet=4042212122
+Updating window;
+Window state: [49(1), 50(1), 51(1), 52(1), 53(1), 54(1), 55(1), 56(1), 57(1), 58(1), ]
+Packet sent; type=DATA; seqNum=49;length=1456;checksum_in_packet=3524251299
+Packet received; type=ACK; seqNum=50;length=0;checksum_in_packet=3075422666
+Updating window;
+Window state: [50(1), 51(1), 52(1), 53(1), 54(1), 55(1), 56(1), 57(1), 58(1), 59(1), ]
+Packet sent; type=DATA; seqNum=50;length=1456;checksum_in_packet=1574987565
+Timeout for packet seqNum=50
+Packet received; type=ACK; seqNum=51;length=0;checksum_in_packet=2318340218
+Updating window;
+Window state: [51(1), 52(1), 53(1), 54(1), 55(1), 56(1), 57(1), 58(1), 59(1), 60(1), ]
+Packet sent; type=DATA; seqNum=51;length=1456;checksum_in_packet=1208600223
+Packet received; type=ACK; seqNum=52;length=0;checksum_in_packet=940559466
+Updating window;
+Window state: [52(1), 53(1), 54(1), 55(1), 56(1), 57(1), 58(1), 59(1), 60(1), 61(1), ]
+Packet sent; type=DATA; seqNum=52;length=1456;checksum_in_packet=3727843483
+Packet received; type=ACK; seqNum=53;length=0;checksum_in_packet=91219418
+Updating window;
+Window state: [53(1), 54(1), 55(1), 56(1), 57(1), 58(1), 59(1), 60(1), 61(1), 62(1), ]
+Packet sent; type=DATA; seqNum=53;length=1456;checksum_in_packet=3942684657
+Timeout for packet seqNum=53
+Packet received; type=ACK; seqNum=54;length=0;checksum_in_packet=1120902922
+Updating window;
+Window state: [54(1), 55(1), 56(1), 57(1), 58(1), 59(1), 60(1), 61(1), 62(1), 63(1), ]
+Packet sent; type=DATA; seqNum=54;length=1456;checksum_in_packet=3784926211
+Packet received; type=ACK; seqNum=55;length=0;checksum_in_packet=2142222010
+Updating window;
+Window state: [55(1), 56(1), 57(1), 58(1), 59(1), 60(1), 61(1), 62(1), 63(1), 64(1), ]
+Packet sent; type=DATA; seqNum=55;length=1456;checksum_in_packet=231507920
+Packet received; type=ACK; seqNum=56;length=0;checksum_in_packet=4261355883
+Updating window;
+Window state: [56(1), 57(1), 58(1), 59(1), 60(1), 61(1), 62(1), 63(1), 64(1), 65(1), ]
+Packet sent; type=DATA; seqNum=56;length=1456;checksum_in_packet=3688871937
+Packet received; type=ACK; seqNum=57;length=0;checksum_in_packet=3231647963
+Updating window;
+Window state: [57(1), 58(1), 59(1), 60(1), 61(1), 62(1), 63(1), 64(1), 65(1), 66(1), ]
+Packet sent; type=DATA; seqNum=57;length=1456;checksum_in_packet=3667556568
+Packet received; type=ACK; seqNum=58;length=0;checksum_in_packet=2269082123
+Updating window;
+Window state: [58(1), 59(1), 60(1), 61(1), 62(1), 63(1), 64(1), 65(1), 66(1), 67(1), ]
+Packet sent; type=DATA; seqNum=58;length=1456;checksum_in_packet=3148444117
+Packet received; type=ACK; seqNum=59;length=0;checksum_in_packet=3126811579
+Updating window;
+Window state: [59(1), 60(1), 61(1), 62(1), 63(1), 64(1), 65(1), 66(1), 67(1), 68(1), ]
+Packet sent; type=DATA; seqNum=59;length=1456;checksum_in_packet=3219442568
+Packet received; type=ACK; seqNum=60;length=0;checksum_in_packet=142575531
+Updating window;
+Window state: [60(1), 61(1), 62(1), 63(1), 64(1), 65(1), 66(1), 67(1), 68(1), 69(1), ]
+Packet sent; type=DATA; seqNum=60;length=1456;checksum_in_packet=1991377132
+Packet received; type=ACK; seqNum=61;length=0;checksum_in_packet=891268635
+Updating window;
+Window state: [61(0), 62(1), 63(1), 64(1), 65(1), 66(1), 67(1), 68(1), 69(1), 70(1), ]
+Packet received; type=ACK; seqNum=62;length=0;checksum_in_packet=1925174475
+Updating window;
+Window state: [62(1), 63(1), 64(1), 65(1), 66(1), 67(1), 68(1), 69(1), 70(1), 71(1), ]
+Packet sent; type=DATA; seqNum=62;length=1456;checksum_in_packet=4058756257
+Packet received; type=ACK; seqNum=63;length=0;checksum_in_packet=1340079483
+Updating window;
+Window state: [63(1), 64(1), 65(1), 66(1), 67(1), 68(1), 69(1), 70(1), 71(1), 72(1), ]
+Packet sent; type=DATA; seqNum=63;length=1456;checksum_in_packet=3700506417
+Packet received; type=ACK; seqNum=64;length=0;checksum_in_packet=878545509
+Updating window;
+Window state: [64(1), 65(1), 66(1), 67(1), 68(1), 69(1), 70(1), 71(1), 72(1), 73(1), ]
+Packet sent; type=DATA; seqNum=64;length=1456;checksum_in_packet=555359582
+Packet received; type=ACK; seqNum=65;length=0;checksum_in_packet=155034581
+Updating window;
+Window state: [65(1), 66(1), 67(1), 68(1), 69(1), 70(1), 71(1), 72(1), 73(1), 74(1), ]
+Packet sent; type=DATA; seqNum=65;length=1456;checksum_in_packet=32847949
+Packet received; type=ACK; seqNum=66;length=0;checksum_in_packet=1318967557
+Updating window;
+Window state: [66(1), 67(1), 68(1), 69(1), 70(1), 71(1), 72(1), 73(1), 74(1), 75(1), ]
+Packet sent; type=DATA; seqNum=66;length=1456;checksum_in_packet=3452210787
+Packet received; type=ACK; seqNum=67;length=0;checksum_in_packet=1946022069
+Updating window;
+Window state: [67(1), 68(1), 69(1), 70(1), 71(1), 72(1), 73(1), 74(1), 75(1), 76(1), ]
+Packet sent; type=DATA; seqNum=67;length=1456;checksum_in_packet=894510127
+Packet received; type=ACK; seqNum=68;length=0;checksum_in_packet=3252497573
+Updating window;
+Window state: [68(1), 69(1), 70(1), 71(1), 72(1), 73(1), 74(1), 75(1), 76(1), 77(1), ]
+Packet sent; type=DATA; seqNum=68;length=1456;checksum_in_packet=2413951886
+Packet received; type=ACK; seqNum=69;length=0;checksum_in_packet=4240246037
+Updating window;
+Window state: [69(1), 70(1), 71(1), 72(1), 73(1), 74(1), 75(1), 76(1), 77(1), 78(1), ]
+Packet sent; type=DATA; seqNum=69;length=1456;checksum_in_packet=1104065241
+Packet received; type=ACK; seqNum=70;length=0;checksum_in_packet=3139272645
+Updating window;
+Window state: [70(1), 71(1), 72(1), 73(1), 74(1), 75(1), 76(1), 77(1), 78(1), 79(1), ]
+Packet sent; type=DATA; seqNum=70;length=1456;checksum_in_packet=2140621840
+Packet received; type=ACK; seqNum=71;length=0;checksum_in_packet=2256361077
+Updating window;
+Window state: [71(1), 72(1), 73(1), 74(1), 75(1), 76(1), 77(1), 78(1), 79(1), 80(1), ]
+Packet sent; type=DATA; seqNum=71;length=1456;checksum_in_packet=2793702487
+Packet received; type=ACK; seqNum=72;length=0;checksum_in_packet=70107556
+Updating window;
+Window state: [72(1), 73(1), 74(1), 75(1), 76(1), 77(1), 78(1), 79(1), 80(1), 81(1), ]
+Packet sent; type=DATA; seqNum=72;length=1456;checksum_in_packet=1052125681
+Packet received; type=ACK; seqNum=73;length=0;checksum_in_packet=961406996
+Updating window;
+Window state: [73(1), 74(1), 75(1), 76(1), 77(1), 78(1), 79(1), 80(1), 81(1), 82(1), ]
+Packet sent; type=DATA; seqNum=73;length=1456;checksum_in_packet=3333025150
+Packet received; type=ACK; seqNum=74;length=0;checksum_in_packet=2129498820
+Updating window;
+Window state: [74(1), 75(1), 76(1), 77(1), 78(1), 79(1), 80(1), 81(1), 82(1), 83(1), ]
+Packet sent; type=DATA; seqNum=74;length=1456;checksum_in_packet=2688992089
+Packet received; type=ACK; seqNum=75;length=0;checksum_in_packet=1133362036
+Updating window;
+Window state: [75(1), 76(1), 77(1), 78(1), 79(1), 80(1), 81(1), 82(1), 83(1), 84(1), ]
+Packet sent; type=DATA; seqNum=75;length=1456;checksum_in_packet=1836141518
+Packet received; type=ACK; seqNum=76;length=0;checksum_in_packet=4054673252
+Updating window;
+Window state: [76(1), 77(1), 78(1), 79(1), 80(1), 81(1), 82(1), 83(1), 84(1), 85(1), ]
+Packet sent; type=DATA; seqNum=76;length=1456;checksum_in_packet=1485647294
+Packet received; type=ACK; seqNum=77;length=0;checksum_in_packet=3436007124
+Updating window;
+Window state: [77(1), 78(1), 79(1), 80(1), 81(1), 82(1), 83(1), 84(1), 85(1), 86(1), ]
+Packet sent; type=DATA; seqNum=77;length=1456;checksum_in_packet=1648458767
+Timeout for packet seqNum=77
+Packet received; type=ACK; seqNum=78;length=0;checksum_in_packet=2339189764
+Updating window;
+Window state: [78(1), 79(1), 80(1), 81(1), 82(1), 83(1), 84(1), 85(1), 86(1), 87(1), ]
+Packet sent; type=DATA; seqNum=78;length=1456;checksum_in_packet=2887107898
+Packet received; type=ACK; seqNum=79;length=0;checksum_in_packet=3054312884
+Updating window;
+Window state: [79(1), 80(1), 81(1), 82(1), 83(1), 84(1), 85(1), 86(1), 87(1), 88(1), ]
+Packet sent; type=DATA; seqNum=79;length=1456;checksum_in_packet=1573908687
+Timeout for packet seqNum=79
+Packet received; type=ACK; seqNum=80;length=0;checksum_in_packet=1421680103
+Updating window;
+Window state: [80(1), 81(1), 82(1), 83(1), 84(1), 85(1), 86(1), 87(1), 88(1), 89(1), ]
+Packet sent; type=DATA; seqNum=80;length=1456;checksum_in_packet=2399600471
+Timeout for packet seqNum=80
+Packet received; type=ACK; seqNum=81;length=0;checksum_in_packet=1776104535
+Updating window;
+Window state: [81(1), 82(1), 83(1), 84(1), 85(1), 86(1), 87(1), 88(1), 89(1), 90(1), ]
+Packet sent; type=DATA; seqNum=81;length=1456;checksum_in_packet=3924017550
+Packet received; type=ACK; seqNum=82;length=0;checksum_in_packet=779964039
+Updating window;
+Window state: [82(1), 83(1), 84(1), 85(1), 86(1), 87(1), 88(1), 89(1), 90(1), 91(1), ]
+Packet sent; type=DATA; seqNum=82;length=1456;checksum_in_packet=939461604
+Packet received; type=ACK; seqNum=83;length=0;checksum_in_packet=320694071
+Updating window;
+Window state: [83(1), 84(1), 85(1), 86(1), 87(1), 88(1), 89(1), 90(1), 91(1), 92(1), ]
+Packet sent; type=DATA; seqNum=83;length=1456;checksum_in_packet=437425462
+Packet received; type=ACK; seqNum=84;length=0;checksum_in_packet=2705177383
+Updating window;
+Window state: [84(1), 85(1), 86(1), 87(1), 88(1), 89(1), 90(1), 91(1), 92(1), 93(1), ]
+Packet sent; type=DATA; seqNum=84;length=1456;checksum_in_packet=468640222
+Packet received; type=ACK; seqNum=85;length=0;checksum_in_packet=2623378071
+Updating window;
+Window state: [85(1), 86(1), 87(1), 88(1), 89(1), 90(1), 91(1), 92(1), 93(1), 94(1), ]
+Packet sent; type=DATA; seqNum=85;length=1456;checksum_in_packet=607856497
+Timeout for packet seqNum=85
+Packet received; type=ACK; seqNum=86;length=0;checksum_in_packet=3690850375
+Updating window;
+Window state: [86(1), 87(1), 88(1), 89(1), 90(1), 91(1), 92(1), 93(1), 94(1), 95(1), ]
+Packet sent; type=DATA; seqNum=86;length=1456;checksum_in_packet=247074259
+Packet received; type=ACK; seqNum=87;length=0;checksum_in_packet=3869098487
+Updating window;
+Window state: [87(1), 88(1), 89(1), 90(1), 91(1), 92(1), 93(1), 94(1), 95(1), 96(1), ]
+Packet sent; type=DATA; seqNum=87;length=1456;checksum_in_packet=1643534617
+Packet received; type=ACK; seqNum=88;length=0;checksum_in_packet=1691178534
+Updating window;
+Window state: [88(1), 89(1), 90(1), 91(1), 92(1), 93(1), 94(1), 95(1), 96(1), 97(1), ]
+Packet sent; type=DATA; seqNum=88;length=1456;checksum_in_packet=979344765
+Packet received; type=ACK; seqNum=89;length=0;checksum_in_packet=1504542614
+Updating window;
+Window state: [89(1), 90(1), 91(1), 92(1), 93(1), 94(1), 95(1), 96(1), 97(1), 98(1), ]
+Packet sent; type=DATA; seqNum=89;length=1456;checksum_in_packet=267186098
+Timeout for packet seqNum=89
+Packet received; type=ACK; seqNum=90;length=0;checksum_in_packet=504169798
+Updating window;
+Window state: [90(1), 91(1), 92(1), 93(1), 94(1), 95(1), 96(1), 97(1), 98(1), 99(1), ]
+Packet sent; type=DATA; seqNum=90;length=1456;checksum_in_packet=2848514142
+Timeout for packet seqNum=90
+Packet received; type=ACK; seqNum=91;length=0;checksum_in_packet=594357494
+Updating window;
+Window state: [91(1), 92(1), 93(1), 94(1), 95(1), 96(1), 97(1), 98(1), 99(1), 100(1), ]
+pe=DATA; seqNum=29;length=1456;checksum_in_packet=4112040053
+  • – — ˜ ™ š Packet sent; type=DATA; seqNum=91;length=1456;checksum_in_packet=1121691103
+Packet received; type=ACK; seqNum=92;length=0;checksum_in_packet=2437804262
+Updating window;
+Window state: [92(1), 93(1), 94(1), 95(1), 96(1), 97(1), 98(1), 99(1), 100(1), 101(1), ]
+Packet sent; type=DATA; seqNum=92;length=1456;checksum_in_packet=3450049490
+Packet received; type=ACK; seqNum=93;length=0;checksum_in_packet=2888685910
+Updating window;
+Window state: [93(1), 94(1), 95(1), 96(1), 97(1), 98(1), 99(1), 100(1), 101(1), 102(1), ]
+Packet sent; type=DATA; seqNum=93;length=1456;checksum_in_packet=3751015403
+Packet received; type=ACK; seqNum=94;length=0;checksum_in_packet=3951928198
+Updating window;
+Window state: [94(1), 95(1), 96(1), 97(1), 98(1), 99(1), 100(1), 101(1), 102(1), 103(1), ]
+Packet sent; type=DATA; seqNum=94;length=1456;checksum_in_packet=1049750285
+Packet received; type=ACK; seqNum=95;length=0;checksum_in_packet=3605891638
+Updating window;
+Window state: [95(1), 96(1), 97(1), 98(1), 99(1), 100(1), 101(1), 102(1), 103(1), 104(1), ]
+Packet sent; type=DATA; seqNum=95;length=1456;checksum_in_packet=509675006
+Packet received; type=ACK; seqNum=96;length=0;checksum_in_packet=4120683873
+Updating window;
+Window state: [96(1), 97(1), 98(1), 99(1), 100(1), 101(1), 102(1), 103(1), 104(1), 105(1), ]
+Packet sent; type=DATA; seqNum=96;length=1456;checksum_in_packet=725845934
+Packet received; type=ACK; seqNum=97;length=0;checksum_in_packet=3371994321
+Updating window;
+Window state: [97(1), 98(1), 99(1), 100(1), 101(1), 102(1), 103(1), 104(1), 105(1), 106(1), ]
+Packet sent; type=DATA; seqNum=97;length=1456;checksum_in_packet=429390899
+Packet received; type=ACK; seqNum=98;length=0;checksum_in_packet=2405234177
+Updating window;
+Window state: [98(1), 99(1), 100(1), 101(1), 102(1), 103(1), 104(1), 105(1), 106(1), 107(1), ]
+Packet sent; type=DATA; seqNum=98;length=1456;checksum_in_packet=821594971
+Packet received; type=ACK; seqNum=99;length=0;checksum_in_packet=2990333873
+Updating window;
+Window state: [99(1), 100(1), 101(1), 102(1), 103(1), 104(1), 105(1), 106(1), 107(1), 108(1), ]
+Packet sent; type=DATA; seqNum=99;length=1456;checksum_in_packet=3832827969
+Timeout for packet seqNum=99
+Packet received; type=ACK; seqNum=100;length=0;checksum_in_packet=1835937
+Updating window;
+Window state: [100(1), 101(1), 102(1), 103(1), 104(1), 105(1), 106(1), 107(1), 108(1), 109(1), ]
+Packet sent; type=DATA; seqNum=100;length=1456;checksum_in_packet=3704318707
+Packet received; type=ACK; seqNum=101;length=0;checksum_in_packet=1031547409
+Updating window;
+Window state: [101(1), 102(1), 103(1), 104(1), 105(1), 106(1), 107(1), 108(1), 109(1), 110(1), ]
+Packet sent; type=DATA; seqNum=101;length=1456;checksum_in_packet=1229008915
+Packet received; type=ACK; seqNum=102;length=0;checksum_in_packet=2061258945
+Updating window;
+Window state: [102(1), 103(1), 104(1), 105(1), 106(1), 107(1), 108(1), 109(1), 110(1), 111(1), ]
+Packet sent; type=DATA; seqNum=102;length=1456;checksum_in_packet=680007337
+Packet received; type=ACK; seqNum=103;length=0;checksum_in_packet=1203534193
+Updating window;
+Window state: [103(1), 104(1), 105(1), 106(1), 107(1), 108(1), 109(1), 110(1), 111(1), 112(1), ]
+Packet sent; type=DATA; seqNum=103;length=1456;checksum_in_packet=1917339913
+Packet received; type=ACK; seqNum=104;length=0;checksum_in_packet=3320639136
+Updating window;
+Window state: [104(1), 105(1), 106(1), 107(1), 108(1), 109(1), 110(1), 111(1), 112(1), 113(1), ]
+Packet sent; type=DATA; seqNum=104;length=1456;checksum_in_packet=3660088890
+Packet received; type=ACK; seqNum=105;length=0;checksum_in_packet=4169975568
+Updating window;
+Window state: [105(1), 106(1), 107(1), 108(1), 109(1), 110(1), 111(1), 112(1), 113(1), 114(1), ]
+Packet sent; type=DATA; seqNum=105;length=1456;checksum_in_packet=4193612371
+Packet received; type=ACK; seqNum=106;length=0;checksum_in_packet=3207380416
+Updating window;
+Window state: [106(1), 107(1), 108(1), 109(1), 110(1), 111(1), 112(1), 113(1), 114(1), 115(1), ]
+Packet sent; type=DATA; seqNum=106;length=1456;checksum_in_packet=102375958
+Packet received; type=ACK; seqNum=107;length=0;checksum_in_packet=2186056816
+Updating window;
+Window state: [107(1), 108(1), 109(1), 110(1), 111(1), 112(1), 113(1), 114(1), 115(1), 116(1), ]
+Packet sent; type=DATA; seqNum=107;length=1456;checksum_in_packet=3679425121
+Packet received; type=ACK; seqNum=108;length=0;checksum_in_packet=812402784
+Updating window;
+Window state: [108(1), 109(1), 110(1), 111(1), 112(1), 113(1), 114(1), 115(1), 116(1), 117(1), ]
+Packet sent; type=DATA; seqNum=108;length=1456;checksum_in_packet=3612458330
+Packet received; type=ACK; seqNum=109;length=0;checksum_in_packet=218915280
+Updating window;
+Window state: [109(1), 110(1), 111(1), 112(1), 113(1), 114(1), 115(1), 116(1), 117(1), 118(1), ]
+Packet sent; type=DATA; seqNum=109;length=1456;checksum_in_packet=1920320928
+Packet received; type=ACK; seqNum=110;length=0;checksum_in_packet=1252793088
+Updating window;
+Window state: [110(1), 111(1), 112(1), 113(1), 114(1), 115(1), 116(1), 117(1), 118(1), 119(1), ]
+Packet sent; type=DATA; seqNum=110;length=1456;checksum_in_packet=3945194388
+Packet received; type=ACK; seqNum=111;length=0;checksum_in_packet=2009871024
+Updating window;
+Window state: [111(1), 112(1), 113(1), 114(1), 115(1), 116(1), 117(1), 118(1), 119(1), 120(1), ]
+Packet sent; type=DATA; seqNum=111;length=1456;checksum_in_packet=2191654879
+Packet received; type=ACK; seqNum=112;length=0;checksum_in_packet=2507944675
+Updating window;
+Window state: [112(1), 113(1), 114(1), 115(1), 116(1), 117(1), 118(1), 119(1), 120(1), 121(1), ]
+Packet sent; type=DATA; seqNum=112;length=1456;checksum_in_packet=723668972
+Packet received; type=ACK; seqNum=113;length=0;checksum_in_packet=2820414291
+Updating window;
+Window state: [113(1), 114(1), 115(1), 116(1), 117(1), 118(1), 119(1), 120(1), 121(1), 122(1), ]
+Packet sent; type=DATA; seqNum=113;length=1456;checksum_in_packet=3238331822
+Packet received; type=ACK; seqNum=114;length=0;checksum_in_packet=4022100355
+Updating window;
+Window state: [114(1), 115(1), 116(1), 117(1), 118(1), 119(1), 120(1), 121(1), 122(1), 123(1), ]
+Packet sent; type=DATA; seqNum=114;length=1456;checksum_in_packet=1609155700
+Packet received; type=ACK; seqNum=115;length=0;checksum_in_packet=3537651763
+Updating window;
+Window state: [115(1), 116(1), 117(1), 118(1), 119(1), 120(1), 121(1), 122(1), 123(1), 124(1), ]
+Packet sent; type=DATA; seqNum=115;length=1456;checksum_in_packet=3065277071
+Packet received; type=ACK; seqNum=116;length=0;checksum_in_packet=1627165731
+Updating window;
+Window state: [116(1), 117(1), 118(1), 119(1), 120(1), 121(1), 122(1), 123(1), 124(1), 125(1), ]
+Packet sent; type=DATA; seqNum=116;length=1456;checksum_in_packet=52790727
+Packet received; type=ACK; seqNum=117;length=0;checksum_in_packet=1570553235
+Updating window;
+Window state: [117(1), 118(1), 119(1), 120(1), 121(1), 122(1), 123(1), 124(1), 125(1), 126(1), ]
+Packet sent; type=DATA; seqNum=117;length=1456;checksum_in_packet=2910935617
+Packet received; type=ACK; seqNum=118;length=0;checksum_in_packet=440190787
+Updating window;
+Window state: [118(1), 119(1), 120(1), 121(1), 122(1), 123(1), 124(1), 125(1), 126(1), 127(1), ]
+Packet sent; type=DATA; seqNum=118;length=1456;checksum_in_packet=1497108888
+Packet received; type=ACK; seqNum=119;length=0;checksum_in_packet=660401907
+Updating window;
+Window state: [119(1), 120(1), 121(1), 122(1), 123(1), 124(1), 125(1), 126(1), 127(1), 128(1), ]
+Packet sent; type=DATA; seqNum=119;length=1456;checksum_in_packet=3219313780
+Packet received; type=ACK; seqNum=120;length=0;checksum_in_packet=2769058082
+Updating window;
+Window state: [120(1), 121(1), 122(1), 123(1), 124(1), 125(1), 126(1), 127(1), 128(1), 129(1), ]
+Packet sent; type=DATA; seqNum=120;length=1456;checksum_in_packet=2577861960
+Packet received; type=ACK; seqNum=121;length=0;checksum_in_packet=2557235346
+Updating window;
+Window state: [121(1), 122(1), 123(1), 124(1), 125(1), 126(1), 127(1), 128(1), 129(1), 130(1), ]
+Packet sent; type=DATA; seqNum=121;length=1456;checksum_in_packet=3152955404
+Timeout for packet seqNum=121
+Packet received; type=ACK; seqNum=122;length=0;checksum_in_packet=3754699330
+Updating window;
+Window state: [122(1), 123(1), 124(1), 125(1), 126(1), 127(1), 128(1), 129(1), 130(1), 131(1), ]
+Packet sent; type=DATA; seqNum=122;length=1456;checksum_in_packet=2240167941
+Packet received; type=ACK; seqNum=123;length=0;checksum_in_packet=3802924018
+Updating window;
+Window state: [123(1), 124(1), 125(1), 126(1), 127(1), 128(1), 129(1), 130(1), 131(1), 132(1), ]
+Packet sent; type=DATA; seqNum=123;length=1456;checksum_in_packet=3460104415
+Packet received; type=ACK; seqNum=124;length=0;checksum_in_packet=1351409634
+Updating window;
+Window state: [124(1), 125(1), 126(1), 127(1), 128(1), 129(1), 130(1), 131(1), 132(1), 133(1), ]
+Packet sent; type=DATA; seqNum=124;length=1456;checksum_in_packet=3211838392
+Packet received; type=ACK; seqNum=125;length=0;checksum_in_packet=1844246098
+Updating window;
+Window state: [125(1), 126(1), 127(1), 128(1), 129(1), 130(1), 131(1), 132(1), 133(1), 134(1), ]
+Packet sent; type=DATA; seqNum=125;length=1456;checksum_in_packet=4204666980
+Packet received; type=ACK; seqNum=126;length=0;checksum_in_packet=709659778
+Updating window;
+Window state: [126(1), 127(1), 128(1), 129(1), 130(1), 131(1), 132(1), 133(1), 134(1), 135(1), ]
+Packet sent; type=DATA; seqNum=126;length=1456;checksum_in_packet=553650520
+Timeout for packet seqNum=126
+Packet received; type=ACK; seqNum=127;length=0;checksum_in_packet=388801842
+Updating window;
+Window state: [127(1), 128(1), 129(1), 130(1), 131(1), 132(1), 133(1), 134(1), 135(1), 136(1), ]
+Packet sent; type=DATA; seqNum=127;length=1456;checksum_in_packet=1046375408
+Packet received; type=ACK; seqNum=128;length=0;checksum_in_packet=3712508606
+Updating window;
+Window state: [128(1), 129(1), 130(1), 131(1), 132(1), 133(1), 134(1), 135(1), 136(1), 137(1), ]
+Packet sent; type=DATA; seqNum=128;length=1456;checksum_in_packet=3151608986
+Timeout for packet seqNum=128
+Packet received; type=ACK; seqNum=129;length=0;checksum_in_packet=3760737038
+Updating window;
+Window state: [129(1), 130(1), 131(1), 132(1), 133(1), 134(1), 135(1), 136(1), 137(1), 138(1), ]
+Packet sent; type=DATA; seqNum=129;length=1456;checksum_in_packet=821705769
+Packet received; type=ACK; seqNum=130;length=0;checksum_in_packet=2810720734
+Updating window;
+Window state: [130(1), 131(1), 132(1), 133(1), 134(1), 135(1), 136(1), 137(1), 138(1), 139(1), ]
+Packet sent; type=DATA; seqNum=130;length=1456;checksum_in_packet=933332216
+Timeout for packet seqNum=130
+Packet received; type=ACK; seqNum=131;length=0;checksum_in_packet=2598901870
+Updating window;
+Window state: [131(1), 132(1), 133(1), 134(1), 135(1), 136(1), 137(1), 138(1), 139(1), 140(1), ]
+Packet sent; type=DATA; seqNum=131;length=1456;checksum_in_packet=2777536106
+Packet received; type=ACK; seqNum=132;length=0;checksum_in_packet=684246142
+Updating window;
+Window state: [132(1), 133(1), 134(1), 135(1), 136(1), 137(1), 138(1), 139(1), 140(1), 141(1), ]
+Packet sent; type=DATA; seqNum=132;length=1456;checksum_in_packet=3304239623
+Packet received; type=ACK; seqNum=133;length=0;checksum_in_packet=363392462
+Updating window;
+Window state: [133(1), 134(1), 135(1), 136(1), 137(1), 138(1), 139(1), 140(1), 141(1), 142(1), ]
+Packet sent; type=DATA; seqNum=133;length=1456;checksum_in_packet=3273975641
+Packet received; type=ACK; seqNum=134;length=0;checksum_in_packet=1376294686
+Updating window;
+Window state: [134(1), 135(1), 136(1), 137(1), 138(1), 139(1), 140(1), 141(1), 142(1), 143(1), ]
+Packet sent; type=DATA; seqNum=134;length=1456;checksum_in_packet=3613573342
+Packet received; type=ACK; seqNum=135;length=0;checksum_in_packet=1869135534
+Updating window;
+Window state: [135(1), 136(1), 137(1), 138(1), 139(1), 140(1), 141(1), 142(1), 143(1), 144(1), ]
+Packet sent; type=DATA; seqNum=135;length=1456;checksum_in_packet=1840402924
+Packet received; type=ACK; seqNum=136;length=0;checksum_in_packet=3979880831
+Updating window;
+Window state: [136(1), 137(1), 138(1), 139(1), 140(1), 141(1), 142(1), 143(1), 144(1), 145(1), ]
+Packet sent; type=DATA; seqNum=136;length=1456;checksum_in_packet=3711068191
+Packet received; type=ACK; seqNum=137;length=0;checksum_in_packet=3495428303
+Updating window;
+Window state: [137(1), 138(1), 139(1), 140(1), 141(1), 142(1), 143(1), 144(1), 145(1), 146(1), ]
+Packet sent; type=DATA; seqNum=137;length=1456;checksum_in_packet=3277928163
+Timeout for packet seqNum=137
+Packet received; type=ACK; seqNum=138;length=0;checksum_in_packet=2549643807
+Updating window;
+Window state: [138(1), 139(1), 140(1), 141(1), 142(1), 143(1), 144(1), 145(1), 146(1), 147(1), ]
+Packet sent; type=DATA; seqNum=138;length=1456;checksum_in_packet=229330571
+Timeout for packet seqNum=138
+Packet received; type=ACK; seqNum=139;length=0;checksum_in_packet=2862109615
+Updating window;
+Window state: [139(1), 140(1), 141(1), 142(1), 143(1), 144(1), 145(1), 146(1), 147(1), 148(1), ]
+Packet sent; type=DATA; seqNum=139;length=1456;checksum_in_packet=3375719913
+Packet received; type=ACK; seqNum=140;length=0;checksum_in_packet=414748607
+Updating window;
+Window state: [140(1), 141(1), 142(1), 143(1), 144(1), 145(1), 146(1), 147(1), 148(1), 149(1), ]
+Packet sent; type=DATA; seqNum=140;length=1456;checksum_in_packet=1981569722
+Packet received; type=ACK; seqNum=141;length=0;checksum_in_packet=634955279
+Updating window;
+Window state: [141(1), 142(1), 143(1), 144(1), 145(1), 146(1), 147(1), 148(1), 149(1), 150(1), ]
+Packet sent; type=DATA; seqNum=141;length=1456;checksum_in_packet=3617124168
+Packet received; type=ACK; seqNum=142;length=0;checksum_in_packet=1652088031
+Updating window;
+Window state: [142(1), 143(1), 144(1), 145(1), 146(1), 147(1), 148(1), 149(1), 150(1), 151(1), ]
+Packet sent; type=DATA; seqNum=142;length=1456;checksum_in_packet=1718238735
+Packet received; type=ACK; seqNum=143;length=0;checksum_in_packet=1595471215
+Updating window;
+Window state: [143(1), 144(1), 145(1), 146(1), 147(1), 148(1), 149(1), 150(1), 151(1), 152(1), ]
+Packet sent; type=DATA; seqNum=143;length=1456;checksum_in_packet=3942131737
+Timeout for packet seqNum=143
+Packet received; type=ACK; seqNum=144;length=0;checksum_in_packet=3181966652
+Updating window;
+Window state: [144(1), 145(1), 146(1), 147(1), 148(1), 149(1), 150(1), 151(1), 152(1), 153(1), ]
+Packet sent; type=DATA; seqNum=144;length=1456;checksum_in_packet=1012761802
+Timeout for packet seqNum=144
+Packet received; type=ACK; seqNum=145;length=0;checksum_in_packet=2160647308
+Updating window;
+Window state: [145(1), 146(1), 147(1), 148(1), 149(1), 150(1), 151(1), 152(1), 153(1), 154(1), ]
+Packet sent; type=DATA; seqNum=145;length=1456;checksum_in_packet=3897129994
+Timeout for packet seqNum=145
+Packet received; type=ACK; seqNum=146;length=0;checksum_in_packet=3345524316
+Updating window;
+Window state: [146(1), 147(1), 148(1), 149(1), 150(1), 151(1), 152(1), 153(1), 154(1), 155(1), ]
+Packet sent; type=DATA; seqNum=146;length=1456;checksum_in_packet=1356357053
+Packet received; type=ACK; seqNum=147;length=0;checksum_in_packet=4194865132
+Updating window;
+Window state: [147(1), 148(1), 149(1), 150(1), 151(1), 152(1), 153(1), 154(1), 155(1), 156(1), ]
+Packet sent; type=DATA; seqNum=147;length=1456;checksum_in_packet=3500306894
+Packet received; type=ACK; seqNum=148;length=0;checksum_in_packet=1210602492
+Updating window;
+Window state: [148(1), 149(1), 150(1), 151(1), 152(1), 153(1), 154(1), 155(1), 156(1), 157(1), ]
+Packet sent; type=DATA; seqNum=148;length=1456;checksum_in_packet=4269421222
+Packet received; type=ACK; seqNum=149;length=0;checksum_in_packet=1967684172
+Updating window;
+Window state: [149(1), 150(1), 151(1), 152(1), 153(1), 154(1), 155(1), 156(1), 157(1), 158(1), ]
+Packet sent; type=DATA; seqNum=149;length=1456;checksum_in_packet=3738421920
+Packet received; type=ACK; seqNum=150;length=0;checksum_in_packet=854065308
+Updating window;
+Window state: [150(1), 151(1), 152(1), 153(1), 154(1), 155(1), 156(1), 157(1), 158(1), 159(1), ]
+Packet sent; type=DATA; seqNum=150;length=1456;checksum_in_packet=3768886257
+Packet received; type=ACK; seqNum=151;length=0;checksum_in_packet=260581676
+Updating window;
+Window state: [151(1), 152(1), 153(1), 154(1), 155(1), 156(1), 157(1), 158(1), 159(1), 160(1), ]
+Packet sent; type=DATA; seqNum=151;length=1456;checksum_in_packet=1565294048
+Packet received; type=ACK; seqNum=152;length=0;checksum_in_packet=2379792125
+Updating window;
+Window state: [152(1), 153(1), 154(1), 155(1), 156(1), 157(1), 158(1), 159(1), 160(1), 161(1), ]
+Packet sent; type=DATA; seqNum=152;length=1456;checksum_in_packet=1572979104
+Packet received; type=ACK; seqNum=153;length=0;checksum_in_packet=2964887373
+Updating window;
+Window state: [153(1), 154(1), 155(1), 156(1), 157(1), 158(1), 159(1), 160(1), 161(1), 162(1), ]
+Packet sent; type=DATA; seqNum=153;length=1456;checksum_in_packet=1971887399
+Timeout for packet seqNum=153
+Packet received; type=ACK; seqNum=154;length=0;checksum_in_packet=4145606045
+Updating window;
+Window state: [154(1), 155(1), 156(1), 157(1), 158(1), 159(1), 160(1), 161(1), 162(1), 163(1), ]
+Packet sent; type=DATA; seqNum=154;length=1456;checksum_in_packet=917005589
+Packet received; type=ACK; seqNum=155;length=0;checksum_in_packet=3396912173
+Updating window;
+Window state: [155(1), 156(1), 157(1), 158(1), 159(1), 160(1), 161(1), 162(1), 163(1), 164(1), ]
+Packet sent; type=DATA; seqNum=155;length=1456;checksum_in_packet=901747443
+Packet received; type=ACK; seqNum=156;length=0;checksum_in_packet=2019039293
+Updating window;
+Window state: [156(1), 157(1), 158(1), 159(1), 160(1), 161(1), 162(1), 163(1), 164(1), 165(1), ]
+Packet sent; type=DATA; seqNum=156;length=1456;checksum_in_packet=1279891819
+Packet received; type=ACK; seqNum=157;length=0;checksum_in_packet=1161310605
+Updating window;
+Window state: [157(1), 158(1), 159(1), 160(1), 161(1), 162(1), 163(1), 164(1), 165(1), 166(1), ]
+Packet sent; type=DATA; seqNum=157;length=1456;checksum_in_packet=344239543
+Packet received; type=ACK; seqNum=158;length=0;checksum_in_packet=43535197
+Updating window;
+Window state: [158(1), 159(1), 160(1), 161(1), 162(1), 163(1), 164(1), 165(1), 166(1), 167(1), ]
+Packet sent; type=DATA; seqNum=158;length=1456;checksum_in_packet=3876351373
+Timeout for packet seqNum=158
+Packet received; type=ACK; seqNum=159;length=0;checksum_in_packet=1073242861
+Updating window;
+Window state: [159(1), 160(1), 161(1), 162(1), 163(1), 164(1), 165(1), 166(1), 167(1), 168(1), ]
+Packet sent; type=DATA; seqNum=159;length=1456;checksum_in_packet=1561047561
+Packet received; type=ACK; seqNum=160;length=0;checksum_in_packet=478760378
+Updating window;
+Window state: [160(1), 161(1), 162(1), 163(1), 164(1), 165(1), 166(1), 167(1), 168(1), 169(1), ]
+Packet sent; type=DATA; seqNum=160;length=1456;checksum_in_packet=2033885482
+Packet received; type=ACK; seqNum=161;length=0;checksum_in_packet=568943626
+Updating window;
+Window state: [161(1), 162(1), 163(1), 164(1), 165(1), 166(1), 167(1), 168(1), 169(1), 170(1), ]
+Packet sent; type=DATA; seqNum=161;length=1456;checksum_in_packet=3278789882
+Packet received; type=ACK; seqNum=162;length=0;checksum_in_packet=1716068058
+Updating window;
+Window state: [162(1), 163(1), 164(1), 165(1), 166(1), 167(1), 168(1), 169(1), 170(1), 171(1), ]
+Packet sent; type=DATA; seqNum=162;length=1456;checksum_in_packet=1728157904
+Timeout for packet seqNum=162
+Packet received; type=ACK; seqNum=163;length=0;checksum_in_packet=1529427818
+Updating window;
+Window state: [163(1), 164(1), 165(1), 166(1), 167(1), 168(1), 169(1), 170(1), 171(1), 172(1), ]
+Packet sent; type=DATA; seqNum=163;length=1456;checksum_in_packet=2715651805
+Packet received; type=ACK; seqNum=164;length=0;checksum_in_packet=3909741434
+Updating window;
+Window state: [164(1), 165(1), 166(1), 167(1), 168(1), 169(1), 170(1), 171(1), 172(1), 173(1), ]
+Packet sent; type=DATA; seqNum=164;length=1456;checksum_in_packet=2636555341
+Packet received; type=ACK; seqNum=165;length=0;checksum_in_packet=3563700938
+Updating window;
+Window state: [165(1), 166(1), 167(1), 168(1), 169(1), 170(1), 171(1), 172(1), 173(1), 174(1), ]
+Packet sent; type=DATA; seqNum=165;length=1456;checksum_in_packet=1198610286
+Packet received; type=ACK; seqNum=166;length=0;checksum_in_packet=2479470618
+Updating window;
+Window state: [166(1), 167(1), 168(1), 169(1), 170(1), 171(1), 172(1), 173(1), 174(1), 175(1), ]
+Packet sent; type=DATA; seqNum=166;length=1456;checksum_in_packet=547340188
+Timeout for packet seqNum=166
+Packet received; type=ACK; seqNum=167;length=0;checksum_in_packet=2930348458
+Updating window;
+Window state: [167(1), 168(1), 169(1), 170(1), 171(1), 172(1), 173(1), 174(1), 175(1), 176(1), ]
+Packet sent; type=DATA; seqNum=167;length=1456;checksum_in_packet=467540537
+Packet received; type=ACK; seqNum=168;length=0;checksum_in_packet=754517627
+Updating window;
+Window state: [168(1), 169(1), 170(1), 171(1), 172(1), 173(1), 174(1), 175(1), 176(1), 177(1), ]
+Packet sent; type=DATA; seqNum=168;length=1456;checksum_in_packet=2141698728
+Packet received; type=ACK; seqNum=169;length=0;checksum_in_packet=295251915
+Updating window;
+Window state: [169(1), 170(1), 171(1), 172(1), 173(1), 174(1), 175(1), 176(1), 177(1), 178(1), ]
+Packet sent; type=DATA; seqNum=169;length=1456;checksum_in_packet=3687944704
+Packet received; type=ACK; seqNum=170;length=0;checksum_in_packet=1446597915
+Updating window;
+Window state: [170(1), 171(1), 172(1), 173(1), 174(1), 175(1), 176(1), 177(1), 178(1), 179(1), ]
+Packet sent; type=DATA; seqNum=170;length=1456;checksum_in_packet=994910814
+Packet received; type=ACK; seqNum=171;length=0;checksum_in_packet=1801026731
+Updating window;
+Window state: [171(1), 172(1), 173(1), 174(1), 175(1), 176(1), 177(1), 178(1), 179(1), 180(1), ]
+Packet sent; type=DATA; seqNum=171;length=1456;checksum_in_packet=3316982821
+Packet received; type=ACK; seqNum=172;length=0;checksum_in_packet=3648626875
+Updating window;
+Window state: [172(1), 173(1), 174(1), 175(1), 176(1), 177(1), 178(1), 179(1), 180(1), 181(1), ]
+Packet sent; type=DATA; seqNum=172;length=1456;checksum_in_packet=3892769509
+Packet received; type=ACK; seqNum=173;length=0;checksum_in_packet=3826878731
+Updating window;
+Window state: [173(1), 174(1), 175(1), 176(1), 177(1), 178(1), 179(1), 180(1), 181(1), 182(1), ]
+Packet sent; type=DATA; seqNum=173;length=1456;checksum_in_packet=3750707125
+Packet received; type=ACK; seqNum=174;length=0;checksum_in_packet=2746872795
+Updating window;
+Window state: [174(1), 175(1), 176(1), 177(1), 178(1), 179(1), 180(1), 181(1), 182(1), 183(1), ]
+Packet sent; type=DATA; seqNum=174;length=1456;checksum_in_packet=3879874011
+Packet received; type=ACK; seqNum=175;length=0;checksum_in_packet=2665077355
+Updating window;
+Window state: [175(1), 176(1), 177(1), 178(1), 179(1), 180(1), 181(1), 182(1), 183(1), 184(1), ]
+Packet sent; type=DATA; seqNum=175;length=1456;checksum_in_packet=814550435
+Packet received; type=ACK; seqNum=176;length=0;checksum_in_packet=2087311928
+Updating window;
+Window state: [176(1), 177(1), 178(1), 179(1), 180(1), 181(1), 182(1), 183(1), 184(1), 185(1), ]
+Packet sent; type=DATA; seqNum=176;length=1456;checksum_in_packet=3807412463
+Packet received; type=ACK; seqNum=177;length=0;checksum_in_packet=1091171208
+Updating window;
+Window state: [177(1), 178(1), 179(1), 180(1), 181(1), 182(1), 183(1), 184(1), 185(1), 186(1), ]
+Packet sent; type=DATA; seqNum=177;length=1456;checksum_in_packet=596555848
+Packet received; type=ACK; seqNum=178;length=0;checksum_in_packet=111774040
+Updating window;
+Window state: [178(1), 179(1), 180(1), 181(1), 182(1), 183(1), 184(1), 185(1), 186(1), 187(1), ]
+Packet sent; type=DATA; seqNum=178;length=1456;checksum_in_packet=1071263377
+Packet received; type=ACK; seqNum=179;length=0;checksum_in_packet=1003069672
+Updating window;
+Window state: [179(1), 180(1), 181(1), 182(1), 183(1), 184(1), 185(1), 186(1), 187(1), 188(1), ]
+Packet sent; type=DATA; seqNum=179;length=1456;checksum_in_packet=3178908754
+Packet received; type=ACK; seqNum=180;length=0;checksum_in_packet=2313780472
+Updating window;
+Window state: [180(1), 181(1), 182(1), 183(1), 184(1), 185(1), 186(1), 187(1), 188(1), 189(1), ]
+Packet sent; type=DATA; seqNum=180;length=1456;checksum_in_packet=1908978091
+Packet received; type=ACK; seqNum=181;length=0;checksum_in_packet=3028899144
+Updating window;
+Window state: [181(1), 182(1), 183(1), 184(1), 185(1), 186(1), 187(1), 188(1), 189(1), 190(1), ]
+Packet sent; type=DATA; seqNum=181;length=1456;checksum_in_packet=2799574705
+Timeout for packet seqNum=181
+Packet received; type=ACK; seqNum=182;length=0;checksum_in_packet=4079562648
+Updating window;
+Window state: [182(1), 183(1), 184(1), 185(1), 186(1), 187(1), 188(1), 189(1), 190(1), 191(1), ]
+Packet sent; type=DATA; seqNum=182;length=1456;checksum_in_packet=100716535
+Packet received; type=ACK; seqNum=183;length=0;checksum_in_packet=3460892200
+Updating window;
+Window state: [183(1), 184(1), 185(1), 186(1), 187(1), 188(1), 189(1), 190(1), 191(1), 192(1), ]
+Packet sent; type=DATA; seqNum=183;length=1456;checksum_in_packet=1021447865
+Packet received; type=ACK; seqNum=184;length=0;checksum_in_packet=1276744185
+Updating window;
+Window state: [184(1), 185(1), 186(1), 187(1), 188(1), 189(1), 190(1), 191(1), 192(1), 193(1), ]
+Packet sent; type=DATA; seqNum=184;length=1456;checksum_in_packet=2640441423
+Packet received; type=ACK; seqNum=185;length=0;checksum_in_packet=1903802441
+Updating window;
+Window state: [185(1), 186(1), 187(1), 188(1), 189(1), 190(1), 191(1), 192(1), 193(1), 194(1), ]
+Packet sent; type=DATA; seqNum=185;length=1456;checksum_in_packet=147660236
+Packet received; type=ACK; seqNum=186;length=0;checksum_in_packet=920240793
+Updating window;
+Window state: [186(1), 187(1), 188(1), 189(1), 190(1), 191(1), 192(1), 193(1), 194(1), 195(1), ]
+Packet sent; type=DATA; seqNum=186;length=1456;checksum_in_packet=3674006524
+Packet received; type=ACK; seqNum=187;length=0;checksum_in_packet=196733737
+Updating window;
+Window state: [187(1), 188(1), 189(1), 190(1), 191(1), 192(1), 193(1), 194(1), 195(1), 196(1), ]
+Packet sent; type=DATA; seqNum=187;length=1456;checksum_in_packet=2770677679
+Packet received; type=ACK; seqNum=188;length=0;checksum_in_packet=3113826105
+Updating window;
+Window state: [188(1), 189(1), 190(1), 191(1), 192(1), 193(1), 194(1), 195(1), 196(1), 197(1), ]
+Packet sent; type=DATA; seqNum=188;length=1456;checksum_in_packet=3019811997
+Packet received; type=ACK; seqNum=189;length=0;checksum_in_packet=2230918793
+Updating window;
+Window state: [189(1), 190(1), 191(1), 192(1), 193(1), 194(1), 195(1), 196(1), 197(1), 198(1), ]
+Packet sent; type=DATA; seqNum=189;length=1456;checksum_in_packet=2316168805
+Packet received; type=ACK; seqNum=190;length=0;checksum_in_packet=3277415513
+Updating window;
+Window state: [190(1), 191(1), 192(1), 193(1), 194(1), 195(1), 196(1), 197(1), 198(1), 199(1), ]
+Packet sent; type=DATA; seqNum=190;length=1456;checksum_in_packet=697999633
+Packet received; type=ACK; seqNum=191;length=0;checksum_in_packet=4265168361
+Updating window;
+Window state: [191(1), 192(1), 193(1), 194(1), 195(1), 196(1), 197(1), 198(1), 199(1), 200(1), ]
+Packet sent; type=DATA; seqNum=191;length=1456;checksum_in_packet=1320476143
+Packet received; type=ACK; seqNum=192;length=0;checksum_in_packet=2243640055
+Updating window;
+Window state: [192(1), 193(1), 194(1), 195(1), 196(1), 197(1), 198(1), 199(1), 200(1), 201(1), ]
+Packet sent; type=DATA; seqNum=192;length=1456;checksum_in_packet=2981103340
+Packet received; type=ACK; seqNum=193;length=0;checksum_in_packet=3101365063
+Updating window;
+Window state: [193(1), 194(1), 195(1), 196(1), 197(1), 198(1), 199(1), 200(1), 201(1), 202(1), ]
+Packet sent; type=DATA; seqNum=193;length=1456;checksum_in_packet=936655468
+Packet received; type=ACK; seqNum=194;length=0;checksum_in_packet=4286278039
+Updating window;
+Window state: [194(1), 195(1), 196(1), 197(1), 198(1), 199(1), 200(1), 201(1), 202(1), 203(1), ]
+Packet sent; type=DATA; seqNum=194;length=1456;checksum_in_packet=1058946220
+Packet received; type=ACK; seqNum=195;length=0;checksum_in_packet=3256565799
+Updating window;
+Window state: [195(1), 196(1), 197(1), 198(1), 199(1), 200(1), 201(1), 202(1), 203(1), 204(1), ]
+Packet sent; type=DATA; seqNum=195;length=1456;checksum_in_packet=2679253540
+Timeout for packet seqNum=195
+Packet received; type=ACK; seqNum=196;length=0;checksum_in_packet=1882954807
+Updating window;
+Window state: [196(1), 197(1), 198(1), 199(1), 200(1), 201(1), 202(1), 203(1), 204(1), 205(1), ]
+Packet sent; type=DATA; seqNum=196;length=1456;checksum_in_packet=1070691696
+Packet received; type=ACK; seqNum=197;length=0;checksum_in_packet=1297855879
+Updating window;
+Window state: [197(1), 198(1), 199(1), 200(1), 201(1), 202(1), 203(1), 204(1), 205(1), 206(1), ]
+Packet sent; type=DATA; seqNum=197;length=1456;checksum_in_packet=3075246118
+Packet received; type=ACK; seqNum=198;length=0;checksum_in_packet=184274775
+Updating window;
+Window state: [198(1), 199(1), 200(1), 201(1), 202(1), 203(1), 204(1), 205(1), 206(1), 207(1), ]
+Packet sent; type=DATA; seqNum=198;length=1456;checksum_in_packet=4020019843
+Timeout for packet seqNum=198
+Packet received; type=ACK; seqNum=199;length=0;checksum_in_packet=932964071
+Updating window;
+Window state: [199(1), 200(1), 201(1), 202(1), 203(1), 204(1), 205(1), 206(1), 207(1), 208(1), ]
+Packet sent; type=DATA; seqNum=199;length=1456;checksum_in_packet=3726568742
+Packet received; type=ACK; seqNum=200;length=0;checksum_in_packet=3050008886
+Updating window;
+Window state: [200(1), 201(1), 202(1), 203(1), 204(1), 205(1), 206(1), 207(1), 208(1), 209(1), ]
+Packet sent; type=DATA; seqNum=200;length=1456;checksum_in_packet=3834361633
+Packet received; type=ACK; seqNum=201;length=0;checksum_in_packet=2292930694
+Updating window;
+Window state: [201(1), 202(1), 203(1), 204(1), 205(1), 206(1), 207(1), 208(1), 209(1), 210(1), ]
+Packet sent; type=DATA; seqNum=201;length=1456;checksum_in_packet=1731132597
+Packet received; type=ACK; seqNum=202;length=0;checksum_in_packet=3473613398
+Updating window;
+Window state: [202(1), 203(1), 204(1), 205(1), 206(1), 207(1), 208(1), 209(1), 210(1), 211(1), ]
+Packet sent; type=DATA; seqNum=202;length=1456;checksum_in_packet=490868454
+Timeout for packet seqNum=202
+Packet received; type=ACK; seqNum=203;length=0;checksum_in_packet=4067101670
+Updating window;
+Window state: [203(1), 204(1), 205(1), 206(1), 207(1), 208(1), 209(1), 210(1), 211(1), 212(1), ]
+Packet sent; type=DATA; seqNum=203;length=1456;checksum_in_packet=1178588770
+Packet received; type=ACK; seqNum=204;length=0;checksum_in_packet=1078712310
+Updating window;
+Window state: [204(1), 205(1), 206(1), 207(1), 208(1), 209(1), 210(1), 211(1), 212(1), 213(1), ]
+Packet sent; type=DATA; seqNum=204;length=1456;checksum_in_packet=2033618091
+Packet received; type=ACK; seqNum=205;length=0;checksum_in_packet=2100035142
+Updating window;
+Window state: [205(1), 206(1), 207(1), 208(1), 209(1), 210(1), 211(1), 212(1), 213(1), 214(1), ]
+Packet sent; type=DATA; seqNum=205;length=1456;checksum_in_packet=3889080819
+Packet received; type=ACK; seqNum=206;length=0;checksum_in_packet=982221974
+Updating window;
+Window state: [206(1), 207(1), 208(1), 209(1), 210(1), 211(1), 212(1), 213(1), 214(1), 215(1), ]
+Packet sent; type=DATA; seqNum=206;length=1456;checksum_in_packet=1858685523
+Packet received; type=ACK; seqNum=207;length=0;checksum_in_packet=132885798
+Updating window;
+Window state: [207(1), 208(1), 209(1), 210(1), 211(1), 212(1), 213(1), 214(1), 215(1), 216(1), ]
+Packet sent; type=DATA; seqNum=207;length=1456;checksum_in_packet=242022348
+Packet received; type=ACK; seqNum=208;length=0;checksum_in_packet=3847990645
+Updating window;
+Window state: [208(1), 209(1), 210(1), 211(1), 212(1), 213(1), 214(1), 215(1), 216(1), 217(1), ]
+Packet sent; type=DATA; seqNum=208;length=1456;checksum_in_packet=1341936067
+Packet received; type=ACK; seqNum=209;length=0;checksum_in_packet=3627779269
+Updating window;
+Window state: [209(1), 210(1), 211(1), 212(1), 213(1), 214(1), 215(1), 216(1), 217(1), 218(1), ]
+Packet sent; type=DATA; seqNum=209;length=1456;checksum_in_packet=714387434
+Timeout for packet seqNum=209
+Packet received; type=ACK; seqNum=210;length=0;checksum_in_packet=2677800469
+Updating window;
+Window state: [210(1), 211(1), 212(1), 213(1), 214(1), 215(1), 216(1), 217(1), 218(1), 219(1), ]
+Packet sent; type=DATA; seqNum=210;length=1456;checksum_in_packet=179242754
+Packet received; type=ACK; seqNum=211;length=0;checksum_in_packet=2734413733
+Updating window;
+Window state: [211(1), 212(1), 213(1), 214(1), 215(1), 216(1), 217(1), 218(1), 219(1), 220(1), ]
+Packet sent; type=DATA; seqNum=211;length=1456;checksum_in_packet=2951177636
+Timeout for packet seqNum=211
+Packet received; type=ACK; seqNum=212;length=0;checksum_in_packet=282790837
+Updating window;
+Window state: [212(1), 213(1), 214(1), 215(1), 216(1), 217(1), 218(1), 219(1), 220(1), 221(1), ]
+Packet sent; type=DATA; seqNum=212;length=1456;checksum_in_packet=446275084
+Packet received; type=ACK; seqNum=213;length=0;checksum_in_packet=767238661
+Updating window;
+Window state: [213(1), 214(1), 215(1), 216(1), 217(1), 218(1), 219(1), 220(1), 221(1), 222(1), ]
+Packet sent; type=DATA; seqNum=213;length=1456;checksum_in_packet=1802579180
+Timeout for packet seqNum=213
+Packet received; type=ACK; seqNum=214;length=0;checksum_in_packet=1780177109
+Updating window;
+Window state: [214(1), 215(1), 216(1), 217(1), 218(1), 219(1), 220(1), 221(1), 222(1), 223(1), ]
+Packet sent; type=DATA; seqNum=214;length=1456;checksum_in_packet=2199118606
+Packet received; type=ACK; seqNum=215;length=0;checksum_in_packet=1467707749
+Updating window;
+Window state: [215(1), 216(1), 217(1), 218(1), 219(1), 220(1), 221(1), 222(1), 223(1), 224(1), ]
+Packet sent; type=DATA; seqNum=215;length=1456;checksum_in_packet=2883577217
+Packet received; type=ACK; seqNum=216;length=0;checksum_in_packet=3576424116
+Updating window;
+Window state: [216(1), 217(1), 218(1), 219(1), 220(1), 221(1), 222(1), 223(1), 224(1), 225(1), ]
+Packet sent; type=DATA; seqNum=216;length=1456;checksum_in_packet=2453185909
+Timeout for packet seqNum=216
+Packet received; type=ACK; seqNum=217;length=0;checksum_in_packet=3897282308
+Updating window;
+Window state: [217(1), 218(1), 219(1), 220(1), 221(1), 222(1), 223(1), 224(1), 225(1), 226(1), ]
+Packet sent; type=DATA; seqNum=217;length=1456;checksum_in_packet=3557418199
+Packet received; type=ACK; seqNum=218;length=0;checksum_in_packet=2951460308
+Updating window;
+Window state: [218(1), 219(1), 220(1), 221(1), 222(1), 223(1), 224(1), 225(1), 226(1), 227(1), ]
+Packet sent; type=DATA; seqNum=218;length=1456;checksum_in_packet=4131151639
+Packet received; type=ACK; seqNum=219;length=0;checksum_in_packet=2458623076
+Updating window;
+Window state: [219(1), 220(1), 221(1), 222(1), 223(1), 224(1), 225(1), 226(1), 227(1), 228(1), ]
+Packet sent; type=DATA; seqNum=219;length=1456;checksum_in_packet=3193078261
+Packet received; type=ACK; seqNum=220;length=0;checksum_in_packet=548094068
+Updating window;
+Window state: [220(1), 221(1), 222(1), 223(1), 224(1), 225(1), 226(1), 227(1), 228(1), 229(1), ]
+Packet sent; type=DATA; seqNum=220;length=1456;checksum_in_packet=691249680
+Timeout for packet seqNum=220
+Packet received; type=ACK; seqNum=221;length=0;checksum_in_packet=499870148
+Updating window;
+Window state: [221(1), 222(1), 223(1), 224(1), 225(1), 226(1), 227(1), 228(1), 229(1), 230(1), ]
+Packet sent; type=DATA; seqNum=221;length=1456;checksum_in_packet=3931827825
+Packet received; type=ACK; seqNum=222;length=0;checksum_in_packet=1516966676
+Updating window;
+Window state: [222(1), 223(1), 224(1), 225(1), 226(1), 227(1), 228(1), 229(1), 230(1), 231(1), ]
+Packet sent; type=DATA; seqNum=222;length=1456;checksum_in_packet=1510448721
+Packet received; type=ACK; seqNum=223;length=0;checksum_in_packet=1728789156
+Updating window;
+Window state: [223(1), 224(1), 225(1), 226(1), 227(1), 228(1), 229(1), 230(1), 231(1), 232(1), ]
+Packet sent; type=DATA; seqNum=223;length=1456;checksum_in_packet=3285146958
+Packet received; type=ACK; seqNum=224;length=0;checksum_in_packet=1148851699
+Updating window;
+Window state: [224(1), 225(1), 226(1), 227(1), 228(1), 229(1), 230(1), 231(1), 232(1), 233(1), ]
+Packet sent; type=DATA; seqNum=224;length=1456;checksum_in_packet=1729092409
+Packet received; type=ACK; seqNum=225;length=0;checksum_in_packet=2031762499
+Updating window;
+Window state: [225(1), 226(1), 227(1), 228(1), 229(1), 230(1), 231(1), 232(1), 233(1), 234(1), ]
+Packet sent; type=DATA; seqNum=225;length=1456;checksum_in_packet=713523480
+Packet received; type=ACK; seqNum=226;length=0;checksum_in_packet=1052395155
+Updating window;
+Window state: [226(1), 227(1), 228(1), 229(1), 230(1), 231(1), 232(1), 233(1), 234(1), 235(1), ]
+Packet sent; type=DATA; seqNum=226;length=1456;checksum_in_packet=3978166689
+Packet received; type=ACK; seqNum=227;length=0;checksum_in_packet=64646947
+Updating window;
+Window state: [227(1), 228(1), 229(1), 230(1), 231(1), 232(1), 233(1), 234(1), 235(1), 236(1), ]
+Packet sent; type=DATA; seqNum=227;length=1456;checksum_in_packet=4215408902
+Timeout for packet seqNum=227
+Packet received; type=ACK; seqNum=228;length=0;checksum_in_packet=2985997107
+Updating window;
+Window state: [228(1), 229(1), 230(1), 231(1), 232(1), 233(1), 234(1), 235(1), 236(1), 237(1), ]
+Packet sent; type=DATA; seqNum=228;length=1456;checksum_in_packet=1874309294
+Packet received; type=ACK; seqNum=229;length=0;checksum_in_packet=2358942339
+Updating window;
+Window state: [229(1), 230(1), 231(1), 232(1), 233(1), 234(1), 235(1), 236(1), 237(1), 238(1), ]
+Packet sent; type=DATA; seqNum=229;length=1456;checksum_in_packet=16381002
+Packet received; type=ACK; seqNum=230;length=0;checksum_in_packet=3409633363
+Updating window;
+Window state: [230(1), 231(1), 232(1), 233(1), 234(1), 235(1), 236(1), 237(1), 238(1), 239(1), ]
+Packet sent; type=DATA; seqNum=230;length=1456;checksum_in_packet=3169758021
+Timeout for packet seqNum=230
+Packet received; type=ACK; seqNum=231;length=0;checksum_in_packet=4133145059
+Updating window;
+Window state: [231(1), 232(1), 233(1), 234(1), 235(1), 236(1), 237(1), 238(1), 239(1), 240(1), ]
+Packet sent; type=DATA; seqNum=231;length=1456;checksum_in_packet=4161273284
+Packet received; type=ACK; seqNum=232;length=0;checksum_in_packet=1946836530
+Updating window;
+Window state: [232(1), 233(1), 234(1), 235(1), 236(1), 237(1), 238(1), 239(1), 240(1), 241(1), ]
+Packet sent; type=DATA; seqNum=232;length=1456;checksum_in_packet=3305414655
+Packet received; type=ACK; seqNum=233;length=0;checksum_in_packet=1231714178
+Updating window;
+Window state: [233(1), 234(1), 235(1), 236(1), 237(1), 238(1), 239(1), 240(1), 241(1), 242(1), ]
+Packet sent; type=DATA; seqNum=233;length=1456;checksum_in_packet=437984438
+Packet received; type=ACK; seqNum=234;length=0;checksum_in_packet=248122706
+Updating window;
+Window state: [234(1), 235(1), 236(1), 237(1), 238(1), 239(1), 240(1), 241(1), 242(1), 243(1), ]
+Packet sent; type=DATA; seqNum=234;length=1456;checksum_in_packet=2375616073
+Timeout for packet seqNum=234
+Packet received; type=ACK; seqNum=235;length=0;checksum_in_packet=866788578
+Updating window;
+Window state: [235(1), 236(1), 237(1), 238(1), 239(1), 240(1), 241(1), 242(1), 243(1), 244(1), ]
+Packet sent; type=DATA; seqNum=235;length=1456;checksum_in_packet=3812191932
+Packet received; type=ACK; seqNum=236;length=0;checksum_in_packet=2173368562
+Updating window;
+Window state: [236(1), 237(1), 238(1), 239(1), 240(1), 241(1), 242(1), 243(1), 244(1), 245(1), ]
+Packet sent; type=DATA; seqNum=236;length=1456;checksum_in_packet=3606807445
+Packet received; type=ACK; seqNum=237;length=0;checksum_in_packet=3169505602
+Updating window;
+Window state: [237(1), 238(1), 239(1), 240(1), 241(1), 242(1), 243(1), 244(1), 245(1), 246(1), ]
+Packet sent; type=DATA; seqNum=237;length=1456;checksum_in_packet=3634022213
+Packet received; type=ACK; seqNum=238;length=0;checksum_in_packet=4215974802
+Updating window;
+Window state: [238(1), 239(1), 240(1), 241(1), 242(1), 243(1), 244(1), 245(1), 246(1), 247(1), ]
+Packet sent; type=DATA; seqNum=238;length=1456;checksum_in_packet=2940259145
+Packet received; type=ACK; seqNum=239;length=0;checksum_in_packet=3324674594
+Updating window;
+Window state: [239(1), 240(1), 241(1), 242(1), 243(1), 244(1), 245(1), 246(1), 247(1), 248(1), ]
+Packet sent; type=DATA; seqNum=239;length=1456;checksum_in_packet=1364660101
+Packet received; type=ACK; seqNum=240;length=0;checksum_in_packet=614105713
+Updating window;
+Window state: [240(1), 241(1), 242(1), 243(1), 244(1), 245(1), 246(1), 247(1), 248(1), 249(1), ]
+Packet sent; type=DATA; seqNum=240;length=1456;checksum_in_packet=4233303693
+Packet received; type=ACK; seqNum=241;length=0;checksum_in_packet=435858369
+Updating window;
+Window state: [241(1), 242(1), 243(1), 244(1), 245(1), 246(1), 247(1), 248(1), 249(1), 250(1), ]
+Packet sent; type=DATA; seqNum=241;length=1456;checksum_in_packet=1571954324
+Packet received; type=ACK; seqNum=242;length=0;checksum_in_packet=1583010065
+Updating window;
+Window state: [242(1), 243(1), 244(1), 245(1), 246(1), 247(1), 248(1), 249(1), 250(1), 251(1), ]
+Packet sent; type=DATA; seqNum=242;length=1456;checksum_in_packet=964926061
+Timeout for packet seqNum=242
+Timeout for packet seqNum=242
+Packet received; type=ACK; seqNum=243;length=0;checksum_in_packet=1664809121
+Updating window;
+Window state: [243(1), 244(1), 245(1), 246(1), 247(1), 248(1), 249(1), 250(1), 251(1), 252(1), ]
+Packet sent; type=DATA; seqNum=243;length=1456;checksum_in_packet=3928675715
+Packet received; type=ACK; seqNum=244;length=0;checksum_in_packet=3508151473
+Updating window;
+Window state: [244(1), 245(1), 246(1), 247(1), 248(1), 249(1), 250(1), 251(1), 252(1), 253(1), ]
+Packet sent; type=DATA; seqNum=244;length=1456;checksum_in_packet=1197891094
+Packet received; type=ACK; seqNum=245;length=0;checksum_in_packet=3967421697
+Updating window;
+Window state: [245(1), 246(1), 247(1), 248(1), 249(1), 250(1), 251(1), 252(1), 253(1), 254(1), ]
+Packet sent; type=DATA; seqNum=245;length=1456;checksum_in_packet=1525359608
+Timeout for packet seqNum=245
+Packet received; type=ACK; seqNum=246;length=0;checksum_in_packet=2883221457
+Updating window;
+Window state: [246(1), 247(1), 248(1), 249(1), 250(1), 251(1), 252(1), 253(1), 254(1), 255(1), ]
+Packet sent; type=DATA; seqNum=246;length=1456;checksum_in_packet=545241732
+Packet received; type=ACK; seqNum=247;length=0;checksum_in_packet=2528796257
+Updating window;
+Window state: [247(1), 248(1), 249(1), 250(1), 251(1), 252(1), 253(1), 254(1), 255(1), 256(1), ]
+Packet sent; type=DATA; seqNum=247;length=1456;checksum_in_packet=3240579448
+Packet received; type=ACK; seqNum=248;length=0;checksum_in_packet=350931376
+Updating window;
+Window state: [248(1), 249(1), 250(1), 251(1), 252(1), 253(1), 254(1), 255(1), 256(1), 257(1), ]
+Packet sent; type=DATA; seqNum=248;length=1456;checksum_in_packet=2361204849
+Packet received; type=ACK; seqNum=249;length=0;checksum_in_packet=696967168
+Updating window;
+Window state: [249(1), 250(1), 251(1), 252(1), 253(1), 254(1), 255(1), 256(1), 257(1), 258(1), ]
+Packet sent; type=DATA; seqNum=249;length=1456;checksum_in_packet=3227704045
+Packet received; type=ACK; seqNum=250;length=0;checksum_in_packet=1848285904
+Updating window;
+Window state: [250(1), 251(1), 252(1), 253(1), 254(1), 255(1), 256(1), 257(1), 258(1), 259(1), ]
+Packet sent; type=DATA; seqNum=250;length=1456;checksum_in_packet=2911163965
+Packet received; type=ACK; seqNum=251;length=0;checksum_in_packet=1397404512
+Updating window;
+Window state: [251(1), 252(1), 253(1), 254(1), 255(1), 256(1), 257(1), 258(1), 259(1), 260(1), ]
+Packet sent; type=DATA; seqNum=251;length=1456;checksum_in_packet=482766433
+Timeout for packet seqNum=251
+Packet received; type=ACK; seqNum=252;length=0;checksum_in_packet=3781848944
+Updating window;
+Window state: [252(1), 253(1), 254(1), 255(1), 256(1), 257(1), 258(1), 259(1), 260(1), 261(1), ]
+Packet sent; type=DATA; seqNum=252;length=1456;checksum_in_packet=2343538481
+Packet received; type=ACK; seqNum=253;length=0;checksum_in_packet=3691660992
+Updating window;
+Window state: [253(1), 254(1), 255(1), 256(1), 257(1), 258(1), 259(1), 260(1), 261(1), 262(1), ]
+Packet sent; type=DATA; seqNum=253;length=1456;checksum_in_packet=51885517
+Packet received; type=ACK; seqNum=254;length=0;checksum_in_packet=2611624976
+Updating window;
+Window state: [254(1), 255(1), 256(1), 257(1), 258(1), 259(1), 260(1), 261(1), 262(1), 263(1), ]
+Packet sent; type=DATA; seqNum=254;length=1456;checksum_in_packet=2192350213
+Packet received; type=ACK; seqNum=255;length=0;checksum_in_packet=2798261664
+Updating window;
+Window state: [255(1), 256(1), 257(1), 258(1), 259(1), 260(1), 261(1), 262(1), 263(1), 264(1), ]
+Packet sent; type=DATA; seqNum=255;length=1456;checksum_in_packet=1870188655
+Packet received; type=ACK; seqNum=256;length=0;checksum_in_packet=2817655177
+Updating window;
+Window state: [256(1), 257(1), 258(1), 259(1), 260(1), 261(1), 262(1), 263(1), 264(1), 265(1), ]
+Packet sent; type=DATA; seqNum=256;length=1456;checksum_in_packet=3249661520
+Timeout for packet seqNum=256
+Packet received; type=ACK; seqNum=257;length=0;checksum_in_packet=2593269817
+Updating window;
+Window state: [257(1), 258(1), 259(1), 260(1), 261(1), 262(1), 263(1), 264(1), 265(1), 266(1), ]
+Packet sent; type=DATA; seqNum=257;length=1456;checksum_in_packet=2577901601
+Timeout for packet seqNum=257
+Packet received; type=ACK; seqNum=258;length=0;checksum_in_packet=3711062761
+Updating window;
+Window state: [258(1), 259(1), 260(1), 261(1), 262(1), 263(1), 264(1), 265(1), 266(1), 267(1), ]
+Packet sent; type=DATA; seqNum=258;length=1456;checksum_in_packet=3713317110
+Timeout for packet seqNum=258
+Packet received; type=ACK; seqNum=259;length=0;checksum_in_packet=3763501913
+Updating window;
+Window state: [259(1), 260(1), 261(1), 262(1), 263(1), 264(1), 265(1), 266(1), 267(1), 268(1), ]
+Packet sent; type=DATA; seqNum=259;length=1456;checksum_in_packet=3346210511
+Packet received; type=ACK; seqNum=260;length=0;checksum_in_packet=1383245641
+Updating window;
+Window state: [260(1), 261(1), 262(1), 263(1), 264(1), 265(1), 266(1), 267(1), 268(1), 269(1), ]
+Packet sent; type=DATA; seqNum=260;length=1456;checksum_in_packet=2247020787
+Packet received; type=ACK; seqNum=261;length=0;checksum_in_packet=1863487225
+Updating window;
+Window state: [261(1), 262(1), 263(1), 264(1), 265(1), 266(1), 267(1), 268(1), 269(1), 270(1), ]
+Packet sent; type=DATA; seqNum=261;length=1456;checksum_in_packet=671866831
+Timeout for packet seqNum=261
+Packet received; type=ACK; seqNum=262;length=0;checksum_in_packet=682816553
+Updating window;
+Window state: [262(1), 263(1), 264(1), 265(1), 266(1), 267(1), 268(1), 269(1), 270(1), 271(1), ]
+Packet sent; type=DATA; seqNum=262;length=1456;checksum_in_packet=2130624558
+Packet received; type=ACK; seqNum=263;length=0;checksum_in_packet=366140825
+Updating window;
+Window state: [263(1), 264(1), 265(1), 266(1), 267(1), 268(1), 269(1), 270(1), 271(1), 272(1), ]
+Packet sent; type=DATA; seqNum=263;length=1456;checksum_in_packet=981524246
+Packet received; type=ACK; seqNum=264;length=0;checksum_in_packet=2541898312
+Updating window;
+Window state: [264(1), 265(1), 266(1), 267(1), 268(1), 269(1), 270(1), 271(1), 272(1), 273(1), ]
+Packet sent; type=DATA; seqNum=264;length=1456;checksum_in_packet=1342363484
+Packet received; type=ACK; seqNum=265;length=0;checksum_in_packet=2866963448
+Updating window;
+Window state: [265(1), 266(1), 267(1), 268(1), 269(1), 270(1), 271(1), 272(1), 273(1), 274(1), ]
+Packet sent; type=DATA; seqNum=265;length=1456;checksum_in_packet=3483353465
+Packet received; type=ACK; seqNum=266;length=0;checksum_in_packet=3980532008
+Updating window;
+Window state: [266(1), 267(1), 268(1), 269(1), 270(1), 271(1), 272(1), 273(1), 274(1), 275(1), ]
+Packet sent; type=DATA; seqNum=266;length=1456;checksum_in_packet=2737187917
+Packet received; type=ACK; seqNum=267;length=0;checksum_in_packet=3491901592
+Updating window;
+Window state: [267(1), 268(1), 269(1), 270(1), 271(1), 272(1), 273(1), 274(1), 275(1), 276(1), ]
+Packet sent; type=DATA; seqNum=267;length=1456;checksum_in_packet=3095801343
+Packet received; type=ACK; seqNum=268;length=0;checksum_in_packet=1644358792
+Updating window;
+Window state: [268(1), 269(1), 270(1), 271(1), 272(1), 273(1), 274(1), 275(1), 276(1), 277(1), ]
+Packet sent; type=DATA; seqNum=268;length=1456;checksum_in_packet=3300238809
+Packet received; type=ACK; seqNum=269;length=0;checksum_in_packet=1600308536
+Updating window;
+Window state: [269(1), 270(1), 271(1), 272(1), 273(1), 274(1), 275(1), 276(1), 277(1), 278(1), ]
+Packet sent; type=DATA; seqNum=269;length=1456;checksum_in_packet=141840338
+Packet received; type=ACK; seqNum=270;length=0;checksum_in_packet=415416296
+Updating window;
+Window state: [270(1), 271(1), 272(1), 273(1), 274(1), 275(1), 276(1), 277(1), 278(1), 279(1), ]
+Packet sent; type=DATA; seqNum=270;length=1456;checksum_in_packet=313192872
+Packet received; type=ACK; seqNum=271;length=0;checksum_in_packet=631412312
+Updating window;
+Window state: [271(1), 272(1), 273(1), 274(1), 275(1), 276(1), 277(1), 278(1), 279(1), 280(1), ]
+Packet sent; type=DATA; seqNum=271;length=1456;checksum_in_packet=2356021173
+Timeout for packet seqNum=271
+Packet received; type=ACK; seqNum=272;length=0;checksum_in_packet=3339884043
+Updating window;
+Window state: [272(1), 273(1), 274(1), 275(1), 276(1), 277(1), 278(1), 279(1), 280(1), 281(1), ]
+Packet sent; type=DATA; seqNum=272;length=1456;checksum_in_packet=536307786
+Packet received; type=ACK; seqNum=273;length=0;checksum_in_packet=4201824187
+Updating window;
+Window state: [273(1), 274(1), 275(1), 276(1), 277(1), 278(1), 279(1), 280(1), 281(1), 282(1), ]
+Packet sent; type=DATA; seqNum=273;length=1456;checksum_in_packet=3886703743
+Packet received; type=ACK; seqNum=274;length=0;checksum_in_packet=3184706923
+Updating window;
+Window state: [274(1), 275(1), 276(1), 277(1), 278(1), 279(1), 280(1), 281(1), 282(1), 283(1), ]
+Packet sent; type=DATA; seqNum=274;length=1456;checksum_in_packet=2954223346
+Packet received; type=ACK; seqNum=275;length=0;checksum_in_packet=2159209691
+Updating window;
+Window state: [275(1), 276(1), 277(1), 278(1), 279(1), 280(1), 281(1), 282(1), 283(1), 284(1), ]
+Packet sent; type=DATA; seqNum=275;length=1456;checksum_in_packet=2891965450
+Timeout for packet seqNum=275
+Packet received; type=ACK; seqNum=276;length=0;checksum_in_packet=848441547
+Updating window;
+Window state: [276(1), 277(1), 278(1), 279(1), 280(1), 281(1), 282(1), 283(1), 284(1), 285(1), ]
+Packet sent; type=DATA; seqNum=276;length=1456;checksum_in_packet=1456903427
+Timeout for packet seqNum=276
+Packet received; type=ACK; seqNum=277;length=0;checksum_in_packet=267524475
+Updating window;
+Window state: [277(1), 278(1), 279(1), 280(1), 281(1), 282(1), 283(1), 284(1), 285(1), 286(1), ]
+Packet sent; type=DATA; seqNum=277;length=1456;checksum_in_packet=3049322296
+Timeout for packet seqNum=277
+Timeout for packet seqNum=277
+Timeout for packet seqNum=277
+Packet received; type=ACK; seqNum=278;length=0;checksum_in_packet=1213359019
+Updating window;
+Window state: [278(1), 279(1), 280(1), 281(1), 282(1), 283(1), 284(1), 285(1), 286(1), 287(1), ]
+Packet sent; type=DATA; seqNum=278;length=1456;checksum_in_packet=75167031
+Packet received; type=ACK; seqNum=279;length=0;checksum_in_packet=1966230043
+Updating window;
+Window state: [279(1), 280(1), 281(1), 282(1), 283(1), 284(1), 285(1), 286(1), 287(1), 288(1), ]
+Packet sent; type=DATA; seqNum=279;length=1456;checksum_in_packet=3891561718
+Packet received; type=ACK; seqNum=280;length=0;checksum_in_packet=4150451658
+Updating window;
+Window state: [280(1), 281(1), 282(1), 283(1), 284(1), 285(1), 286(1), 287(1), 288(1), 289(1), ]
+Packet sent; type=DATA; seqNum=280;length=1456;checksum_in_packet=2256170146
+Packet received; type=ACK; seqNum=281;length=0;checksum_in_packet=3389191290
+Updating window;
+Window state: [281(1), 282(1), 283(1), 284(1), 285(1), 286(1), 287(1), 288(1), 289(1), 290(1), ]
+Packet sent; type=DATA; seqNum=281;length=1456;checksum_in_packet=3082150512
+Packet received; type=ACK; seqNum=282;length=0;checksum_in_packet=2376240810
+Updating window;
+Window state: [282(1), 283(1), 284(1), 285(1), 286(1), 287(1), 288(1), 289(1), 290(1), 291(1), ]
+Packet sent; type=DATA; seqNum=282;length=1456;checksum_in_packet=2087032072
+Packet received; type=ACK; seqNum=283;length=0;checksum_in_packet=2965546778
+Updating window;
+Window state: [283(1), 284(1), 285(1), 286(1), 287(1), 288(1), 289(1), 290(1), 291(1), 292(1), ]
+Packet sent; type=DATA; seqNum=283;length=1456;checksum_in_packet=3639659990
+Packet received; type=ACK; seqNum=284;length=0;checksum_in_packet=48397066
+Updating window;
+Window state: [284(1), 285(1), 286(1), 287(1), 288(1), 289(1), 290(1), 291(1), 292(1), 293(1), ]
+Packet sent; type=DATA; seqNum=284;length=1456;checksum_in_packet=3442801627
+Packet received; type=ACK; seqNum=285;length=0;checksum_in_packet=1065505466
+Updating window;
+Window state: [285(1), 286(1), 287(1), 288(1), 289(1), 290(1), 291(1), 292(1), 293(1), 294(1), ]
+Packet sent; type=DATA; seqNum=285;length=1456;checksum_in_packet=1293030610
+Packet received; type=ACK; seqNum=286;length=0;checksum_in_packet=2015504490
+Updating window;
+Window state: [286(1), 287(1), 288(1), 289(1), 290(1), 291(1), 292(1), 293(1), 294(1), 295(1), ]
+Packet sent; type=DATA; seqNum=286;length=1456;checksum_in_packet=881191239
+Timeout for packet seqNum=286
+Packet received; type=ACK; seqNum=287;length=0;checksum_in_packet=1161953754
+Updating window;
+Window state: [287(1), 288(1), 289(1), 290(1), 291(1), 292(1), 293(1), 294(1), 295(1), 296(1), ]
+Packet sent; type=DATA; seqNum=287;length=1456;checksum_in_packet=816101904
+Timeout for packet seqNum=287
+Packet received; type=ACK; seqNum=288;length=0;checksum_in_packet=1714630285
+Updating window;
+Window state: [288(1), 289(1), 290(1), 291(1), 292(1), 293(1), 294(1), 295(1), 296(1), 297(1), ]
+Packet sent; type=DATA; seqNum=288;length=1456;checksum_in_packet=3631995703
+Packet received; type=ACK; seqNum=289;length=0;checksum_in_packet=1532167997
+Updating window;
+Window state: [289(1), 290(1), 291(1), 292(1), 293(1), 294(1), 295(1), 296(1), 297(1), 298(1), ]
+Packet sent; type=DATA; seqNum=289;length=1456;checksum_in_packet=3436573276
+Packet received; type=ACK; seqNum=290;length=0;checksum_in_packet=485719533
+Updating window;
+Window state: [290(1), 291(1), 292(1), 293(1), 294(1), 295(1), 296(1), 297(1), 298(1), 299(1), ]
+Packet sent; type=DATA; seqNum=290;length=1456;checksum_in_packet=4094648061
+Packet received; type=ACK; seqNum=291;length=0;checksum_in_packet=563303517
+Updating window;
+Window state: [291(1), 292(1), 293(1), 294(1), 295(1), 296(1), 297(1), 298(1), 299(1), 300(1), ]
+Packet sent; type=DATA; seqNum=291;length=1456;checksum_in_packet=2173987344
+Timeout for packet seqNum=291
+Packet received; type=ACK; seqNum=292;length=0;checksum_in_packet=2478016589
+Updating window;
+Window state: [292(1), 293(1), 294(1), 295(1), 296(1), 297(1), 298(1), 299(1), 300(1), 301(1), ]
+Packet sent; type=DATA; seqNum=292;length=1456;checksum_in_packet=785442782
+Packet received; type=ACK; seqNum=293;length=0;checksum_in_packet=2933105149
+Updating window;
+Window state: [293(1), 294(1), 295(1), 296(1), 297(1), 298(1), 299(1), 300(1), 301(1), 302(1), ]
+Packet sent; type=DATA; seqNum=293;length=1456;checksum_in_packet=1733945876
+Packet received; type=ACK; seqNum=294;length=0;checksum_in_packet=3916684077
+Updating window;
+Window state: [294(1), 295(1), 296(1), 297(1), 298(1), 299(1), 300(1), 301(1), 302(1), 303(1), ]
+Packet sent; type=DATA; seqNum=294;length=1456;checksum_in_packet=377837908
+Packet received; type=ACK; seqNum=295;length=0;checksum_in_packet=3558077085
+Updating window;
+Window state: [295(1), 296(1), 297(1), 298(1), 299(1), 300(1), 301(1), 302(1), 303(1), 304(1), ]
+Packet sent; type=DATA; seqNum=295;length=1456;checksum_in_packet=157952489
+Packet received; type=ACK; seqNum=296;length=0;checksum_in_packet=1447257420
+Updating window;
+Window state: [296(1), 297(1), 298(1), 299(1), 300(1), 301(1), 302(1), 303(1), 304(1), 305(1), ]
+Packet sent; type=DATA; seqNum=296;length=1456;checksum_in_packet=1955747433
+Packet sent; type=DATA; seqNum=298;length=1456;checksum_in_packet=1896106681
+Timeout for packet seqNum=297
+Packet received; type=ACK; seqNum=298;length=0;checksum_in_packet=746796588
+Updating window;
+Window state: [298(0), 299(1), 300(1), 301(1), 302(1), 303(1), 304(1), 305(1), 306(1), 307(1), ]
+Packet sent; type=DATA; seqNum=298;length=1456;checksum_in_packet=1896106681
+Packet received; type=ACK; seqNum=299;length=0;checksum_in_packet=300097436
+Updating window;
+Window state: [299(1), 300(1), 301(1), 302(1), 303(1), 304(1), 305(1), 306(1), 307(1), 308(1), ]
+Packet sent; type=DATA; seqNum=299;length=1456;checksum_in_packet=1947985320
+Timeout for packet seqNum=299
+Packet received; type=ACK; seqNum=300;length=0;checksum_in_packet=2747515788
+Updating window;
+Window state: [300(1), 301(1), 302(1), 303(1), 304(1), 305(1), 306(1), 307(1), 308(1), 309(1), ]
+Packet sent; type=DATA; seqNum=300;length=1456;checksum_in_packet=1487645326
+Packet received; type=ACK; seqNum=301;length=0;checksum_in_packet=2661542460
+Updating window;
+Window state: [301(1), 302(1), 303(1), 304(1), 305(1), 306(1), 307(1), 308(1), 309(1), 310(1), ]
+Packet sent; type=DATA; seqNum=301;length=1456;checksum_in_packet=2636138144
+Packet received; type=ACK; seqNum=302;length=0;checksum_in_packet=3640889580
+Updating window;
+Window state: [302(1), 303(1), 304(1), 305(1), 306(1), 307(1), 308(1), 309(1), 310(1), 311(1), ]
+Packet sent; type=DATA; seqNum=302;length=1456;checksum_in_packet=926781563
+Timeout for packet seqNum=302
+Packet received; type=ACK; seqNum=303;length=0;checksum_in_packet=3831740764
+Updating window;
+Window state: [303(1), 304(1), 305(1), 306(1), 307(1), 308(1), 309(1), 310(1), 311(1), 312(1), ]
+Packet sent; type=DATA; seqNum=303;length=1456;checksum_in_packet=1135763413
+Packet received; type=ACK; seqNum=304;length=0;checksum_in_packet=114538767
+Updating window;
+Window state: [304(1), 305(1), 306(1), 307(1), 308(1), 309(1), 310(1), 311(1), 312(1), 313(1), ]
+Packet sent; type=DATA; seqNum=304;length=1456;checksum_in_packet=3524566393
+Packet received; type=ACK; seqNum=305;length=0;checksum_in_packet=1001623743
+Updating window;
+Window state: [305(1), 306(1), 307(1), 308(1), 309(1), 310(1), 311(1), 312(1), 313(1), 314(1), ]
+Packet sent; type=DATA; seqNum=305;length=1456;checksum_in_packet=799217907
+Packet received; type=ACK; seqNum=306;length=0;checksum_in_packet=2081679983
+Updating window;
+Window state: [306(1), 307(1), 308(1), 309(1), 310(1), 311(1), 312(1), 313(1), 314(1), 315(1), ]
+Packet sent; type=DATA; seqNum=306;length=1456;checksum_in_packet=1967535130
+Packet received; type=ACK; seqNum=307;length=0;checksum_in_packet=1098105823
+Updating window;
+Window state: [307(1), 308(1), 309(1), 310(1), 311(1), 312(1), 313(1), 314(1), 315(1), 316(1), ]
+Packet sent; type=DATA; seqNum=307;length=1456;checksum_in_packet=3280749351
+Packet received; type=ACK; seqNum=308;length=0;checksum_in_packet=4082311119
+Updating window;
+Window state: [308(1), 309(1), 310(1), 311(1), 312(1), 313(1), 314(1), 315(1), 316(1), 317(1), ]
+Packet sent; type=DATA; seqNum=308;length=1456;checksum_in_packet=3411815171
+Packet received; type=ACK; seqNum=309;length=0;checksum_in_packet=3459462783
+Updating window;
+Window state: [309(1), 310(1), 311(1), 312(1), 313(1), 314(1), 315(1), 316(1), 317(1), 318(1), ]
+Packet sent; type=DATA; seqNum=309;length=1456;checksum_in_packet=1960157272
+Packet received; type=ACK; seqNum=310;length=0;checksum_in_packet=2308132015
+Updating window;
+Window state: [310(1), 311(1), 312(1), 313(1), 314(1), 315(1), 316(1), 317(1), 318(1), 319(1), ]
+Packet sent; type=DATA; seqNum=310;length=1456;checksum_in_packet=444318244
+Packet received; type=ACK; seqNum=311;length=0;checksum_in_packet=3035850015
+Updating window;
+Window state: [311(1), 312(1), 313(1), 314(1), 315(1), 316(1), 317(1), 318(1), 319(1), 320(1), ]
+Packet sent; type=DATA; seqNum=311;length=1456;checksum_in_packet=1259937660
+Packet received; type=ACK; seqNum=312;length=0;checksum_in_packet=916714190
+Updating window;
+Window state: [312(1), 313(1), 314(1), 315(1), 316(1), 317(1), 318(1), 319(1), 320(1), 321(1), ]
+Packet sent; type=DATA; seqNum=312;length=1456;checksum_in_packet=3718888977
+Packet received; type=ACK; seqNum=313;length=0;checksum_in_packet=197385086
+Updating window;
+Window state: [313(1), 314(1), 315(1), 316(1), 317(1), 318(1), 319(1), 320(1), 321(1), 322(1), ]
+Packet sent; type=DATA; seqNum=313;length=1456;checksum_in_packet=3306103665
+Packet received; type=ACK; seqNum=314;length=0;checksum_in_packet=1281597870
+Updating window;
+Window state: [314(1), 315(1), 316(1), 317(1), 318(1), 319(1), 320(1), 321(1), 322(1), 323(1), ]
+Packet sent; type=DATA; seqNum=314;length=1456;checksum_in_packet=3503587228
+Timeout for packet seqNum=314
+Packet received; type=ACK; seqNum=315;length=0;checksum_in_packet=1896056862
+Updating window;
+Window state: [315(1), 316(1), 317(1), 318(1), 319(1), 320(1), 321(1), 322(1), 323(1), 324(1), ]
+Packet sent; type=DATA; seqNum=315;length=1456;checksum_in_packet=2356440680
+Packet received; type=ACK; seqNum=316;length=0;checksum_in_packet=3273872398
+Updating window;
+Window state: [316(1), 317(1), 318(1), 319(1), 320(1), 321(1), 322(1), 323(1), 324(1), 325(1), ]
+Packet sent; type=DATA; seqNum=316;length=1456;checksum_in_packet=3853503798
+Packet received; type=ACK; seqNum=317;length=0;checksum_in_packet=4265835966
+Updating window;
+Window state: [317(1), 318(1), 319(1), 320(1), 321(1), 322(1), 323(1), 324(1), 325(1), 326(1), ]
+Packet sent; type=DATA; seqNum=317;length=1456;checksum_in_packet=1014500217
+Timeout for packet seqNum=317
+Packet received; type=ACK; seqNum=318;length=0;checksum_in_packet=3118663534
+Updating window;
+Window state: [318(1), 319(1), 320(1), 321(1), 322(1), 323(1), 324(1), 325(1), 326(1), 327(1), ]
+Packet sent; type=DATA; seqNum=318;length=1456;checksum_in_packet=3279803434
+Packet received; type=ACK; seqNum=319;length=0;checksum_in_packet=2223189726
+Updating window;
+Window state: [319(1), 320(1), 321(1), 322(1), 323(1), 324(1), 325(1), 326(1), 327(1), 328(1), ]
+Packet sent; type=DATA; seqNum=319;length=1456;checksum_in_packet=175970242
+Timeout for packet seqNum=319
+Packet received; type=ACK; seqNum=320;length=0;checksum_in_packet=4278278592
+Updating window;
+Window state: [320(1), 321(1), 322(1), 323(1), 324(1), 325(1), 326(1), 327(1), 328(1), 329(1), ]
+Packet sent; type=DATA; seqNum=320;length=1456;checksum_in_packet=545554175
+Packet received; type=ACK; seqNum=321;length=0;checksum_in_packet=3261165680
+Updating window;
+Window state: [321(1), 322(1), 323(1), 324(1), 325(1), 326(1), 327(1), 328(1), 329(1), 330(1), ]
+Packet sent; type=DATA; seqNum=321;length=1456;checksum_in_packet=542356882
+Timeout for packet seqNum=321
+Packet received; type=ACK; seqNum=322;length=0;checksum_in_packet=2244020896
+Updating window;
+Window state: [322(1), 323(1), 324(1), 325(1), 326(1), 327(1), 328(1), 329(1), 330(1), 331(1), ]
+Packet sent; type=DATA; seqNum=322;length=1456;checksum_in_packet=1942743715
+Packet received; type=ACK; seqNum=323;length=0;checksum_in_packet=3097568016
+Updating window;
+Window state: [323(1), 324(1), 325(1), 326(1), 327(1), 328(1), 329(1), 330(1), 331(1), 332(1), ]
+Packet sent; type=DATA; seqNum=323;length=1456;checksum_in_packet=2485511313
+Packet received; type=ACK; seqNum=324;length=0;checksum_in_packet=176291584
+Updating window;
+Window state: [324(1), 325(1), 326(1), 327(1), 328(1), 329(1), 330(1), 331(1), 332(1), 333(1), ]
+Packet sent; type=DATA; seqNum=324;length=1456;checksum_in_packet=32583688
+Packet received; type=ACK; seqNum=325;length=0;checksum_in_packet=937547440
+Updating window;
+Window state: [325(1), 326(1), 327(1), 328(1), 329(1), 330(1), 331(1), 332(1), 333(1), 334(1), ]
+Packet sent; type=DATA; seqNum=325;length=1456;checksum_in_packet=3471003412
+mWcWEwxCrgwu5CmZgsu3BChupx9MaIhfyLe8/TKx6G1oMeaPHGzB
+AU5jxCKIxSM5glx1ycXdYg4idtkA4ejsVkqhKqaqj7QUXiVXcSyuEsQNPtGYpbyL3efxFEqlscIC
+etvhA1/uhLgw3wma1ANoOqcFyVLDPVGAJLgCCHLpd9T/THkt/12s+uKH0Qtp9ZsHPacket received; type=ACK; seqNum=326;length=0;checksum_in_packet=1883352160
+Updating window;
+Window state: [326(1), 327(1), 328(1), 329(1), 330(1), 331(1), 332(1), 333(1), 334(1), 335(1), ]
+Packet sent; type=DATA; seqNum=326;length=1456;checksum_in_packet=770205447
+Packet received; type=ACK; seqNum=327;length=0;checksum_in_packet=1294042576
+Updating window;
+Window state: [327(1), 328(1), 329(1), 330(1), 331(1), 332(1), 333(1), 334(1), 335(1), 336(1), ]
+Packet sent; type=DATA; seqNum=327;length=1456;checksum_in_packet=2765683638
+Packet received; type=ACK; seqNum=328;length=0;checksum_in_packet=3480293889
+Updating window;
+Window state: [328(1), 329(1), 330(1), 331(1), 332(1), 333(1), 334(1), 335(1), 336(1), 337(1), ]
+Packet sent; type=DATA; seqNum=328;length=1456;checksum_in_packet=2572479616
+Timeout for packet seqNum=328
+Packet received; type=ACK; seqNum=329;length=0;checksum_in_packet=4061215665
+Updating window;
+Window state: [329(1), 330(1), 331(1), 332(1), 333(1), 334(1), 335(1), 336(1), 337(1), 338(1), ]
+Packet sent; type=DATA; seqNum=329;length=1456;checksum_in_packet=1672566810
+Packet received; type=ACK; seqNum=330;length=0;checksum_in_packet=3048292705
+Updating window;
+Window state: [330(1), 331(1), 332(1), 333(1), 334(1), 335(1), 336(1), 337(1), 338(1), 339(1), ]
+Packet sent; type=DATA; seqNum=330;length=1456;checksum_in_packet=3825829436
+Timeout for packet seqNum=330
+Packet received; type=ACK; seqNum=331;length=0;checksum_in_packet=2295425233
+Updating window;
+Window state: [331(1), 332(1), 333(1), 334(1), 335(1), 336(1), 337(1), 338(1), 339(1), 340(1), ]
+Packet sent; type=DATA; seqNum=331;length=1456;checksum_in_packet=191646504
+Packet received; type=ACK; seqNum=332;length=0;checksum_in_packet=988918977
+Updating window;
+Window state: [332(1), 333(1), 334(1), 335(1), 336(1), 337(1), 338(1), 339(1), 340(1), 341(1), ]
+Packet sent; type=DATA; seqNum=332;length=1456;checksum_in_packet=1733632243
+Timeout for packet seqNum=332
+Packet received; type=ACK; seqNum=333;length=0;checksum_in_packet=126983537
+Updating window;
+Window state: [333(1), 334(1), 335(1), 336(1), 337(1), 338(1), 339(1), 340(1), 341(1), 342(1), ]
+Packet sent; type=DATA; seqNum=333;length=1456;checksum_in_packet=3509731147
+Packet received; type=ACK; seqNum=334;length=0;checksum_in_packet=1077012385
+Updating window;
+Window state: [334(1), 335(1), 336(1), 337(1), 338(1), 339(1), 340(1), 341(1), 342(1), 343(1), ]
+Packet sent; type=DATA; seqNum=334;length=1456;checksum_in_packet=2081865606
+Packet received; type=ACK; seqNum=335;length=0;checksum_in_packet=2102513169
+Updating window;
+Window state: [335(1), 336(1), 337(1), 338(1), 339(1), 340(1), 341(1), 342(1), 343(1), 344(1), ]
+Packet sent; type=DATA; seqNum=335;length=1456;checksum_in_packet=392883304
+Packet received; type=ACK; seqNum=336;length=0;checksum_in_packet=2682375746
+Updating window;
+Window state: [336(1), 337(1), 338(1), 339(1), 340(1), 341(1), 342(1), 343(1), 344(1), 345(1), ]
+Packet sent; type=DATA; seqNum=336;length=1456;checksum_in_packet=3769465696
+Packet received; type=ACK; seqNum=337;length=0;checksum_in_packet=2726422514
+Updating window;
+Window state: [337(1), 338(1), 339(1), 340(1), 341(1), 342(1), 343(1), 344(1), 345(1), 346(1), ]
+Packet sent; type=DATA; seqNum=337;length=1456;checksum_in_packet=373955355
+Packet received; type=ACK; seqNum=338;length=0;checksum_in_packet=3844185378
+Updating window;
+Window state: [338(1), 339(1), 340(1), 341(1), 342(1), 343(1), 344(1), 345(1), 346(1), 347(1), ]
+Packet sent; type=DATA; seqNum=338;length=1456;checksum_in_packet=1939143165
+Packet received; type=ACK; seqNum=339;length=0;checksum_in_packet=3628184722
+Updating window;
+Window state: [339(1), 340(1), 341(1), 342(1), 343(1), 344(1), 345(1), 346(1), 347(1), 348(1), ]
+Packet sent; type=DATA; seqNum=339;length=1456;checksum_in_packet=125292459
+Packet received; type=ACK; seqNum=340;length=0;checksum_in_packet=1784768642
+Updating window;
+Window state: [340(1), 341(1), 342(1), 343(1), 344(1), 345(1), 346(1), 347(1), 348(1), 349(1), ]
+Packet sent; type=DATA; seqNum=340;length=1456;checksum_in_packet=52414782
+Packet received; type=ACK; seqNum=341;length=0;checksum_in_packet=1459700018
+Updating window;
+Window state: [341(1), 342(1), 343(1), 344(1), 345(1), 346(1), 347(1), 348(1), 349(1), 350(1), ]
+Packet sent; type=DATA; seqNum=341;length=1456;checksum_in_packet=2754749414
+Packet received; type=ACK; seqNum=342;length=0;checksum_in_packet=279002082
+Updating window;
+Window state: [342(1), 343(1), 344(1), 345(1), 346(1), 347(1), 348(1), 349(1), 350(1), 351(1), ]
+Packet sent; type=DATA; seqNum=342;length=1456;checksum_in_packet=1793362555
+Packet received; type=ACK; seqNum=343;length=0;checksum_in_packet=767627858
+Updating window;
+Window state: [343(1), 344(1), 345(1), 346(1), 347(1), 348(1), 349(1), 350(1), 351(1), 352(1), ]
+Packet sent; type=DATA; seqNum=343;length=1456;checksum_in_packet=655339656
+Packet received; type=ACK; seqNum=344;length=0;checksum_in_packet=2945549699
+Updating window;
+Window state: [344(1), 345(1), 346(1), 347(1), 348(1), 349(1), 350(1), 351(1), 352(1), 353(1), ]
+Packet sent; type=DATA; seqNum=344;length=1456;checksum_in_packet=1703524434
+Packet received; type=ACK; seqNum=345;length=0;checksum_in_packet=2465311795
+Updating window;
+Window state: [345(1), 346(1), 347(1), 348(1), 349(1), 350(1), 351(1), 352(1), 353(1), 354(1), ]
+Packet sent; type=DATA; seqNum=345;length=1456;checksum_in_packet=3563445335
+Packet received; type=ACK; seqNum=346;length=0;checksum_in_packet=3578910435
+Updating window;
+Window state: [346(1), 347(1), 348(1), 349(1), 350(1), 351(1), 352(1), 353(1), 354(1), 355(1), ]
+Packet sent; type=DATA; seqNum=346;length=1456;checksum_in_packet=178974131
+Packet received; type=ACK; seqNum=347;length=0;checksum_in_packet=3895590739
+Updating window;
+Window state: [347(1), 348(1), 349(1), 350(1), 351(1), 352(1), 353(1), 354(1), 355(1), 356(1), ]
+Packet sent; type=DATA; seqNum=347;length=1456;checksum_in_packet=3692313447
+Packet received; type=ACK; seqNum=348;length=0;checksum_in_packet=1511072579
+Updating window;
+Window state: [348(1), 349(1), 350(1), 351(1), 352(1), 353(1), 354(1), 355(1), 356(1), 357(1), ]
+Packet sent; type=DATA; seqNum=348;length=1456;checksum_in_packet=1682496577
+Timeout for packet seqNum=348
+Packet received; type=ACK; seqNum=349;length=0;checksum_in_packet=1735461619
+Updating window;
+Window state: [349(1), 350(1), 351(1), 352(1), 353(1), 354(1), 355(1), 356(1), 357(1), 358(1), ]
+Packet sent; type=DATA; seqNum=349;length=1456;checksum_in_packet=1389307723
+Packet received; type=ACK; seqNum=350;length=0;checksum_in_packet=550596643
+Updating window;
+Window state: [350(1), 351(1), 352(1), 353(1), 354(1), 355(1), 356(1), 357(1), 358(1), 359(1), ]
+Packet sent; type=DATA; seqNum=350;length=1456;checksum_in_packet=899721655
+Packet received; type=ACK; seqNum=351;length=0;checksum_in_packet=498162067
+Updating window;
+Window state: [351(1), 352(1), 353(1), 354(1), 355(1), 356(1), 357(1), 358(1), 359(1), 360(1), ]
+Packet sent; type=DATA; seqNum=351;length=1456;checksum_in_packet=953732875
+Timeout for packet seqNum=351
+Packet received; type=ACK; seqNum=352;length=0;checksum_in_packet=1052800708
+Updating window;
+Window state: [352(1), 353(1), 354(1), 355(1), 356(1), 357(1), 358(1), 359(1), 360(1), 361(1), ]
+Packet sent; type=DATA; seqNum=352;length=1456;checksum_in_packet=2572173119
+Packet received; type=ACK; seqNum=353;length=0;checksum_in_packet=60841844
+Updating window;
+Window state: [353(1), 354(1), 355(1), 356(1), 357(1), 358(1), 359(1), 360(1), 361(1), 362(1), ]
+Packet sent; type=DATA; seqNum=353;length=1456;checksum_in_packet=3826049499
+Packet received; type=ACK; seqNum=354;length=0;checksum_in_packet=1140860324
+Updating window;
+Window state: [354(1), 355(1), 356(1), 357(1), 358(1), 359(1), 360(1), 361(1), 362(1), 363(1), ]
+Packet sent; type=DATA; seqNum=354;length=1456;checksum_in_packet=1497149212
+Packet received; type=ACK; seqNum=355;length=0;checksum_in_packet=2036337684
+Updating window;
+Window state: [355(1), 356(1), 357(1), 358(1), 359(1), 360(1), 361(1), 362(1), 363(1), 364(1), ]
+Packet sent; type=DATA; seqNum=355;length=1456;checksum_in_packet=2975623011
+Packet received; type=ACK; seqNum=356;length=0;checksum_in_packet=3410022404
+Updating window;
+Window state: [356(1), 357(1), 358(1), 359(1), 360(1), 361(1), 362(1), 363(1), 364(1), 365(1), ]
+Packet sent; type=DATA; seqNum=356;length=1456;checksum_in_packet=1961139621
+Packet received; type=ACK; seqNum=357;length=0;checksum_in_packet=4129356212
+Updating window;
+Window state: [357(1), 358(1), 359(1), 360(1), 361(1), 362(1), 363(1), 364(1), 365(1), 366(1), ]
+Packet sent; type=DATA; seqNum=357;length=1456;checksum_in_packet=4069767714
+Packet received; type=ACK; seqNum=358;length=0;checksum_in_packet=2977989476
+Updating window;
+Window state: [358(1), 359(1), 360(1), 361(1), 362(1), 363(1), 364(1), 365(1), 366(1), 367(1), ]
+Packet sent; type=DATA; seqNum=358;length=1456;checksum_in_packet=4088115595
+Timeout for packet seqNum=358
+Packet received; type=ACK; seqNum=359;length=0;checksum_in_packet=2363534036
+Updating window;
+Window state: [359(1), 360(1), 361(1), 362(1), 363(1), 364(1), 365(1), 366(1), 367(1), 368(1), ]
+Packet sent; type=DATA; seqNum=359;length=1456;checksum_in_packet=559058573
+Packet received; type=ACK; seqNum=360;length=0;checksum_in_packet=246430981
+Updating window;
+Window state: [360(1), 361(1), 362(1), 363(1), 364(1), 365(1), 366(1), 367(1), 368(1), 369(1), ]
+Packet sent; type=DATA; seqNum=360;length=1456;checksum_in_packet=1929722648
+Timeout for packet seqNum=360
+Packet received; type=ACK; seqNum=361;length=0;checksum_in_packet=869274805
+Updating window;
+Window state: [361(1), 362(1), 363(1), 364(1), 365(1), 366(1), 367(1), 368(1), 369(1), 370(1), ]
+Packet sent; type=DATA; seqNum=361;length=1456;checksum_in_packet=1284159293
+Packet received; type=ACK; seqNum=362;length=0;checksum_in_packet=1953525349
+Updating window;
+Window state: [362(1), 363(1), 364(1), 365(1), 366(1), 367(1), 368(1), 369(1), 370(1), 371(1), ]
+Packet sent; type=DATA; seqNum=362;length=1456;checksum_in_packet=2796692569
+Packet received; type=ACK; seqNum=363;length=0;checksum_in_packet=1225803733
+Updating window;
+Window state: [363(1), 364(1), 365(1), 366(1), 367(1), 368(1), 369(1), 370(1), 371(1), 372(1), ]
+Packet sent; type=DATA; seqNum=363;length=1456;checksum_in_packet=3775026934
+Packet received; type=ACK; seqNum=364;length=0;checksum_in_packet=4214266821
+Updating window;
+Window state: [364(1), 365(1), 366(1), 367(1), 368(1), 369(1), 370(1), 371(1), 372(1), 373(1), ]
+Packet sent; type=DATA; seqNum=364;length=1456;checksum_in_packet=2766984565
+Packet received; type=ACK; seqNum=365;length=0;checksum_in_packet=3327177333
+Updating window;
+Window state: [365(1), 366(1), 367(1), 368(1), 369(1), 370(1), 371(1), 372(1), 373(1), 374(1), ]
+Packet sent; type=DATA; seqNum=365;length=1456;checksum_in_packet=2836619566
+Packet received; type=ACK; seqNum=366;length=0;checksum_in_packet=2180040869
+Updating window;
+Window state: [366(1), 367(1), 368(1), 369(1), 370(1), 371(1), 372(1), 373(1), 374(1), 375(1), ]
+Packet sent; type=DATA; seqNum=366;length=1456;checksum_in_packet=3230459849
+Packet received; type=ACK; seqNum=367;length=0;checksum_in_packet=3163611413
+Updating window;
+Window state: [367(1), 368(1), 369(1), 370(1), 371(1), 372(1), 373(1), 374(1), 375(1), 376(1), ]
+Packet sent; type=DATA; seqNum=367;length=1456;checksum_in_packet=3013365723
+Packet received; type=ACK; seqNum=368;length=0;checksum_in_packet=1579213126
+Updating window;
+Window state: [368(1), 369(1), 370(1), 371(1), 372(1), 373(1), 374(1), 375(1), 376(1), 377(1), ]
+Packet sent; type=DATA; seqNum=368;length=1456;checksum_in_packet=2281180924
+Packet received; type=ACK; seqNum=369;length=0;checksum_in_packet=1665190134
+Updating window;
+Window state: [369(1), 370(1), 371(1), 372(1), 373(1), 374(1), 375(1), 376(1), 377(1), 378(1), ]
+Packet sent; type=DATA; seqNum=369;length=1456;checksum_in_packet=409404749
+Packet received; type=ACK; seqNum=370;length=0;checksum_in_packet=618705446
+Updating window;
+Window state: [370(1), 371(1), 372(1), 373(1), 374(1), 375(1), 376(1), 377(1), 378(1), 379(1), ]
+Packet sent; type=DATA; seqNum=370;length=1456;checksum_in_packet=3894582256
+Packet received; type=ACK; seqNum=371;length=0;checksum_in_packet=427858838
+Updating window;
+Window state: [371(1), 372(1), 373(1), 374(1), 375(1), 376(1), 377(1), 378(1), 379(1), 380(1), ]
+Packet sent; type=DATA; seqNum=371;length=1456;checksum_in_packet=2277866975
+Packet received; type=ACK; seqNum=372;length=0;checksum_in_packet=2879408006
+Updating window;
+Window state: [372(1), 373(1), 374(1), 375(1), 376(1), 377(1), 378(1), 379(1), 380(1), 381(1), ]
+Packet sent; type=DATA; seqNum=372;length=1456;checksum_in_packet=1730444077
+Packet received; type=ACK; seqNum=373;length=0;checksum_in_packet=2529193526
+Updating window;
+Window state: [373(1), 374(1), 375(1), 376(1), 377(1), 378(1), 379(1), 380(1), 381(1), 382(1), ]
+Packet sent; type=DATA; seqNum=373;length=1456;checksum_in_packet=4176679549
+Packet received; type=ACK; seqNum=374;length=0;checksum_in_packet=3512734950
+Updating window;
+Window state: [374(1), 375(1), 376(1), 377(1), 378(1), 379(1), 380(1), 381(1), 382(1), 383(1), ]
+Packet sent; type=DATA; seqNum=374;length=1456;checksum_in_packet=579341293
+Packet received; type=ACK; seqNum=375;length=0;checksum_in_packet=3959438678
+Updating window;
+Window state: [375(1), 376(1), 377(1), 378(1), 379(1), 380(1), 381(1), 382(1), 383(1), 384(1), ]
+Packet sent; type=DATA; seqNum=375;length=1456;checksum_in_packet=2193401798
+Packet received; type=ACK; seqNum=376;length=0;checksum_in_packet=1850780295
+Updating window;
+Window state: [376(1), 377(1), 378(1), 379(1), 380(1), 381(1), 382(1), 383(1), 384(1), 385(1), ]
+Packet sent; type=DATA; seqNum=376;length=1456;checksum_in_packet=3235958386
+Timeout for packet seqNum=376
+Timeout for packet seqNum=376
+Packet received; type=ACK; seqNum=377;length=0;checksum_in_packet=1395688247
+Updating window;
+Window state: [377(1), 378(1), 379(1), 380(1), 381(1), 382(1), 383(1), 384(1), 385(1), 386(1), ]
+Packet sent; type=DATA; seqNum=377;length=1456;checksum_in_packet=1979689121
+Packet received; type=ACK; seqNum=378;length=0;checksum_in_packet=345045479
+Updating window;
+Window state: [378(1), 379(1), 380(1), 381(1), 382(1), 383(1), 384(1), 385(1), 386(1), 387(1), ]
+Packet sent; type=DATA; seqNum=378;length=1456;checksum_in_packet=1111936555
+Packet received; type=ACK; seqNum=379;length=0;checksum_in_packet=703647831
+Updating window;
+Window state: [379(1), 380(1), 381(1), 382(1), 383(1), 384(1), 385(1), 386(1), 387(1), 388(1), ]
+Packet sent; type=DATA; seqNum=379;length=1456;checksum_in_packet=578047642
+Packet received; type=ACK; seqNum=380;length=0;checksum_in_packet=2614103111
+Updating window;
+Window state: [380(1), 381(1), 382(1), 383(1), 384(1), 385(1), 386(1), 387(1), 388(1), 389(1), ]
+Packet sent; type=DATA; seqNum=380;length=1456;checksum_in_packet=72240816
+Packet received; type=ACK; seqNum=381;length=0;checksum_in_packet=2796561911
+Updating window;
+Window state: [381(1), 382(1), 383(1), 384(1), 385(1), 386(1), 387(1), 388(1), 389(1), 390(1), ]
+Packet sent; type=DATA; seqNum=381;length=1456;checksum_in_packet=1850219231
+Packet received; type=ACK; seqNum=382;length=0;checksum_in_packet=3775946535
+Updating window;
+Window state: [382(1), 383(1), 384(1), 385(1), 386(1), 387(1), 388(1), 389(1), 390(1), 391(1), ]
+Packet sent; type=DATA; seqNum=382;length=1456;checksum_in_packet=2138384750
+Packet received; type=ACK; seqNum=383;length=0;checksum_in_packet=3698357911
+Updating window;
+Window state: [383(1), 384(1), 385(1), 386(1), 387(1), 388(1), 389(1), 390(1), 391(1), 392(1), ]
+Packet sent; type=DATA; seqNum=383;length=1456;checksum_in_packet=1926615223
+Packet received; type=ACK; seqNum=384;length=0;checksum_in_packet=370454811
+Updating window;
+Window state: [384(1), 385(1), 386(1), 387(1), 388(1), 389(1), 390(1), 391(1), 392(1), 393(1), ]
+Packet sent; type=DATA; seqNum=384;length=1456;checksum_in_packet=759906237
+Packet received; type=ACK; seqNum=385;length=0;checksum_in_packet=729061547
+Updating window;
+Window state: [385(1), 386(1), 387(1), 388(1), 389(1), 390(1), 391(1), 392(1), 393(1), 394(1), ]
+Packet sent; type=DATA; seqNum=385;length=1456;checksum_in_packet=332064713
+Packet received; type=ACK; seqNum=386;length=0;checksum_in_packet=1825890939
+Updating window;
+Window state: [386(1), 387(1), 388(1), 389(1), 390(1), 391(1), 392(1), 393(1), 394(1), 395(1), ]
+Packet sent; type=DATA; seqNum=386;length=1456;checksum_in_packet=1767890186
+Timeout for packet seqNum=386
+Packet received; type=ACK; seqNum=387;length=0;checksum_in_packet=1370803147
+Updating window;
+Window state: [387(1), 388(1), 389(1), 390(1), 391(1), 392(1), 393(1), 394(1), 395(1), 396(1), ]
+Packet sent; type=DATA; seqNum=387;length=1456;checksum_in_packet=1701328703
+Packet received; type=ACK; seqNum=388;length=0;checksum_in_packet=3818133467
+Updating window;
+Window state: [388(1), 389(1), 390(1), 391(1), 392(1), 393(1), 394(1), 395(1), 396(1), 397(1), ]
+Packet sent; type=DATA; seqNum=388;length=1456;checksum_in_packet=205685280
+Packet received; type=ACK; seqNum=389;length=0;checksum_in_packet=3740548715
+Updating window;
+Window state: [389(1), 390(1), 391(1), 392(1), 393(1), 394(1), 395(1), 396(1), 397(1), 398(1), ]
+Packet sent; type=DATA; seqNum=389;length=1456;checksum_in_packet=387093190
+Packet received; type=ACK; seqNum=390;length=0;checksum_in_packet=2572436667
+Updating window;
+Window state: [390(1), 391(1), 392(1), 393(1), 394(1), 395(1), 396(1), 397(1), 398(1), 399(1), ]
+Packet sent; type=DATA; seqNum=390;length=1456;checksum_in_packet=4053576545
+Timeout for packet seqNum=390
+Packet received; type=ACK; seqNum=391;length=0;checksum_in_packet=2754899211
+Updating window;
+Window state: [391(1), 392(1), 393(1), 394(1), 395(1), 396(1), 397(1), 398(1), 399(1), 400(1), ]
+Packet sent; type=DATA; seqNum=391;length=1456;checksum_in_packet=1561317248
+Packet received; type=ACK; seqNum=392;length=0;checksum_in_packet=644152026
+Updating window;
+Window state: [392(1), 393(1), 394(1), 395(1), 396(1), 397(1), 398(1), 399(1), 400(1), 401(1), ]
+Packet sent; type=DATA; seqNum=392;length=1456;checksum_in_packet=1789011356
+Packet received; type=ACK; seqNum=393;length=0;checksum_in_packet=453301098
+Updating window;
+Window state: [393(1), 394(1), 395(1), 396(1), 397(1), 398(1), 399(1), 400(1), 401(1), 402(1), ]
+Packet sent; type=DATA; seqNum=393;length=1456;checksum_in_packet=584201266
+Packet received; type=ACK; seqNum=394;length=0;checksum_in_packet=1554295226
+Updating window;
+Window state: [394(1), 395(1), 396(1), 397(1), 398(1), 399(1), 400(1), 401(1), 402(1), 403(1), ]
+Packet sent; type=DATA; seqNum=394;length=1456;checksum_in_packet=3561792506
+Packet received; type=ACK; seqNum=395;length=0;checksum_in_packet=1640267786
+Updating window;
+Window state: [395(1), 396(1), 397(1), 398(1), 399(1), 400(1), 401(1), 402(1), 403(1), 404(1), ]
+Packet sent; type=DATA; seqNum=395;length=1456;checksum_in_packet=1074256073
+Packet received; type=ACK; seqNum=396;length=0;checksum_in_packet=3554958362
+Updating window;
+Window state: [396(1), 397(1), 398(1), 399(1), 400(1), 401(1), 402(1), 403(1), 404(1), 405(1), ]
+Packet sent; type=DATA; seqNum=396;length=1456;checksum_in_packet=684901192
+Packet received; type=ACK; seqNum=397;length=0;checksum_in_packet=4001658282
+Updating window;
+Window state: [397(1), 398(1), 399(1), 400(1), 401(1), 402(1), 403(1), 404(1), 405(1), 406(1), ]
+Packet sent; type=DATA; seqNum=397;length=1456;checksum_in_packet=2338749064
+Packet received; type=ACK; seqNum=398;length=0;checksum_in_packet=2837712762
+Updating window;
+Window state: [398(1), 399(1), 400(1), 401(1), 402(1), 403(1), 404(1), 405(1), 406(1), 407(1), ]
+Packet sent; type=DATA; seqNum=398;length=1456;checksum_in_packet=3815255213
+Packet received; type=ACK; seqNum=399;length=0;checksum_in_packet=2487494346
+Updating window;
+Window state: [399(1), 400(1), 401(1), 402(1), 403(1), 404(1), 405(1), 406(1), 407(1), 408(1), ]
+Packet sent; type=DATA; seqNum=399;length=1456;checksum_in_packet=296943942
+Packet received; type=ACK; seqNum=400;length=0;checksum_in_packet=1995712153
+Updating window;
+Window state: [400(1), 401(1), 402(1), 403(1), 404(1), 405(1), 406(1), 407(1), 408(1), 409(1), ]
+Packet sent; type=DATA; seqNum=400;length=1456;checksum_in_packet=3442016451
+Packet received; type=ACK; seqNum=401;length=0;checksum_in_packet=1267994409
+Updating window;
+Window state: [401(1), 402(1), 403(1), 404(1), 405(1), 406(1), 407(1), 408(1), 409(1), 410(1), ]
+Packet sent; type=DATA; seqNum=401;length=1456;checksum_in_packet=384069532
+Packet received; type=ACK; seqNum=402;length=0;checksum_in_packet=204764665
+Updating window;
+Window state: [402(1), 403(1), 404(1), 405(1), 406(1), 407(1), 408(1), 409(1), 410(1), 411(1), ]
+Packet sent; type=DATA; seqNum=402;length=1456;checksum_in_packet=2301457827
+Packet received; type=ACK; seqNum=403;length=0;checksum_in_packet=827612233
+Updating window;
+Window state: [403(1), 404(1), 405(1), 406(1), 407(1), 408(1), 409(1), 410(1), 411(1), 412(1), ]
+Packet sent; type=DATA; seqNum=403;length=1456;checksum_in_packet=1137833593
+Packet received; type=ACK; seqNum=404;length=0;checksum_in_packet=2205450329
+Updating window;
+Window state: [404(1), 405(1), 406(1), 407(1), 408(1), 409(1), 410(1), 411(1), 412(1), 413(1), ]
+Packet sent; type=DATA; seqNum=404;length=1456;checksum_in_packet=558659294
+Packet received; type=ACK; seqNum=405;length=0;checksum_in_packet=3189025257
+Updating window;
+Window state: [405(1), 406(1), 407(1), 408(1), 409(1), 410(1), 411(1), 412(1), 413(1), 414(1), ]
+Packet sent; type=DATA; seqNum=405;length=1456;checksum_in_packet=2109313954
+Packet received; type=ACK; seqNum=406;length=0;checksum_in_packet=4189377337
+Updating window;
+Window state: [406(1), 407(1), 408(1), 409(1), 410(1), 411(1), 412(1), 413(1), 414(1), 415(1), ]
+Packet sent; type=DATA; seqNum=406;length=1456;checksum_in_packet=786254763
+Packet received; type=ACK; seqNum=407;length=0;checksum_in_packet=3302292105
+Updating window;
+Window state: [407(1), 408(1), 409(1), 410(1), 411(1), 412(1), 413(1), 414(1), 415(1), 416(1), ]
+Packet sent; type=DATA; seqNum=407;length=1456;checksum_in_packet=3144036261
+Packet received; type=ACK; seqNum=408;length=0;checksum_in_packet=1183083864
+Updating window;
+Window state: [408(1), 409(1), 410(1), 411(1), 412(1), 413(1), 414(1), 415(1), 416(1), 417(1), ]
+Packet sent; type=DATA; seqNum=408;length=1456;checksum_in_packet=2979217666
+Timeout for packet seqNum=408
+Packet received; type=ACK; seqNum=409;length=0;checksum_in_packet=2078557416
+Updating window;
+Window state: [409(1), 410(1), 411(1), 412(1), 413(1), 414(1), 415(1), 416(1), 417(1), 418(1), ]
+Packet sent; type=DATA; seqNum=409;length=1456;checksum_in_packet=872988950
+Packet received; type=ACK; seqNum=410;length=0;checksum_in_packet=1011105336
+Updating window;
+Window state: [410(1), 411(1), 412(1), 413(1), 414(1), 415(1), 416(1), 417(1), 418(1), 419(1), ]
+Packet sent; type=DATA; seqNum=410;length=1456;checksum_in_packet=223030465
+Packet received; type=ACK; seqNum=411;length=0;checksum_in_packet=19142536
+Updating window;
+Window state: [411(1), 412(1), 413(1), 414(1), 415(1), 416(1), 417(1), 418(1), 419(1), 420(1), ]
+Packet sent; type=DATA; seqNum=411;length=1456;checksum_in_packet=257069971
+Packet received; type=ACK; seqNum=412;length=0;checksum_in_packet=3003435928
+Updating window;
+Window state: [412(1), 413(1), 414(1), 415(1), 416(1), 417(1), 418(1), 419(1), 420(1), 421(1), ]
+Packet sent; type=DATA; seqNum=412;length=1456;checksum_in_packet=4151913156
+Packet received; type=ACK; seqNum=413;length=0;checksum_in_packet=2388976168
+Updating window;
+Window state: [413(1), 414(1), 415(1), 416(1), 417(1), 418(1), 419(1), 420(1), 421(1), 422(1), ]
+Packet sent; type=DATA; seqNum=413;length=1456;checksum_in_packet=2819206696
+Packet received; type=ACK; seqNum=414;length=0;checksum_in_packet=3385104632
+Updating window;
+Window state: [414(1), 415(1), 416(1), 417(1), 418(1), 419(1), 420(1), 421(1), 422(1), 423(1), ]
+Packet sent; type=DATA; seqNum=414;length=1456;checksum_in_packet=660105046
+Packet received; type=ACK; seqNum=415;length=0;checksum_in_packet=4104433992
+Updating window;
+Window state: [415(1), 416(1), 417(1), 418(1), 419(1), 420(1), 421(1), 422(1), 423(1), 424(1), ]
+Packet sent; type=DATA; seqNum=415;length=1456;checksum_in_packet=2733517794
+Packet received; type=ACK; seqNum=416;length=0;checksum_in_packet=3621101087
+Updating window;
+Window state: [416(1), 417(1), 418(1), 419(1), 420(1), 421(1), 422(1), 423(1), 424(1), 425(1), ]
+Packet sent; type=DATA; seqNum=416;length=1456;checksum_in_packet=1153654873
+Packet received; type=ACK; seqNum=417;length=0;checksum_in_packet=3937777583
+Updating window;
+Window state: [417(1), 418(1), 419(1), 420(1), 421(1), 422(1), 423(1), 424(1), 425(1), 426(1), ]
+Packet sent; type=DATA; seqNum=417;length=1456;checksum_in_packet=387054729
+Packet received; type=ACK; seqNum=418;length=0;checksum_in_packet=2903887231
+Updating window;
+Window state: [418(1), 419(1), 420(1), 421(1), 422(1), 423(1), 424(1), 425(1), 426(1), 427(1), ]
+Packet sent; type=DATA; seqNum=418;length=1456;checksum_in_packet=2555782246
+Packet received; type=ACK; seqNum=419;length=0;checksum_in_packet=2423645391
+Updating window;
+Window state: [419(1), 420(1), 421(1), 422(1), 423(1), 424(1), 425(1), 426(1), 427(1), 428(1), ]
+Packet sent; type=DATA; seqNum=419;length=1456;checksum_in_packet=1138012743
+Packet received; type=ACK; seqNum=420;length=0;checksum_in_packet=576010463
+Updating window;
+Window state: [420(1), 421(1), 422(1), 423(1), 424(1), 425(1), 426(1), 427(1), 428(1), 429(1), ]
+Packet sent; type=DATA; seqNum=420;length=1456;checksum_in_packet=1432180561
+Packet received; type=ACK; seqNum=421;length=0;checksum_in_packet=523571567
+Updating window;
+Window state: [421(1), 422(1), 423(1), 424(1), 425(1), 426(1), 427(1), 428(1), 429(1), 430(1), ]
+Packet sent; type=DATA; seqNum=421;length=1456;checksum_in_packet=1369781333
+Packet received; type=ACK; seqNum=422;length=0;checksum_in_packet=1486187455
+Updating window;
+Window state: [422(1), 423(1), 424(1), 425(1), 426(1), 427(1), 428(1), 429(1), 430(1), 431(1), ]
+Packet sent; type=DATA; seqNum=422;length=1456;checksum_in_packet=197887930
+Packet received; type=ACK; seqNum=423;length=0;checksum_in_packet=1710572047
+Updating window;
+Window state: [423(1), 424(1), 425(1), 426(1), 427(1), 428(1), 429(1), 430(1), 431(1), 432(1), ]
+Packet sent; type=DATA; seqNum=423;length=1456;checksum_in_packet=3541276239
+Packet received; type=ACK; seqNum=424;length=0;checksum_in_packet=3886405086
+Updating window;
+Window state: [424(1), 425(1), 426(1), 427(1), 428(1), 429(1), 430(1), 431(1), 432(1), 433(1), ]
+Packet sent; type=DATA; seqNum=424;length=1456;checksum_in_packet=555146305
+Packet received; type=ACK; seqNum=425;length=0;checksum_in_packet=3670408302
+Updating window;
+Window state: [425(1), 426(1), 427(1), 428(1), 429(1), 430(1), 431(1), 432(1), 433(1), 434(1), ]
+Packet sent; type=DATA; seqNum=425;length=1456;checksum_in_packet=3578023154
+Packet received; type=ACK; seqNum=426;length=0;checksum_in_packet=2640676542
+Updating window;
+Window state: [426(1), 427(1), 428(1), 429(1), 430(1), 431(1), 432(1), 433(1), 434(1), 435(1), ]
+Packet sent; type=DATA; seqNum=426;length=1456;checksum_in_packet=1340197821
+Timeout for packet seqNum=426
+Packet received; type=ACK; seqNum=427;length=0;checksum_in_packet=2684727054
+Updating window;
+Window state: [427(1), 428(1), 429(1), 430(1), 431(1), 432(1), 433(1), 434(1), 435(1), 436(1), ]
+Packet sent; type=DATA; seqNum=427;length=1456;checksum_in_packet=2763832315
+Packet received; type=ACK; seqNum=428;length=0;checksum_in_packet=304444190
+Updating window;
+Window state: [428(1), 429(1), 430(1), 431(1), 432(1), 433(1), 434(1), 435(1), 436(1), 437(1), ]
+Packet sent; type=DATA; seqNum=428;length=1456;checksum_in_packet=158298875
+Packet received; type=ACK; seqNum=429;length=0;checksum_in_packet=793074350
+Updating window;
+Window state: [429(1), 430(1), 431(1), 432(1), 433(1), 434(1), 435(1), 436(1), 437(1), 438(1), ]
+Packet sent; type=DATA; seqNum=429;length=1456;checksum_in_packet=2676674086
+Packet received; type=ACK; seqNum=430;length=0;checksum_in_packet=1759846526
+Updating window;
+Window state: [430(1), 431(1), 432(1), 433(1), 434(1), 435(1), 436(1), 437(1), 438(1), 439(1), ]
+Packet sent; type=DATA; seqNum=430;length=1456;checksum_in_packet=445426370
+Packet received; type=ACK; seqNum=431;length=0;checksum_in_packet=1434782158
+Updating window;
+Window state: [431(1), 432(1), 433(1), 434(1), 435(1), 436(1), 437(1), 438(1), 439(1), 440(1), ]
+Packet sent; type=DATA; seqNum=431;length=1456;checksum_in_packet=564785359
+Packet received; type=ACK; seqNum=432;length=0;checksum_in_packet=3073706397
+Updating window;
+Window state: [432(1), 433(1), 434(1), 435(1), 436(1), 437(1), 438(1), 439(1), 440(1), 441(1), ]
+Packet sent; type=DATA; seqNum=432;length=1456;checksum_in_packet=468511136
+Packet received; type=ACK; seqNum=433;length=0;checksum_in_packet=2320834605
+Updating window;
+Window state: [433(1), 434(1), 435(1), 436(1), 437(1), 438(1), 439(1), 440(1), 441(1), 442(1), ]
+Packet sent; type=DATA; seqNum=433;length=1456;checksum_in_packet=3267318026
+Packet received; type=ACK; seqNum=434;length=0;checksum_in_packet=3455408893
+Updating window;
+Window state: [434(1), 435(1), 436(1), 437(1), 438(1), 439(1), 440(1), 441(1), 442(1), 443(1), ]
+Packet sent; type=DATA; seqNum=434;length=1456;checksum_in_packet=954743922
+Packet received; type=ACK; seqNum=435;length=0;checksum_in_packet=4036326221
+Updating window;
+Window state: [435(1), 436(1), 437(1), 438(1), 439(1), 440(1), 441(1), 442(1), 443(1), 444(1), ]
+Packet sent; type=DATA; seqNum=435;length=1456;checksum_in_packet=658665367
+Packet received; type=ACK; seqNum=436;length=0;checksum_in_packet=1119203165
+Updating window;
+Window state: [436(1), 437(1), 438(1), 439(1), 440(1), 441(1), 442(1), 443(1), 444(1), 445(1), ]
+Packet sent; type=DATA; seqNum=436;length=1456;checksum_in_packet=1862400380
+Packet received; type=ACK; seqNum=437;length=0;checksum_in_packet=2144700141
+Updating window;
+Window state: [437(1), 438(1), 439(1), 440(1), 441(1), 442(1), 443(1), 444(1), 445(1), 446(1), ]
+Packet sent; type=DATA; seqNum=437;length=1456;checksum_in_packet=3961994574
+Packet received; type=ACK; seqNum=438;length=0;checksum_in_packet=947256381
+Updating window;
+Window state: [438(1), 439(1), 440(1), 441(1), 442(1), 443(1), 444(1), 445(1), 446(1), 447(1), ]
+Packet sent; type=DATA; seqNum=438;length=1456;checksum_in_packet=2479948694
+Packet received; type=ACK; seqNum=439;length=0;checksum_in_packet=85317005
+Updating window;
+Window state: [439(1), 440(1), 441(1), 442(1), 443(1), 444(1), 445(1), 446(1), 447(1), 448(1), ]
+Packet sent; type=DATA; seqNum=439;length=1456;checksum_in_packet=2108899139
+Packet received; type=ACK; seqNum=440;length=0;checksum_in_packet=2269463132
+Updating window;
+Window state: [440(1), 441(1), 442(1), 443(1), 444(1), 445(1), 446(1), 447(1), 448(1), 449(1), ]
+Packet sent; type=DATA; seqNum=440;length=1456;checksum_in_packet=3593140075
+Timeout for packet seqNum=440
+Timeout for packet seqNum=440
+Packet received; type=ACK; seqNum=441;length=0;checksum_in_packet=3123014636
+Updating window;
+Window state: [441(1), 442(1), 443(1), 444(1), 445(1), 446(1), 447(1), 448(1), 449(1), 450(1), ]
+Packet sent; type=DATA; seqNum=441;length=1456;checksum_in_packet=2642991027
+Packet received; type=ACK; seqNum=442;length=0;checksum_in_packet=4253356348
+Updating window;
+Window state: [442(1), 443(1), 444(1), 445(1), 446(1), 447(1), 448(1), 449(1), 450(1), 451(1), ]
+Packet sent; type=DATA; seqNum=442;length=1456;checksum_in_packet=1505071255
+Packet received; type=ACK; seqNum=443;length=0;checksum_in_packet=3236247692
+Updating window;
+Window state: [443(1), 444(1), 445(1), 446(1), 447(1), 448(1), 449(1), 450(1), 451(1), 452(1), ]
+Packet sent; type=DATA; seqNum=443;length=1456;checksum_in_packet=2647057363
+Packet received; type=ACK; seqNum=444;length=0;checksum_in_packet=1925571740
+Updating window;
+Window state: [444(1), 445(1), 446(1), 447(1), 448(1), 449(1), 450(1), 451(1), 452(1), 453(1), ]
+Packet sent; type=DATA; seqNum=444;length=1456;checksum_in_packet=1208022892
+Packet received; type=ACK; seqNum=445;length=0;checksum_in_packet=1336266028
+Updating window;
+Window state: [445(1), 446(1), 447(1), 448(1), 449(1), 450(1), 451(1), 452(1), 453(1), 454(1), ]
+Packet sent; type=DATA; seqNum=445;length=1456;checksum_in_packet=3245160723
+Packet received; type=ACK; seqNum=446;length=0;checksum_in_packet=134592508
+Updating window;
+Window state: [446(1), 447(1), 448(1), 449(1), 450(1), 451(1), 452(1), 453(1), 454(1), 455(1), ]
+Packet sent; type=DATA; seqNum=446;length=1456;checksum_in_packet=2305538088
+Timeout for packet seqNum=446
+Packet received; type=ACK; seqNum=447;length=0;checksum_in_packet=895852108
+Updating window;
+Window state: [447(1), 448(1), 449(1), 450(1), 451(1), 452(1), 453(1), 454(1), 455(1), 456(1), ]
+Packet sent; type=DATA; seqNum=447;length=1456;checksum_in_packet=3221049428
+Packet received; type=ACK; seqNum=448;length=0;checksum_in_packet=1323821394
+Updating window;
+Window state: [448(1), 449(1), 450(1), 451(1), 452(1), 453(1), 454(1), 455(1), 456(1), 457(1), ]
+Packet sent; type=DATA; seqNum=448;length=1456;checksum_in_packet=794903061
+Timeout for packet seqNum=448
+Packet received; type=ACK; seqNum=449;length=0;checksum_in_packet=1938276578
+Updating window;
+Window state: [449(1), 450(1), 451(1), 452(1), 453(1), 454(1), 455(1), 456(1), 457(1), 458(1), ]
+Packet sent; type=DATA; seqNum=449;length=1456;checksum_in_packet=1054917025
+Packet received; type=ACK; seqNum=450;length=0;checksum_in_packet=875018802
+Updating window;
+Window state: [450(1), 451(1), 452(1), 453(1), 454(1), 455(1), 456(1), 457(1), 458(1), 459(1), ]
+Packet sent; type=DATA; seqNum=450;length=1456;checksum_in_packet=1716936162
+Packet received; type=ACK; seqNum=451;length=0;checksum_in_packet=155685762
+Updating window;
+Window state: [451(1), 452(1), 453(1), 454(1), 455(1), 456(1), 457(1), 458(1), 459(1), 460(1), ]
+Packet sent; type=DATA; seqNum=451;length=1456;checksum_in_packet=661999574
+Timeout for packet seqNum=451
+Packet received; type=ACK; seqNum=452;length=0;checksum_in_packet=3144109970
+Updating window;
+Window state: [452(1), 453(1), 454(1), 455(1), 456(1), 457(1), 458(1), 459(1), 460(1), 461(1), ]
+Packet sent; type=DATA; seqNum=452;length=1456;checksum_in_packet=3058106596
+Packet received; type=ACK; seqNum=453;length=0;checksum_in_packet=2248631842
+Updating window;
+Window state: [453(1), 454(1), 455(1), 456(1), 457(1), 458(1), 459(1), 460(1), 461(1), 462(1), ]
+Packet sent; type=DATA; seqNum=453;length=1456;checksum_in_packet=3755168844
+Packet received; type=ACK; seqNum=454;length=0;checksum_in_packet=3248954610
+Updating window;
+Window state: [454(1), 455(1), 456(1), 457(1), 458(1), 459(1), 460(1), 461(1), 462(1), 463(1), ]
+Packet sent; type=DATA; seqNum=454;length=1456;checksum_in_packet=2649996350
+Packet received; type=ACK; seqNum=455;length=0;checksum_in_packet=4240913730
+Updating window;
+Window state: [455(1), 456(1), 457(1), 458(1), 459(1), 460(1), 461(1), 462(1), 463(1), 464(1), ]
+Packet sent; type=DATA; seqNum=455;length=1456;checksum_in_packet=1547478237
+Packet received; type=ACK; seqNum=456;length=0;checksum_in_packet=2123866771
+Updating window;
+Window state: [456(1), 457(1), 458(1), 459(1), 460(1), 461(1), 462(1), 463(1), 464(1), 465(1), ]
+Packet sent; type=DATA; seqNum=456;length=1456;checksum_in_packet=3499358912
+Packet received; type=ACK; seqNum=457;length=0;checksum_in_packet=1140296483
+Updating window;
+Window state: [457(1), 458(1), 459(1), 460(1), 461(1), 462(1), 463(1), 464(1), 465(1), 466(1), ]
+Packet sent; type=DATA; seqNum=457;length=1456;checksum_in_packet=808674214
+Packet received; type=ACK; seqNum=458;length=0;checksum_in_packet=72872435
+Updating window;
+Window state: [458(1), 459(1), 460(1), 461(1), 462(1), 463(1), 464(1), 465(1), 466(1), 467(1), ]
+Packet sent; type=DATA; seqNum=458;length=1456;checksum_in_packet=281115113
+Packet received; type=ACK; seqNum=459;length=0;checksum_in_packet=959961155
+Updating window;
+Window state: [459(1), 460(1), 461(1), 462(1), 463(1), 464(1), 465(1), 466(1), 467(1), 468(1), ]
+Packet sent; type=DATA; seqNum=459;length=1456;checksum_in_packet=1701026392
+Timeout for packet seqNum=459
+Timeout for packet seqNum=459
+Timeout for packet seqNum=459
+Packet received; type=ACK; seqNum=460;length=0;checksum_in_packet=2333541459
+Updating window;
+Window state: [460(1), 461(1), 462(1), 463(1), 464(1), 465(1), 466(1), 467(1), 468(1), 469(1), ]
+Packet sent; type=DATA; seqNum=460;length=1456;checksum_in_packet=4133545269
+Packet received; type=ACK; seqNum=461;length=0;checksum_in_packet=3061263843
+Updating window;
+Window state: [461(1), 462(1), 463(1), 464(1), 465(1), 466(1), 467(1), 468(1), 469(1), 470(1), ]
+Packet sent; type=DATA; seqNum=461;length=1456;checksum_in_packet=3971417712
+Packet received; type=ACK; seqNum=462;length=0;checksum_in_packet=4057421619
+Updating window;
+Window state: [462(1), 463(1), 464(1), 465(1), 466(1), 467(1), 468(1), 469(1), 470(1), 471(1), ]
+Packet sent; type=DATA; seqNum=462;length=1456;checksum_in_packet=3491841778
+Timeout for packet seqNum=462
+Packet received; type=ACK; seqNum=463;length=0;checksum_in_packet=3434577539
+Updating window;
+Window state: [463(1), 464(1), 465(1), 466(1), 467(1), 468(1), 469(1), 470(1), 471(1), 472(1), ]
+Packet sent; type=DATA; seqNum=463;length=1456;checksum_in_packet=1423330427
+Packet received; type=ACK; seqNum=464;length=0;checksum_in_packet=772243152
+Updating window;
+Window state: [464(1), 465(1), 466(1), 467(1), 468(1), 469(1), 470(1), 471(1), 472(1), 473(1), ]
+Packet sent; type=DATA; seqNum=464;length=1456;checksum_in_packet=2833726615
+Packet received; type=ACK; seqNum=465;length=0;checksum_in_packet=325539680
+Updating window;
+Window state: [465(1), 466(1), 467(1), 468(1), 469(1), 470(1), 471(1), 472(1), 473(1), 474(1), ]
+Packet sent; type=DATA; seqNum=465;length=1456;checksum_in_packet=2069118661
+Packet received; type=ACK; seqNum=466;length=0;checksum_in_packet=1422339504
+Updating window;
+Window state: [466(1), 467(1), 468(1), 469(1), 470(1), 471(1), 472(1), 473(1), 474(1), 475(1), ]
+Packet sent; type=DATA; seqNum=466;length=1456;checksum_in_packet=2595925559
+Packet received; type=ACK; seqNum=467;length=0;checksum_in_packet=1772553216
+Updating window;
+Window state: [467(1), 468(1), 469(1), 470(1), 471(1), 472(1), 473(1), 474(1), 475(1), 476(1), ]
+Packet sent; type=DATA; seqNum=467;length=1456;checksum_in_packet=1046837264
+Packet received; type=ACK; seqNum=468;length=0;checksum_in_packet=3683112976
+Updating window;
+Window state: [468(1), 469(1), 470(1), 471(1), 472(1), 473(1), 474(1), 475(1), 476(1), 477(1), ]
+Packet sent; type=DATA; seqNum=468;length=1456;checksum_in_packet=2607671833
+Packet received; type=ACK; seqNum=469;length=0;checksum_in_packet=3873960352
+Updating window;
+Window state: [469(1), 470(1), 471(1), 472(1), 473(1), 474(1), 475(1), 476(1), 477(1), 478(1), ]
+Packet sent; type=DATA; seqNum=469;length=1456;checksum_in_packet=2173677272
+Packet received; type=ACK; seqNum=470;length=0;checksum_in_packet=2705820528
+Updating window;
+Window state: [470(1), 471(1), 472(1), 473(1), 474(1), 475(1), 476(1), 477(1), 478(1), 479(1), ]
+Packet sent; type=DATA; seqNum=470;length=1456;checksum_in_packet=3104259547
+Timeout for packet seqNum=470
+Packet received; type=ACK; seqNum=471;length=0;checksum_in_packet=2619843264
+Updating window;
+Window state: [471(1), 472(1), 473(1), 474(1), 475(1), 476(1), 477(1), 478(1), 479(1), 480(1), ]
+Packet sent; type=DATA; seqNum=471;length=1456;checksum_in_packet=3668508520
+Packet received; type=ACK; seqNum=472;length=0;checksum_in_packet=511128849
+Updating window;
+Window state: [472(1), 473(1), 474(1), 475(1), 476(1), 477(1), 478(1), 479(1), 480(1), 481(1), ]
+Packet sent; type=DATA; seqNum=472;length=1456;checksum_in_packet=3369434606
+Packet received; type=ACK; seqNum=473;length=0;checksum_in_packet=588717217
+Updating window;
+Window state: [473(1), 474(1), 475(1), 476(1), 477(1), 478(1), 479(1), 480(1), 481(1), 482(1), ]
+Packet sent; type=DATA; seqNum=473;length=1456;checksum_in_packet=2966485340
+Packet received; type=ACK; seqNum=474;length=0;checksum_in_packet=1689740913
+Updating window;
+Window state: [474(1), 475(1), 476(1), 477(1), 478(1), 479(1), 480(1), 481(1), 482(1), 483(1), ]
+Packet sent; type=DATA; seqNum=474;length=1456;checksum_in_packet=2895206481
+Packet received; type=ACK; seqNum=475;length=0;checksum_in_packet=1507282881
+Updating window;
+Window state: [475(1), 476(1), 477(1), 478(1), 479(1), 480(1), 481(1), 482(1), 483(1), 484(1), ]
+Packet sent; type=DATA; seqNum=475;length=1456;checksum_in_packet=254027938
+Packet received; type=ACK; seqNum=476;length=0;checksum_in_packet=3958870993
+Updating window;
+Window state: [476(1), 477(1), 478(1), 479(1), 480(1), 481(1), 482(1), 483(1), 484(1), 485(1), ]
+Packet sent; type=DATA; seqNum=476;length=1456;checksum_in_packet=3030284435
+Packet received; type=ACK; seqNum=477;length=0;checksum_in_packet=3600267873
+Updating window;
+Window state: [477(1), 478(1), 479(1), 480(1), 481(1), 482(1), 483(1), 484(1), 485(1), 486(1), ]
+Packet sent; type=DATA; seqNum=477;length=1456;checksum_in_packet=2857327895
+Packet received; type=ACK; seqNum=478;length=0;checksum_in_packet=2436350129
+Updating window;
+Window state: [478(1), 479(1), 480(1), 481(1), 482(1), 483(1), 484(1), 485(1), 486(1), 487(1), ]
+Packet sent; type=DATA; seqNum=478;length=1456;checksum_in_packet=3091325291
+Packet received; type=ACK; seqNum=479;length=0;checksum_in_packet=2891442433
+Updating window;
+Window state: [479(1), 480(1), 481(1), 482(1), 483(1), 484(1), 485(1), 486(1), 487(1), 488(1), ]
+Packet sent; type=DATA; seqNum=479;length=1456;checksum_in_packet=3042822340
+Packet received; type=ACK; seqNum=480;length=0;checksum_in_packet=2401683030
+Updating window;
+Window state: [480(1), 481(1), 482(1), 483(1), 484(1), 485(1), 486(1), 487(1), 488(1), 489(1), ]
+Packet sent; type=DATA; seqNum=480;length=1456;checksum_in_packet=1795637356
+Packet received; type=ACK; seqNum=481;length=0;checksum_in_packet=2990993382
+Updating window;
+Window state: [481(1), 482(1), 483(1), 484(1), 485(1), 486(1), 487(1), 488(1), 489(1), 490(1), ]
+Packet sent; type=DATA; seqNum=481;length=1456;checksum_in_packet=1138428057
+Packet received; type=ACK; seqNum=482;length=0;checksum_in_packet=4125529398
+Updating window;
+Window state: [482(1), 483(1), 484(1), 485(1), 486(1), 487(1), 488(1), 489(1), 490(1), 491(1), ]
+Packet sent; type=DATA; seqNum=482;length=1456;checksum_in_packet=2606615970
+Packet received; type=ACK; seqNum=483;length=0;checksum_in_packet=3364273286
+Updating window;
+Window state: [483(1), 484(1), 485(1), 486(1), 487(1), 488(1), 489(1), 490(1), 491(1), 492(1), ]
+Packet sent; type=DATA; seqNum=483;length=1456;checksum_in_packet=2751048179
+Packet received; type=ACK; seqNum=484;length=0;checksum_in_packet=2057724054
+Updating window;
+Window state: [484(1), 485(1), 486(1), 487(1), 488(1), 489(1), 490(1), 491(1), 492(1), 493(1), ]
+Packet sent; type=DATA; seqNum=484;length=1456;checksum_in_packet=3456141556
+Packet received; type=ACK; seqNum=485;length=0;checksum_in_packet=1204177190
+Updating window;
+Window state: [485(1), 486(1), 487(1), 488(1), 489(1), 490(1), 491(1), 492(1), 493(1), 494(1), ]
+Packet sent; type=DATA; seqNum=485;length=1456;checksum_in_packet=779542554
+Packet received; type=ACK; seqNum=486;length=0;checksum_in_packet=6697974
+Updating window;
+Window state: [486(1), 487(1), 488(1), 489(1), 490(1), 491(1), 492(1), 493(1), 494(1), 495(1), ]
+Packet sent; type=DATA; seqNum=486;length=1456;checksum_in_packet=2796803402
+Packet received; type=ACK; seqNum=487;length=0;checksum_in_packet=1023810118
+Updating window;
+Window state: [487(1), 488(1), 489(1), 490(1), 491(1), 492(1), 493(1), 494(1), 495(1), 496(1), ]
+Packet sent; type=DATA; seqNum=487;length=1456;checksum_in_packet=2870837710
+Packet received; type=ACK; seqNum=488;length=0;checksum_in_packet=3210120599
+Updating window;
+Window state: [488(1), 489(1), 490(1), 491(1), 492(1), 493(1), 494(1), 495(1), 496(1), 497(1), ]
+Packet sent; type=DATA; seqNum=488;length=1456;checksum_in_packet=3186747485
+Packet received; type=ACK; seqNum=489;length=0;checksum_in_packet=2184619047
+Updating window;
+Window state: [489(1), 490(1), 491(1), 492(1), 493(1), 494(1), 495(1), 496(1), 497(1), 498(1), ]
+Packet sent; type=DATA; seqNum=489;length=1456;checksum_in_packet=478345403
+Timeout for packet seqNum=489
+Packet received; type=ACK; seqNum=490;length=0;checksum_in_packet=3314999031
+Updating window;
+Window state: [490(1), 491(1), 492(1), 493(1), 494(1), 495(1), 496(1), 497(1), 498(1), 499(1), ]
+Packet sent; type=DATA; seqNum=490;length=1456;checksum_in_packet=825303185
+Packet received; type=ACK; seqNum=491;length=0;checksum_in_packet=4176934727
+Updating window;
+Window state: [491(1), 492(1), 493(1), 494(1), 495(1), 496(1), 497(1), 498(1), 499(1), 500(1), ]
+Packet sent; type=DATA; seqNum=491;length=1456;checksum_in_packet=3137254259
+Packet received; type=ACK; seqNum=492;length=0;checksum_in_packet=1255549783
+Updating window;
+Window state: [492(1), 493(1), 494(1), 495(1), 496(1), 497(1), 498(1), 499(1), 500(1), 501(1), ]
+Packet sent; type=DATA; seqNum=492;length=1456;checksum_in_packet=4181267307
+Packet received; type=ACK; seqNum=493;length=0;checksum_in_packet=2008416999
+Updating window;
+Window state: [493(1), 494(1), 495(1), 496(1), 497(1), 498(1), 499(1), 500(1), 501(1), 502(1), ]
+Packet sent; type=DATA; seqNum=493;length=1456;checksum_in_packet=3745209505
+Packet received; type=ACK; seqNum=494;length=0;checksum_in_packet=806778935
+Updating window;
+Window state: [494(1), 495(1), 496(1), 497(1), 498(1), 499(1), 500(1), 501(1), 502(1), 503(1), ]
+Packet sent; type=DATA; seqNum=494;length=1456;checksum_in_packet=1998461936
+Packet received; type=ACK; seqNum=495;length=0;checksum_in_packet=225857927
+Updating window;
+Window state: [495(1), 496(1), 497(1), 498(1), 499(1), 500(1), 501(1), 502(1), 503(1), 504(1), ]
+Packet sent; type=DATA; seqNum=495;length=1456;checksum_in_packet=3633851700
+Packet received; type=ACK; seqNum=496;length=0;checksum_in_packet=4022751700
+Updating window;
+Window state: [496(1), 497(1), 498(1), 499(1), 500(1), 501(1), 502(1), 503(1), 504(1), 505(1), ]
+Packet sent; type=DATA; seqNum=496;length=1456;checksum_in_packet=1114483550
+Packet received; type=ACK; seqNum=497;length=0;checksum_in_packet=3534125156
+Updating window;
+Window state: [497(1), 498(1), 499(1), 500(1), 501(1), 502(1), 503(1), 504(1), 505(1), 506(1), ]
+Packet sent; type=DATA; seqNum=497;length=1456;checksum_in_packet=3044289104
+Packet received; type=ACK; seqNum=498;length=0;checksum_in_packet=2500199092
+Updating window;
+Window state: [498(1), 499(1), 500(1), 501(1), 502(1), 503(1), 504(1), 505(1), 506(1), 507(1), ]
+Packet sent; type=DATA; seqNum=498;length=1456;checksum_in_packet=295093787
+Packet received; type=ACK; seqNum=499;length=0;checksum_in_packet=2825267972
+Updating window;
+Window state: [499(1), 500(1), 501(1), 502(1), 503(1), 504(1), 505(1), 506(1), 507(1), 508(1), ]
+Packet sent; type=DATA; seqNum=499;length=1456;checksum_in_packet=1978104103
+Packet received; type=ACK; seqNum=500;length=0;checksum_in_packet=440858388
+Updating window;
+Window state: [500(1), 501(1), 502(1), 503(1), 504(1), 505(1), 506(1), 507(1), 508(1), 509(1), ]
+Packet sent; type=DATA; seqNum=500;length=1456;checksum_in_packet=3265441531
+Timeout for packet seqNum=500
+Packet received; type=ACK; seqNum=501;length=0;checksum_in_packet=656858788
+Updating window;
+Window state: [501(1), 502(1), 503(1), 504(1), 505(1), 506(1), 507(1), 508(1), 509(1), 510(1), ]
+Packet sent; type=DATA; seqNum=501;length=1456;checksum_in_packet=3536174879
+Packet received; type=ACK; seqNum=502;length=0;checksum_in_packet=1619436660
+Updating window;
+Window state: [502(1), 503(1), 504(1), 505(1), 506(1), 507(1), 508(1), 509(1), 510(1), 511(1), ]
+Packet sent; type=DATA; seqNum=502;length=1456;checksum_in_packet=2679861393
+Packet received; type=ACK; seqNum=503;length=0;checksum_in_packet=1575390660
+Updating window;
+Window state: [503(1), 504(1), 505(1), 506(1), 507(1), 508(1), 509(1), 510(1), 511(1), 512(1), ]
+Packet sent; type=DATA; seqNum=503;length=1456;checksum_in_packet=2283804105
+Timeout for packet seqNum=503
+Packet received; type=ACK; seqNum=504;length=0;checksum_in_packet=3753253397
+Updating window;
+Window state: [504(1), 505(1), 506(1), 507(1), 508(1), 509(1), 510(1), 511(1), 512(1), 513(1), ]
+Packet sent; type=DATA; seqNum=504;length=1456;checksum_in_packet=1727076250
+Packet received; type=ACK; seqNum=505;length=0;checksum_in_packet=3805688741
+Updating window;
+Window state: [505(1), 506(1), 507(1), 508(1), 509(1), 510(1), 511(1), 512(1), 513(1), 514(1), ]
+Packet sent; type=DATA; seqNum=505;length=1456;checksum_in_packet=4191919618
+Packet received; type=ACK; seqNum=506;length=0;checksum_in_packet=2775992693
+Updating window;
+Window state: [506(1), 507(1), 508(1), 509(1), 510(1), 511(1), 512(1), 513(1), 514(1), 515(1), ]
+Packet sent; type=DATA; seqNum=506;length=1456;checksum_in_packet=3586262377
+Packet received; type=ACK; seqNum=507;length=0;checksum_in_packet=2551603397
+Updating window;
+Window state: [507(1), 508(1), 509(1), 510(1), 511(1), 512(1), 513(1), 514(1), 515(1), 516(1), ]
+Packet sent; type=DATA; seqNum=507;length=1456;checksum_in_packet=1494555148
+Packet received; type=ACK; seqNum=508;length=0;checksum_in_packet=708230357
+Updating window;
+Window state: [508(1), 509(1), 510(1), 511(1), 512(1), 513(1), 514(1), 515(1), 516(1), 517(1), ]
+Packet sent; type=DATA; seqNum=508;length=1456;checksum_in_packet=2080586049
+Packet received; type=ACK; seqNum=509;length=0;checksum_in_packet=391550309
+Updating window;
+Window state: [509(1), 510(1), 511(1), 512(1), 513(1), 514(1), 515(1), 516(1), 517(1), 518(1), ]
+Packet sent; type=DATA; seqNum=509;length=1456;checksum_in_packet=622391911
+Packet received; type=ACK; seqNum=510;length=0;checksum_in_packet=1358360501
+Updating window;
+Window state: [510(1), 511(1), 512(1), 513(1), 514(1), 515(1), 516(1), 517(1), 518(1), 519(1), ]
+Packet sent; type=DATA; seqNum=510;length=1456;checksum_in_packet=3343473372
+Packet received; type=ACK; seqNum=511;length=0;checksum_in_packet=1838597637
+Updating window;
+Window state: [511(1), 512(1), 513(1), 514(1), 515(1), 516(1), 517(1), 518(1), 519(1), 520(1), ]
+Packet sent; type=DATA; seqNum=511;length=1456;checksum_in_packet=2055431640
+Packet received; type=ACK; seqNum=512;length=0;checksum_in_packet=560362279
+Updating window;
+Window state: [512(1), 513(1), 514(1), 515(1), 516(1), 517(1), 518(1), 519(1), 520(1), 521(1), ]
+Packet sent; type=DATA; seqNum=512;length=1456;checksum_in_packet=333733196
+Packet received; type=ACK; seqNum=513;length=0;checksum_in_packet=470178455
+Updating window;
+Window state: [513(1), 514(1), 515(1), 516(1), 517(1), 518(1), 519(1), 520(1), 521(1), 522(1), ]
+Packet sent; type=DATA; seqNum=513;length=1456;checksum_in_packet=2986230299
+Packet received; type=ACK; seqNum=514;length=0;checksum_in_packet=1537613895
+Updating window;
+Window state: [514(1), 515(1), 516(1), 517(1), 518(1), 519(1), 520(1), 521(1), 522(1), 523(1), ]
+Packet sent; type=DATA; seqNum=514;length=1456;checksum_in_packet=3557899465
+Packet received; type=ACK; seqNum=515;length=0;checksum_in_packet=1724254711
+Updating window;
+Window state: [515(1), 516(1), 517(1), 518(1), 519(1), 520(1), 521(1), 522(1), 523(1), 524(1), ]
+Packet sent; type=DATA; seqNum=515;length=1456;checksum_in_packet=45399526
+Timeout for packet seqNum=515
+Packet received; type=ACK; seqNum=516;length=0;checksum_in_packet=3571897831
+Updating window;
+Window state: [516(1), 517(1), 518(1), 519(1), 520(1), 521(1), 522(1), 523(1), 524(1), 525(1), ]
+Packet sent; type=DATA; seqNum=516;length=1456;checksum_in_packet=1705651522
+Packet received; type=ACK; seqNum=517;length=0;checksum_in_packet=3917937751
+Updating window;
+Window state: [517(1), 518(1), 519(1), 520(1), 521(1), 522(1), 523(1), 524(1), 525(1), 526(1), ]
+Packet sent; type=DATA; seqNum=517;length=1456;checksum_in_packet=3704726121
+Timeout for packet seqNum=517
+Packet received; type=ACK; seqNum=518;length=0;checksum_in_packet=2921760391
+Updating window;
+Window state: [518(1), 519(1), 520(1), 521(1), 522(1), 523(1), 524(1), 525(1), 526(1), 527(1), ]
+Packet sent; type=DATA; seqNum=518;length=1456;checksum_in_packet=1458232553
+Packet received; type=ACK; seqNum=519;length=0;checksum_in_packet=2470883127
+Updating window;
+Window state: [519(1), 520(1), 521(1), 522(1), 523(1), 524(1), 525(1), 526(1), 527(1), 528(1), ]
+Packet sent; type=DATA; seqNum=519;length=1456;checksum_in_packet=1002440330
+Packet received; type=ACK; seqNum=520;length=0;checksum_in_packet=286669030
+Updating window;
+Window state: [520(1), 521(1), 522(1), 523(1), 524(1), 525(1), 526(1), 527(1), 528(1), 529(1), ]
+Packet sent; type=DATA; seqNum=520;length=1456;checksum_in_packet=376568564
+Packet received; type=ACK; seqNum=521;length=0;checksum_in_packet=745935190
+Updating window;
+Window state: [521(1), 522(1), 523(1), 524(1), 525(1), 526(1), 527(1), 528(1), 529(1), 530(1), ]
+Packet sent; type=DATA; seqNum=521;length=1456;checksum_in_packet=3407715584
+Timeout for packet seqNum=521
+Packet received; type=ACK; seqNum=522;length=0;checksum_in_packet=1809214342
+Updating window;
+Window state: [522(1), 523(1), 524(1), 525(1), 526(1), 527(1), 528(1), 529(1), 530(1), 531(1), ]
+Packet sent; type=DATA; seqNum=522;length=1456;checksum_in_packet=2511221226
+Packet received; type=ACK; seqNum=523;length=0;checksum_in_packet=1454785078
+Updating window;
+Window state: [523(1), 524(1), 525(1), 526(1), 527(1), 528(1), 529(1), 530(1), 531(1), 532(1), ]
+Packet sent; type=DATA; seqNum=523;length=1456;checksum_in_packet=1840768645
+Packet received; type=ACK; seqNum=524;length=0;checksum_in_packet=3835076134
+Updating window;
+Window state: [524(1), 525(1), 526(1), 527(1), 528(1), 529(1), 530(1), 531(1), 532(1), 533(1), ]
+Packet sent; type=DATA; seqNum=524;length=1456;checksum_in_packet=2759930968
+Packet received; type=ACK; seqNum=525;length=0;checksum_in_packet=3656824726
+Updating window;
+Window state: [525(1), 526(1), 527(1), 528(1), 529(1), 530(1), 531(1), 532(1), 533(1), 534(1), ]
+Packet sent; type=DATA; seqNum=525;length=1456;checksum_in_packet=1490425254
+Packet received; type=ACK; seqNum=526;length=0;checksum_in_packet=2656488774
+Updating window;
+Window state: [526(1), 527(1), 528(1), 529(1), 530(1), 531(1), 532(1), 533(1), 534(1), 535(1), ]
+Packet sent; type=DATA; seqNum=526;length=1456;checksum_in_packet=2660807273
+Packet received; type=ACK; seqNum=527;length=0;checksum_in_packet=2738283766
+Updating window;
+Window state: [527(1), 528(1), 529(1), 530(1), 531(1), 532(1), 533(1), 534(1), 535(1), 536(1), ]
+Packet sent; type=DATA; seqNum=527;length=1456;checksum_in_packet=802297539
+Packet received; type=ACK; seqNum=528;length=0;checksum_in_packet=1099359397
+Updating window;
+Window state: [528(1), 529(1), 530(1), 531(1), 532(1), 533(1), 534(1), 535(1), 536(1), 537(1), ]
+Packet sent; type=DATA; seqNum=528;length=1456;checksum_in_packet=784527124
+Packet received; type=ACK; seqNum=529;length=0;checksum_in_packet=2095500565
+Updating window;
+Window state: [529(1), 530(1), 531(1), 532(1), 533(1), 534(1), 535(1), 536(1), 537(1), 538(1), ]
+Packet sent; type=DATA; seqNum=529;length=1456;checksum_in_packet=4116460414
+Timeout for packet seqNum=529
+Packet received; type=ACK; seqNum=530;length=0;checksum_in_packet=994490309
+Updating window;
+Window state: [530(1), 531(1), 532(1), 533(1), 534(1), 535(1), 536(1), 537(1), 538(1), 539(1), ]
+Packet sent; type=DATA; seqNum=530;length=1456;checksum_in_packet=869484651
+Timeout for packet seqNum=530
+Packet received; type=ACK; seqNum=531;length=0;checksum_in_packet=103194229
+Updating window;
+Window state: [531(1), 532(1), 533(1), 534(1), 535(1), 536(1), 537(1), 538(1), 539(1), 540(1), ]
+Packet sent; type=DATA; seqNum=531;length=1456;checksum_in_packet=1094908532
+Packet received; type=ACK; seqNum=532;length=0;checksum_in_packet=3020309093
+Updating window;
+Window state: [532(1), 533(1), 534(1), 535(1), 536(1), 537(1), 538(1), 539(1), 540(1), 541(1), ]
+Packet received; type=ACK; seqNum=533;length=0;checksum_in_packet=2305190869
+Updating window;
+Window state: [533(1), 534(1), 535(1), 536(1), 537(1), 538(1), 539(1), 540(1), 541(1), 542(1), ]
+Packet sent; type=DATA; seqNum=533;length=1456;checksum_in_packet=3491498863
+Packet received; type=ACK; seqNum=534;length=0;checksum_in_packet=3469086981
+Updating window;
+Window state: [534(1), 535(1), 536(1), 537(1), 538(1), 539(1), 540(1), 541(1), 542(1), 543(1), ]
+Packet sent; type=DATA; seqNum=534;length=1456;checksum_in_packet=4155889603
+Packet received; type=ACK; seqNum=535;length=0;checksum_in_packet=4087756981
+Updating window;
+Window state: [535(1), 536(1), 537(1), 538(1), 539(1), 540(1), 541(1), 542(1), 543(1), 544(1), ]
+Packet sent; type=DATA; seqNum=535;length=1456;checksum_in_packet=3719670875
+Packet received; type=ACK; seqNum=536;length=0;checksum_in_packet=1911992164
+Updating window;
+Window state: [536(1), 537(1), 538(1), 539(1), 540(1), 541(1), 542(1), 543(1), 544(1), 545(1), ]
+Packet sent; type=DATA; seqNum=536;length=1456;checksum_in_packet=4022644400
+Timeout for packet seqNum=536
+Packet received; type=ACK; seqNum=537;length=0;checksum_in_packet=1284933332
+Updating window;
+Window state: [537(1), 538(1), 539(1), 540(1), 541(1), 542(1), 543(1), 544(1), 545(1), 546(1), ]
+Packet sent; type=DATA; seqNum=537;length=1456;checksum_in_packet=597811826
+Packet received; type=ACK; seqNum=538;length=0;checksum_in_packet=188152836
+Updating window;
+Window state: [538(1), 539(1), 540(1), 541(1), 542(1), 543(1), 544(1), 545(1), 546(1), 547(1), ]
+Packet sent; type=DATA; seqNum=538;length=1456;checksum_in_packet=166632011
+Packet received; type=ACK; seqNum=539;length=0;checksum_in_packet=911660468
+Updating window;
+Window state: [539(1), 540(1), 541(1), 542(1), 543(1), 544(1), 545(1), 546(1), 547(1), 548(1), ]
+Packet sent; type=DATA; seqNum=539;length=1456;checksum_in_packet=2018618545
+Packet received; type=ACK; seqNum=540;length=0;checksum_in_packet=2222328228
+Updating window;
+Window state: [540(1), 541(1), 542(1), 543(1), 544(1), 545(1), 546(1), 547(1), 548(1), 549(1), ]
+Packet sent; type=DATA; seqNum=540;length=1456;checksum_in_packet=2967587491
+Packet received; type=ACK; seqNum=541;length=0;checksum_in_packet=3105234964
+Updating window;
+Window state: [541(1), 542(1), 543(1), 544(1), 545(1), 546(1), 547(1), 548(1), 549(1), 550(1), ]
+Packet sent; type=DATA; seqNum=541;length=1456;checksum_in_packet=3347595783
+Packet received; type=ACK; seqNum=542;length=0;checksum_in_packet=4273363652
+Updating window;
+Window state: [542(1), 543(1), 544(1), 545(1), 546(1), 547(1), 548(1), 549(1), 550(1), 551(1), ]
+Packet sent; type=DATA; seqNum=542;length=1456;checksum_in_packet=4233490927
+Packet received; type=ACK; seqNum=543;length=0;checksum_in_packet=3285611380
+Updating window;
+Window state: [543(1), 544(1), 545(1), 546(1), 547(1), 548(1), 549(1), 550(1), 551(1), 552(1), ]
+Packet sent; type=DATA; seqNum=543;length=1456;checksum_in_packet=2753918248
+Packet received; type=ACK; seqNum=544;length=0;checksum_in_packet=3769064483
+Updating window;
+Window state: [544(1), 545(1), 546(1), 547(1), 548(1), 549(1), 550(1), 551(1), 552(1), 553(1), ]
+Packet sent; type=DATA; seqNum=544;length=1456;checksum_in_packet=3737515607
+Packet received; type=ACK; seqNum=545;length=0;checksum_in_packet=3720836499
+Updating window;
+Window state: [545(1), 546(1), 547(1), 548(1), 549(1), 550(1), 551(1), 552(1), 553(1), 554(1), ]
+Packet sent; type=DATA; seqNum=545;length=1456;checksum_in_packet=785324011
+Packet received; type=ACK; seqNum=546;length=0;checksum_in_packet=2590445379
+Updating window;
+Window state: [546(1), 547(1), 548(1), 549(1), 550(1), 551(1), 552(1), 553(1), 554(1), 555(1), ]
+Packet sent; type=DATA; seqNum=546;length=1456;checksum_in_packet=1346790960
+Packet received; type=ACK; seqNum=547;length=0;checksum_in_packet=2802263795
+Updating window;
+Window state: [547(1), 548(1), 549(1), 550(1), 551(1), 552(1), 553(1), 554(1), 555(1), 556(1), ]
+Packet sent; type=DATA; seqNum=547;length=1456;checksum_in_packet=1143261871
+Packet received; type=ACK; seqNum=548;length=0;checksum_in_packet=354941667
+Updating window;
+Window state: [548(1), 549(1), 550(1), 551(1), 552(1), 553(1), 554(1), 555(1), 556(1), 557(1), ]
+Packet sent; type=DATA; seqNum=548;length=1456;checksum_in_packet=2879658471
+Packet received; type=ACK; seqNum=549;length=0;checksum_in_packet=675795795
+Updating window;
+Window state: [549(1), 550(1), 551(1), 552(1), 553(1), 554(1), 555(1), 556(1), 557(1), 558(1), ]
+Packet sent; type=DATA; seqNum=549;length=1456;checksum_in_packet=1099424990
+Packet received; type=ACK; seqNum=550;length=0;checksum_in_packet=1877453187
+Updating window;
+Window state: [550(1), 551(1), 552(1), 553(1), 554(1), 555(1), 556(1), 557(1), 558(1), 559(1), ]
+Packet sent; type=DATA; seqNum=550;length=1456;checksum_in_packet=4274841434
+Packet received; type=ACK; seqNum=551;length=0;checksum_in_packet=1384611891
+Updating window;
+Window state: [551(1), 552(1), 553(1), 554(1), 555(1), 556(1), 557(1), 558(1), 559(1), 560(1), ]
+Packet sent; type=DATA; seqNum=551;length=1456;checksum_in_packet=4262745680
+Packet received; type=ACK; seqNum=552;length=0;checksum_in_packet=3503757282
+Updating window;
+Window state: [552(1), 553(1), 554(1), 555(1), 556(1), 557(1), 558(1), 559(1), 560(1), 561(1), ]
+Packet sent; type=DATA; seqNum=552;length=1456;checksum_in_packet=1198288413
+Packet received; type=ACK; seqNum=553;length=0;checksum_in_packet=3988209234
+Updating window;
+Window state: [553(1), 554(1), 555(1), 556(1), 557(1), 558(1), 559(1), 560(1), 561(1), 562(1), ]
+Packet sent; type=DATA; seqNum=553;length=1456;checksum_in_packet=3423315550
+Timeout for packet seqNum=553
+Packet received; type=ACK; seqNum=554;length=0;checksum_in_packet=2853651586
+Updating window;
+Window state: [554(1), 555(1), 556(1), 557(1), 558(1), 559(1), 560(1), 561(1), 562(1), 563(1), ]
+Packet sent; type=DATA; seqNum=554;length=1456;checksum_in_packet=1578027572
+Packet received; type=ACK; seqNum=555;length=0;checksum_in_packet=2541186354
+Updating window;
+Window state: [555(1), 556(1), 557(1), 558(1), 559(1), 560(1), 561(1), 562(1), 563(1), 564(1), ]
+Packet sent; type=DATA; seqNum=555;length=1456;checksum_in_packet=2636980890
+Packet received; type=ACK; seqNum=556;length=0;checksum_in_packet=626503970
+Updating window;
+Window state: [556(1), 557(1), 558(1), 559(1), 560(1), 561(1), 562(1), 563(1), 564(1), 565(1), ]
+Packet sent; type=DATA; seqNum=556;length=1456;checksum_in_packet=1384981312
+Packet received; type=ACK; seqNum=557;length=0;checksum_in_packet=406296722
+Updating window;
+Window state: [557(1), 558(1), 559(1), 560(1), 561(1), 562(1), 563(1), 564(1), 565(1), 566(1), ]
+Packet sent; type=DATA; seqNum=557;length=1456;checksum_in_packet=1281291271
+Packet received; type=ACK; seqNum=558;length=0;checksum_in_packet=1603789378
+Updating window;
+Window state: [558(1), 559(1), 560(1), 561(1), 562(1), 563(1), 564(1), 565(1), 566(1), 567(1), ]
+Packet sent; type=DATA; seqNum=558;length=1456;checksum_in_packet=1577189617
+Timeout for packet seqNum=558
+Packet received; type=ACK; seqNum=559;length=0;checksum_in_packet=1660406770
+Updating window;
+Window state: [559(1), 560(1), 561(1), 562(1), 563(1), 564(1), 565(1), 566(1), 567(1), 568(1), ]
+Packet sent; type=DATA; seqNum=559;length=1456;checksum_in_packet=2802067990
+Timeout for packet seqNum=559
+Packet received; type=ACK; seqNum=560;length=0;checksum_in_packet=2152188833
+Updating window;
+Window state: [560(1), 561(1), 562(1), 563(1), 564(1), 565(1), 566(1), 567(1), 568(1), 569(1), ]
+Packet sent; type=DATA; seqNum=560;length=1456;checksum_in_packet=199762195
+Packet received; type=ACK; seqNum=561;length=0;checksum_in_packet=3173507601
+Updating window;
+Window state: [561(1), 562(1), 563(1), 564(1), 565(1), 566(1), 567(1), 568(1), 569(1), 570(1), ]
+acket=1094908532
+Packet received; type=ACK; seqNum=532;length=0;checksum_in_pPacket sent; type=DATA; seqNum=561;length=1456;checksum_in_packet=3848941451
+Packet received; type=ACK; seqNum=562;length=0;checksum_in_packet=4203190465
+Updating window;
+Window state: [562(1), 563(1), 564(1), 565(1), 566(1), 567(1), 568(1), 569(1), 570(1), 571(1), ]
+Packet sent; type=DATA; seqNum=562;length=1456;checksum_in_packet=2524867386
+Packet received; type=ACK; seqNum=563;length=0;checksum_in_packet=3353850225
+Updating window;
+Window state: [563(1), 564(1), 565(1), 566(1), 567(1), 568(1), 569(1), 570(1), 571(1), 572(1), ]
+Packet sent; type=DATA; seqNum=563;length=1456;checksum_in_packet=1440428687
+Packet received; type=ACK; seqNum=564;length=0;checksum_in_packet=1976003937
+Updating window;
+Window state: [564(1), 565(1), 566(1), 567(1), 568(1), 569(1), 570(1), 571(1), 572(1), 573(1), ]
+Packet sent; type=DATA; seqNum=564;length=1456;checksum_in_packet=2993732565
+Packet received; type=ACK; seqNum=565;length=0;checksum_in_packet=1218921681
+Updating window;
+Window state: [565(1), 566(1), 567(1), 568(1), 569(1), 570(1), 571(1), 572(1), 573(1), 574(1), ]
+Packet sent; type=DATA; seqNum=565;length=1456;checksum_in_packet=1600735354
+Packet received; type=ACK; seqNum=566;length=0;checksum_in_packet=252132865
+Updating window;
+Window state: [566(1), 567(1), 568(1), 569(1), 570(1), 571(1), 572(1), 573(1), 574(1), 575(1), ]
+Packet sent; type=DATA; seqNum=566;length=1456;checksum_in_packet=2139581423
+Packet received; type=ACK; seqNum=567;length=0;checksum_in_packet=845617073
+Updating window;
+Window state: [567(1), 568(1), 569(1), 570(1), 571(1), 572(1), 573(1), 574(1), 575(1), 576(1), ]
+Packet sent; type=DATA; seqNum=567;length=1456;checksum_in_packet=3512926265
+Packet received; type=ACK; seqNum=568;length=0;checksum_in_packet=2956427360
+Updating window;
+Window state: [568(1), 569(1), 570(1), 571(1), 572(1), 573(1), 574(1), 575(1), 576(1), 577(1), ]
+Packet sent; type=DATA; seqNum=568;length=1456;checksum_in_packet=2913748848
+Packet received; type=ACK; seqNum=569;length=0;checksum_in_packet=2371332560
+Updating window;
+Window state: [569(1), 570(1), 571(1), 572(1), 573(1), 574(1), 575(1), 576(1), 577(1), 578(1), ]
+Packet sent; type=DATA; seqNum=569;length=1456;checksum_in_packet=103129349
+Packet received; type=ACK; seqNum=570;length=0;checksum_in_packet=3405239040
+Updating window;
+Window state: [570(1), 571(1), 572(1), 573(1), 574(1), 575(1), 576(1), 577(1), 578(1), 579(1), ]
+Packet sent; type=DATA; seqNum=570;length=1456;checksum_in_packet=2351131947
+Timeout for packet seqNum=570
+Packet received; type=ACK; seqNum=571;length=0;checksum_in_packet=4153932464
+Updating window;
+Window state: [571(1), 572(1), 573(1), 574(1), 575(1), 576(1), 577(1), 578(1), 579(1), 580(1), ]
+Packet sent; type=DATA; seqNum=571;length=1456;checksum_in_packet=4090968998
+Timeout for packet seqNum=571
+Packet received; type=ACK; seqNum=572;length=0;checksum_in_packet=1169630880
+Updating window;
+Window state: [572(1), 573(1), 574(1), 575(1), 576(1), 577(1), 578(1), 579(1), 580(1), 581(1), ]
+Packet sent; type=DATA; seqNum=572;length=1456;checksum_in_packet=3606655502
+Timeout for packet seqNum=572
+Packet received; type=ACK; seqNum=573;length=0;checksum_in_packet=2027360016
+Updating window;
+Window state: [573(1), 574(1), 575(1), 576(1), 577(1), 578(1), 579(1), 580(1), 581(1), 582(1), ]
+Packet sent; type=DATA; seqNum=573;length=1456;checksum_in_packet=686643615
+Packet received; type=ACK; seqNum=574;length=0;checksum_in_packet=1064793536
+Updating window;
+Window state: [574(1), 575(1), 576(1), 577(1), 578(1), 579(1), 580(1), 581(1), 582(1), 583(1), ]
+Packet sent; type=DATA; seqNum=574;length=1456;checksum_in_packet=3662647681
+Packet received; type=ACK; seqNum=575;length=0;checksum_in_packet=35085424
+Updating window;
+Window state: [575(1), 576(1), 577(1), 578(1), 579(1), 580(1), 581(1), 582(1), 583(1), 584(1), ]
+Packet sent; type=DATA; seqNum=575;length=1456;checksum_in_packet=169968024
+Packet received; type=ACK; seqNum=576;length=0;checksum_in_packet=2039819118
+Updating window;
+Window state: [576(1), 577(1), 578(1), 579(1), 580(1), 581(1), 582(1), 583(1), 584(1), 585(1), ]
+Packet sent; type=DATA; seqNum=576;length=1456;checksum_in_packet=4180099267
+Packet received; type=ACK; seqNum=577;length=0;checksum_in_packet=1156907742
+Updating window;
+Window state: [577(1), 578(1), 579(1), 580(1), 581(1), 582(1), 583(1), 584(1), 585(1), 586(1), ]
+Packet sent; type=DATA; seqNum=577;length=1456;checksum_in_packet=3661384634
+Timeout for packet seqNum=577
+Packet received; type=ACK; seqNum=578;length=0;checksum_in_packet=55932942
+Updating window;
+Window state: [578(1), 579(1), 580(1), 581(1), 582(1), 583(1), 584(1), 585(1), 586(1), 587(1), ]
+Packet sent; type=DATA; seqNum=578;length=1456;checksum_in_packet=1711801996
+Packet received; type=ACK; seqNum=579;length=0;checksum_in_packet=1043681726
+Updating window;
+Window state: [579(1), 580(1), 581(1), 582(1), 583(1), 584(1), 585(1), 586(1), 587(1), 588(1), ]
+Packet sent; type=DATA; seqNum=579;length=1456;checksum_in_packet=1705839306
+Packet received; type=ACK; seqNum=580;length=0;checksum_in_packet=2350222766
+Updating window;
+Window state: [580(1), 581(1), 582(1), 583(1), 584(1), 585(1), 586(1), 587(1), 588(1), 589(1), ]
+Packet sent; type=DATA; seqNum=580;length=1456;checksum_in_packet=8910527
+Packet received; type=ACK; seqNum=581;length=0;checksum_in_packet=2977276958
+Updating window;
+Window state: [581(1), 582(1), 583(1), 584(1), 585(1), 586(1), 587(1), 588(1), 589(1), 590(1), ]
+Packet sent; type=DATA; seqNum=581;length=1456;checksum_in_packet=4144333922
+Packet received; type=ACK; seqNum=582;length=0;checksum_in_packet=4141211342
+Updating window;
+Window state: [582(1), 583(1), 584(1), 585(1), 586(1), 587(1), 588(1), 589(1), 590(1), 591(1), ]
+Packet sent; type=DATA; seqNum=582;length=1456;checksum_in_packet=2391767385
+Packet received; type=ACK; seqNum=583;length=0;checksum_in_packet=3417700222
+Updating window;
+Window state: [583(1), 584(1), 585(1), 586(1), 587(1), 588(1), 589(1), 590(1), 591(1), 592(1), ]
+Packet sent; type=DATA; seqNum=583;length=1456;checksum_in_packet=290068111
+Packet received; type=ACK; seqNum=584;length=0;checksum_in_packet=1239769263
+Updating window;
+Window state: [584(1), 585(1), 586(1), 587(1), 588(1), 589(1), 590(1), 591(1), 592(1), 593(1), ]
+Packet sent; type=DATA; seqNum=584;length=1456;checksum_in_packet=2713113693
+Packet received; type=ACK; seqNum=585;length=0;checksum_in_packet=1954892063
+Updating window;
+Window state: [585(1), 586(1), 587(1), 588(1), 589(1), 590(1), 591(1), 592(1), 593(1), 594(1), ]
+Packet sent; type=DATA; seqNum=585;length=1456;checksum_in_packet=3481273077
+Packet received; type=ACK; seqNum=586;length=0;checksum_in_packet=858076111
+Updating window;
+Window state: [586(1), 587(1), 588(1), 589(1), 590(1), 591(1), 592(1), 593(1), 594(1), 595(1), ]
+Packet sent; type=DATA; seqNum=586;length=1456;checksum_in_packet=1485553120
+Packet received; type=ACK; seqNum=587;length=0;checksum_in_packet=239409791
+Updating window;
+Window state: [587(1), 588(1), 589(1), 590(1), 591(1), 592(1), 593(1), 594(1), 595(1), 596(1), ]
+Packet sent; type=DATA; seqNum=587;length=1456;checksum_in_packet=755854864
+Packet received; type=ACK; seqNum=588;length=0;checksum_in_packet=3160786543
+Updating window;
+Window state: [588(1), 589(1), 590(1), 591(1), 592(1), 593(1), 594(1), 595(1), 596(1), 597(1), ]
+Packet sent; type=DATA; seqNum=588;length=1456;checksum_in_packet=1028638362
+Packet received; type=ACK; seqNum=589;length=0;checksum_in_packet=2164649951
+Updating window;
+Window state: [589(1), 590(1), 591(1), 592(1), 593(1), 594(1), 595(1), 596(1), 597(1), 598(1), ]
+Packet sent; type=DATA; seqNum=589;length=1456;checksum_in_packet=405198507
+Packet received; type=ACK; seqNum=590;length=0;checksum_in_packet=3332740367
+Updating window;
+Window state: [590(1), 591(1), 592(1), 593(1), 594(1), 595(1), 596(1), 597(1), 598(1), 599(1), ]
+Packet sent; type=DATA; seqNum=590;length=1456;checksum_in_packet=2285402958
+Packet received; type=ACK; seqNum=591;length=0;checksum_in_packet=4224040127
+Updating window;
+Window state: [591(1), 592(1), 593(1), 594(1), 595(1), 596(1), 597(1), 598(1), 599(1), 600(1), ]
+Packet sent; type=DATA; seqNum=591;length=1456;checksum_in_packet=3010259742
+Packet received; type=ACK; seqNum=592;length=0;checksum_in_packet=427146476
+Updating window;
+Window state: [592(1), 593(1), 594(1), 595(1), 596(1), 597(1), 598(1), 599(1), 600(1), 601(1), ]
+Packet sent; type=DATA; seqNum=592;length=1456;checksum_in_packet=1048043272
+Packet received; type=ACK; seqNum=593;length=0;checksum_in_packet=605394268
+Updating window;
+Window state: [593(1), 594(1), 595(1), 596(1), 597(1), 598(1), 599(1), 600(1), 601(1), 602(1), ]
+Packet sent; type=DATA; seqNum=593;length=1456;checksum_in_packet=4218396592
+Packet received; type=ACK; seqNum=594;length=0;checksum_in_packet=1672867724
+Updating window;
+Window state: [594(1), 595(1), 596(1), 597(1), 598(1), 599(1), 600(1), 601(1), 602(1), 603(1), ]
+Packet sent; type=DATA; seqNum=594;length=1456;checksum_in_packet=539956317
+Packet received; type=ACK; seqNum=595;length=0;checksum_in_packet=1591068220
+Updating window;
+Window state: [595(1), 596(1), 597(1), 598(1), 599(1), 600(1), 601(1), 602(1), 603(1), 604(1), ]
+Packet sent; type=DATA; seqNum=595;length=1456;checksum_in_packet=1089695024
+Packet received; type=ACK; seqNum=596;length=0;checksum_in_packet=3975485996
+Updating window;
+Window state: [596(1), 597(1), 598(1), 599(1), 600(1), 601(1), 602(1), 603(1), 604(1), 605(1), ]
+Packet sent; type=DATA; seqNum=596;length=1456;checksum_in_packet=511049066
+Packet received; type=ACK; seqNum=597;length=0;checksum_in_packet=3516216220
+Updating window;
+Window state: [597(1), 598(1), 599(1), 600(1), 601(1), 602(1), 603(1), 604(1), 605(1), 606(1), ]
+Packet sent; type=DATA; seqNum=597;length=1456;checksum_in_packet=1617097260
+Packet received; type=ACK; seqNum=598;length=0;checksum_in_packet=2520074572
+Updating window;
+Window state: [598(1), 599(1), 600(1), 601(1), 602(1), 603(1), 604(1), 605(1), 606(1), 607(1), ]
+Packet sent; type=DATA; seqNum=598;length=1456;checksum_in_packet=1488230033
+Packet received; type=ACK; seqNum=599;length=0;checksum_in_packet=2874499324
+Updating window;
+Window state: [599(1), 600(1), 601(1), 602(1), 603(1), 604(1), 605(1), 606(1), 607(1), 608(1), ]
+Packet sent; type=DATA; seqNum=599;length=1456;checksum_in_packet=418706383
+Packet received; type=ACK; seqNum=600;length=0;checksum_in_packet=688256813
+Updating window;
+Window state: [600(1), 601(1), 602(1), 603(1), 604(1), 605(1), 606(1), 607(1), 608(1), 609(1), ]
+Packet sent; type=DATA; seqNum=600;length=1456;checksum_in_packet=3238668804
+Packet received; type=ACK; seqNum=601;length=0;checksum_in_packet=342220445
+Updating window;
+Window state: [601(1), 602(1), 603(1), 604(1), 605(1), 606(1), 607(1), 608(1), 609(1), 610(1), ]
+Packet sent; type=DATA; seqNum=601;length=1456;checksum_in_packet=2444752780
+Timeout for packet seqNum=601
+Packet received; type=ACK; seqNum=602;length=0;checksum_in_packet=1405461581
+Updating window;
+Window state: [602(1), 603(1), 604(1), 605(1), 606(1), 607(1), 608(1), 609(1), 610(1), 611(1), ]
+Packet sent; type=DATA; seqNum=602;length=1456;checksum_in_packet=39334835
+Packet received; type=ACK; seqNum=603;length=0;checksum_in_packet=1856343549
+Updating window;
+Window state: [603(1), 604(1), 605(1), 606(1), 607(1), 608(1), 609(1), 610(1), 611(1), 612(1), ]
+Packet sent; type=DATA; seqNum=603;length=1456;checksum_in_packet=1788104958
+Packet received; type=ACK; seqNum=604;length=0;checksum_in_packet=3699724781
+Updating window;
+Window state: [604(1), 605(1), 606(1), 607(1), 608(1), 609(1), 610(1), 611(1), 612(1), 613(1), ]
+Packet sent; type=DATA; seqNum=604;length=1456;checksum_in_packet=3520730117
+Packet received; type=ACK; seqNum=605;length=0;checksum_in_packet=3789912157
+Updating window;
+Window state: [605(1), 606(1), 607(1), 608(1), 609(1), 610(1), 611(1), 612(1), 613(1), 614(1), ]
+Packet sent; type=DATA; seqNum=605;length=1456;checksum_in_packet=1042128846
+Packet received; type=ACK; seqNum=606;length=0;checksum_in_packet=2789540493
+Updating window;
+Window state: [606(1), 607(1), 608(1), 609(1), 610(1), 611(1), 612(1), 613(1), 614(1), 615(1), ]
+Packet sent; type=DATA; seqNum=606;length=1456;checksum_in_packet=3687250290
+Timeout for packet seqNum=606
+Packet received; type=ACK; seqNum=607;length=0;checksum_in_packet=2602904381
+Updating window;
+Window state: [607(1), 608(1), 609(1), 610(1), 611(1), 612(1), 613(1), 614(1), 615(1), 616(1), ]
+Packet sent; type=DATA; seqNum=607;length=1456;checksum_in_packet=1233863528
+Packet received; type=ACK; seqNum=608;length=0;checksum_in_packet=3092513898
+Updating window;
+Window state: [608(1), 609(1), 610(1), 611(1), 612(1), 613(1), 614(1), 615(1), 616(1), 617(1), ]
+Packet sent; type=DATA; seqNum=608;length=1456;checksum_in_packet=820178260
+Packet received; type=ACK; seqNum=609;length=0;checksum_in_packet=2234789338
+Updating window;
+Window state: [609(1), 610(1), 611(1), 612(1), 613(1), 614(1), 615(1), 616(1), 617(1), 618(1), ]
+Packet sent; type=DATA; seqNum=609;length=1456;checksum_in_packet=1325478953
+Packet received; type=ACK; seqNum=610;length=0;checksum_in_packet=3264501514
+Updating window;
+Window state: [610(1), 611(1), 612(1), 613(1), 614(1), 615(1), 616(1), 617(1), 618(1), 619(1), ]
+Packet sent; type=DATA; seqNum=610;length=1456;checksum_in_packet=2358792569
+Packet received; type=ACK; seqNum=611;length=0;checksum_in_packet=4294213306
+Updating window;
+Window state: [611(1), 612(1), 613(1), 614(1), 615(1), 616(1), 617(1), 618(1), 619(1), 620(1), ]
+Packet sent; type=DATA; seqNum=611;length=1456;checksum_in_packet=1817019564
+Packet received; type=ACK; seqNum=612;length=0;checksum_in_packet=1305780906
+Updating window;
+Window state: [612(1), 613(1), 614(1), 615(1), 616(1), 617(1), 618(1), 619(1), 620(1), 621(1), ]
+Packet sent; type=DATA; seqNum=612;length=1456;checksum_in_packet=3672106232
+Packet received; type=ACK; seqNum=613;length=0;checksum_in_packet=1890880282
+Updating window;
+Window state: [613(1), 614(1), 615(1), 616(1), 617(1), 618(1), 619(1), 620(1), 621(1), 622(1), ]
+Packet sent; type=DATA; seqNum=613;length=1456;checksum_in_packet=1055858467
+Packet received; type=ACK; seqNum=614;length=0;checksum_in_packet=924119498
+Updating window;
+Window state: [614(1), 615(1), 616(1), 617(1), 618(1), 619(1), 620(1), 621(1), 622(1), 623(1), ]
+Packet sent; type=DATA; seqNum=614;length=1456;checksum_in_packet=2928546673
+Packet received; type=ACK; seqNum=615;length=0;checksum_in_packet=175429754
+Updating window;
+Window state: [615(1), 616(1), 617(1), 618(1), 619(1), 620(1), 621(1), 622(1), 623(1), 624(1), ]
+Packet sent; type=DATA; seqNum=615;length=1456;checksum_in_packet=924534477
+Packet received; type=ACK; seqNum=616;length=0;checksum_in_packet=2284081067
+Updating window;
+Window state: [616(1), 617(1), 618(1), 619(1), 620(1), 621(1), 622(1), 623(1), 624(1), 625(1), ]
+Packet sent; type=DATA; seqNum=616;length=1456;checksum_in_packet=197656495
+Packet received; type=ACK; seqNum=617;length=0;checksum_in_packet=3041158683
+Updating window;
+Window state: [617(1), 618(1), 619(1), 620(1), 621(1), 622(1), 623(1), 624(1), 625(1), 626(1), ]
+Packet sent; type=DATA; seqNum=617;length=1456;checksum_in_packet=2393415817
+Packet received; type=ACK; seqNum=618;length=0;checksum_in_packet=4075035851
+Updating window;
+Window state: [618(1), 619(1), 620(1), 621(1), 622(1), 623(1), 624(1), 625(1), 626(1), 627(1), ]
+Packet sent; type=DATA; seqNum=618;length=1456;checksum_in_packet=134537811
+Packet received; type=ACK; seqNum=619;length=0;checksum_in_packet=3481548155
+Updating window;
+Window state: [619(1), 620(1), 621(1), 622(1), 623(1), 624(1), 625(1), 626(1), 627(1), 628(1), ]
+Packet sent; type=DATA; seqNum=619;length=1456;checksum_in_packet=4236322969
+Packet received; type=ACK; seqNum=620;length=0;checksum_in_packet=2107959659
+Updating window;
+Window state: [620(1), 621(1), 622(1), 623(1), 624(1), 625(1), 626(1), 627(1), 628(1), 629(1), ]
+Packet sent; type=DATA; seqNum=620;length=1456;checksum_in_packet=3647917811
+Packet received; type=ACK; seqNum=621;length=0;checksum_in_packet=1086636251
+Updating window;
+Window state: [621(1), 622(1), 623(1), 624(1), 625(1), 626(1), 627(1), 628(1), 629(1), 630(1), ]
+Packet sent; type=DATA; seqNum=621;length=1456;checksum_in_packet=113430084
+Packet received; type=ACK; seqNum=622;length=0;checksum_in_packet=124041739
+Updating window;
+Window state: [622(1), 623(1), 624(1), 625(1), 626(1), 627(1), 628(1), 629(1), 630(1), 631(1), ]
+Packet sent; type=DATA; seqNum=622;length=1456;checksum_in_packet=1526275512
+Packet received; type=ACK; seqNum=623;length=0;checksum_in_packet=973378491
+Updating window;
+Window state: [623(1), 624(1), 625(1), 626(1), 627(1), 628(1), 629(1), 630(1), 631(1), 632(1), ]
+Packet sent; type=DATA; seqNum=623;length=1456;checksum_in_packet=2884530517
+Packet received; type=ACK; seqNum=624;length=0;checksum_in_packet=3635713000
+Updating window;
+Window state: [624(1), 625(1), 626(1), 627(1), 628(1), 629(1), 630(1), 631(1), 632(1), 633(1), ]
+Packet sent; type=DATA; seqNum=624;length=1456;checksum_in_packet=3966929168
+Packet received; type=ACK; seqNum=625;length=0;checksum_in_packet=3855923800
+Updating window;
+Window state: [625(1), 626(1), 627(1), 628(1), 629(1), 630(1), 631(1), 632(1), 633(1), 634(1), ]
+Packet sent; type=DATA; seqNum=625;length=1456;checksum_in_packet=2516019970
+Timeout for packet seqNum=625
+Packet received; type=ACK; seqNum=626;length=0;checksum_in_packet=2725560456
+Updating window;
+Window state: [626(1), 627(1), 628(1), 629(1), 630(1), 631(1), 632(1), 633(1), 634(1), 635(1), ]
+Packet sent; type=DATA; seqNum=626;length=1456;checksum_in_packet=357635928
+Packet received; type=ACK; seqNum=627;length=0;checksum_in_packet=2668947768
+Updating window;
+Window state: [627(1), 628(1), 629(1), 630(1), 631(1), 632(1), 633(1), 634(1), 635(1), 636(1), ]
+Packet sent; type=DATA; seqNum=627;length=1456;checksum_in_packet=3130456747
+Packet received; type=ACK; seqNum=628;length=0;checksum_in_packet=758396200
+Updating window;
+Window state: [628(1), 629(1), 630(1), 631(1), 632(1), 633(1), 634(1), 635(1), 636(1), 637(1), ]
+Packet sent; type=DATA; seqNum=628;length=1456;checksum_in_packet=424808085
+Packet received; type=ACK; seqNum=629;length=0;checksum_in_packet=273947800
+Updating window;
+Window state: [629(1), 630(1), 631(1), 632(1), 633(1), 634(1), 635(1), 636(1), 637(1), 638(1), ]
+Packet sent; type=DATA; seqNum=629;length=1456;checksum_in_packet=1880421106
+Packet received; type=ACK; seqNum=630;length=0;checksum_in_packet=1475634760
+Updating window;
+Window state: [630(1), 631(1), 632(1), 633(1), 634(1), 635(1), 636(1), 637(1), 638(1), 639(1), ]
+Packet sent; type=DATA; seqNum=630;length=1456;checksum_in_packet=3387324792
+Packet received; type=ACK; seqNum=631;length=0;checksum_in_packet=1788104696
+Updating window;
+Window state: [631(1), 632(1), 633(1), 634(1), 635(1), 636(1), 637(1), 638(1), 639(1), 640(1), ]
+Packet sent; type=DATA; seqNum=631;length=1456;checksum_in_packet=2428595369
+Timeout for packet seqNum=631
+Packet received; type=ACK; seqNum=632;length=0;checksum_in_packet=3905214505
+Updating window;
+Window state: [632(1), 633(1), 634(1), 635(1), 636(1), 637(1), 638(1), 639(1), 640(1), 641(1), ]
+Packet sent; type=DATA; seqNum=632;length=1456;checksum_in_packet=3740657116
+Packet received; type=ACK; seqNum=633;length=0;checksum_in_packet=3584356761
+Updating window;
+Window state: [633(1), 634(1), 635(1), 636(1), 637(1), 638(1), 639(1), 640(1), 641(1), 642(1), ]
+Packet sent; type=DATA; seqNum=633;length=1456;checksum_in_packet=1197998363
+Packet received; type=ACK; seqNum=634;length=0;checksum_in_packet=2449771337
+Updating window;
+Window state: [634(1), 635(1), 636(1), 637(1), 638(1), 639(1), 640(1), 641(1), 642(1), 643(1), ]
+Packet sent; type=DATA; seqNum=634;length=1456;checksum_in_packet=2148030179
+Packet received; type=ACK; seqNum=635;length=0;checksum_in_packet=2942608121
+Updating window;
+Window state: [635(1), 636(1), 637(1), 638(1), 639(1), 640(1), 641(1), 642(1), 643(1), 644(1), ]
+Packet sent; type=DATA; seqNum=635;length=1456;checksum_in_packet=1582762874
+Packet received; type=ACK; seqNum=636;length=0;checksum_in_packet=491028201
+Updating window;
+Window state: [636(1), 637(1), 638(1), 639(1), 640(1), 641(1), 642(1), 643(1), 644(1), 645(1), ]
+Packet sent; type=DATA; seqNum=636;length=1456;checksum_in_packet=466865751
+Packet received; type=ACK; seqNum=637;length=0;checksum_in_packet=539252569
+Updating window;
+Window state: [637(1), 638(1), 639(1), 640(1), 641(1), 642(1), 643(1), 644(1), 645(1), 646(1), ]
+Packet sent; type=DATA; seqNum=637;length=1456;checksum_in_packet=1892837460
+Packet received; type=ACK; seqNum=638;length=0;checksum_in_packet=1736715657
+Updating window;
+Window state: [638(1), 639(1), 640(1), 641(1), 642(1), 643(1), 644(1), 645(1), 646(1), 647(1), ]
+Packet sent; type=DATA; seqNum=638;length=1456;checksum_in_packet=1799325891
+Packet received; type=ACK; seqNum=639;length=0;checksum_in_packet=1524892729
+Updating window;
+Window state: [639(1), 640(1), 641(1), 642(1), 643(1), 644(1), 645(1), 646(1), 647(1), 648(1), ]
+Packet sent; type=DATA; seqNum=639;length=1456;checksum_in_packet=3808973030
+Packet received; type=ACK; seqNum=640;length=0;checksum_in_packet=2424357813
+Updating window;
+Window state: [640(1), 641(1), 642(1), 643(1), 644(1), 645(1), 646(1), 647(1), 648(1), 649(1), ]
+Packet sent; type=DATA; seqNum=640;length=1456;checksum_in_packet=2704505411
+Packet received; type=ACK; seqNum=641;length=0;checksum_in_packet=2917198341
+Updating window;
+Window state: [641(1), 642(1), 643(1), 644(1), 645(1), 646(1), 647(1), 648(1), 649(1), 650(1), ]
+Packet sent; type=DATA; seqNum=641;length=1456;checksum_in_packet=1835527958
+Packet received; type=ACK; seqNum=642;length=0;checksum_in_packet=3930099925
+Updating window;
+Window state: [642(1), 643(1), 644(1), 645(1), 646(1), 647(1), 648(1), 649(1), 650(1), 651(1), ]
+Packet sent; type=DATA; seqNum=642;length=1456;checksum_in_packet=3645807797
+Packet received; type=ACK; seqNum=643;length=0;checksum_in_packet=3609246053
+Updating window;
+Window state: [643(1), 644(1), 645(1), 646(1), 647(1), 648(1), 649(1), 650(1), 651(1), 652(1), ]
+Packet sent; type=DATA; seqNum=643;length=1456;checksum_in_packet=1170582432
+Packet received; type=ACK; seqNum=644;length=0;checksum_in_packet=1694524789
+Updating window;
+Window state: [644(1), 645(1), 646(1), 647(1), 648(1), 649(1), 650(1), 651(1), 652(1), 653(1), ]
+Packet sent; type=DATA; seqNum=644;length=1456;checksum_in_packet=1221924561
+Packet received; type=ACK; seqNum=645;length=0;checksum_in_packet=1482706117
+Updating window;
+Window state: [645(1), 646(1), 647(1), 648(1), 649(1), 650(1), 651(1), 652(1), 653(1), 654(1), ]
+Packet sent; type=DATA; seqNum=645;length=1456;checksum_in_packet=1190155440
+Packet received; type=ACK; seqNum=646;length=0;checksum_in_packet=532690453
+Updating window;
+Window state: [646(1), 647(1), 648(1), 649(1), 650(1), 651(1), 652(1), 653(1), 654(1), 655(1), ]
+Packet sent; type=DATA; seqNum=646;length=1456;checksum_in_packet=3904382526
+Packet received; type=ACK; seqNum=647;length=0;checksum_in_packet=580919205
+Updating window;
+Window state: [647(1), 648(1), 649(1), 650(1), 651(1), 652(1), 653(1), 654(1), 655(1), 656(1), ]
+Packet sent; type=DATA; seqNum=647;length=1456;checksum_in_packet=1225016102
+Packet received; type=ACK; seqNum=648;length=0;checksum_in_packet=2700118132
+Updating window;
+Window state: [648(1), 649(1), 650(1), 651(1), 652(1), 653(1), 654(1), 655(1), 656(1), 657(1), ]
+Packet sent; type=DATA; seqNum=648;length=1456;checksum_in_packet=4058432590
+Packet received; type=ACK; seqNum=649;length=0;checksum_in_packet=2643501508
+Updating window;
+Window state: [649(1), 650(1), 651(1), 652(1), 653(1), 654(1), 655(1), 656(1), 657(1), 658(1), ]
+Packet sent; type=DATA; seqNum=649;length=1456;checksum_in_packet=4014951450
+Timeout for packet seqNum=649
+Packet received; type=ACK; seqNum=650;length=0;checksum_in_packet=3660634900
+Updating window;
+Window state: [650(1), 651(1), 652(1), 653(1), 654(1), 655(1), 656(1), 657(1), 658(1), 659(1), ]
+Packet sent; type=DATA; seqNum=650;length=1456;checksum_in_packet=2263111331
+Timeout for packet seqNum=650
+Packet received; type=ACK; seqNum=651;length=0;checksum_in_packet=3880841892
+Updating window;
+Window state: [651(1), 652(1), 653(1), 654(1), 655(1), 656(1), 657(1), 658(1), 659(1), 660(1), ]
+Packet sent; type=DATA; seqNum=651;length=1456;checksum_in_packet=1201271704
+Packet received; type=ACK; seqNum=652;length=0;checksum_in_packet=1433415348
+Updating window;
+Window state: [652(1), 653(1), 654(1), 655(1), 656(1), 657(1), 658(1), 659(1), 660(1), 661(1), ]
+Packet sent; type=DATA; seqNum=652;length=1456;checksum_in_packet=1694925905
+Packet received; type=ACK; seqNum=653;length=0;checksum_in_packet=1745880836
+Updating window;
+Window state: [653(1), 654(1), 655(1), 656(1), 657(1), 658(1), 659(1), 660(1), 661(1), 662(1), ]
+Packet sent; type=DATA; seqNum=653;length=1456;checksum_in_packet=329369097
+Timeout for packet seqNum=653
+Packet received; type=ACK; seqNum=654;length=0;checksum_in_packet=800095700
+Updating window;
+Window state: [654(1), 655(1), 656(1), 657(1), 658(1), 659(1), 660(1), 661(1), 662(1), 663(1), ]
+Packet sent; type=DATA; seqNum=654;length=1456;checksum_in_packet=1150712269
+Packet received; type=ACK; seqNum=655;length=0;checksum_in_packet=315642980
+Updating window;
+Window state: [655(1), 656(1), 657(1), 658(1), 659(1), 660(1), 661(1), 662(1), 663(1), 664(1), ]
+Packet sent; type=DATA; seqNum=655;length=1456;checksum_in_packet=2470581960
+Timeout for packet seqNum=655
+Timeout for packet seqNum=655
+Packet received; type=ACK; seqNum=656;length=0;checksum_in_packet=4032844855
+Updating window;
+Window state: [656(1), 657(1), 658(1), 659(1), 660(1), 661(1), 662(1), 663(1), 664(1), 665(1), ]
+Packet sent; type=DATA; seqNum=656;length=1456;checksum_in_packet=1837672650
+Packet received; type=ACK; seqNum=657;length=0;checksum_in_packet=3439361415
+Updating window;
+Window state: [657(1), 658(1), 659(1), 660(1), 661(1), 662(1), 663(1), 664(1), 665(1), 666(1), ]
+Packet sent; type=DATA; seqNum=657;length=1456;checksum_in_packet=3630370953
+Timeout for packet seqNum=657
+Packet received; type=ACK; seqNum=658;length=0;checksum_in_packet=2325743447
+Updating window;
+Window state: [658(1), 659(1), 660(1), 661(1), 662(1), 663(1), 664(1), 665(1), 666(1), 667(1), ]
+Packet sent; type=DATA; seqNum=658;length=1456;checksum_in_packet=7215123
+Packet received; type=ACK; seqNum=659;length=0;checksum_in_packet=3082825447
+Updating window;
+Window state: [659(1), 660(1), 661(1), 662(1), 663(1), 664(1), 665(1), 666(1), 667(1), 668(1), ]
+Packet sent; type=DATA; seqNum=659;length=1456;checksum_in_packet=2526591162
+Packet received; type=ACK; seqNum=660;length=0;checksum_in_packet=98628343
+Updating window;
+Window state: [660(1), 661(1), 662(1), 663(1), 664(1), 665(1), 666(1), 667(1), 668(1), 669(1), ]
+Packet sent; type=DATA; seqNum=660;length=1456;checksum_in_packet=2002142873
+Packet received; type=ACK; seqNum=661;length=0;checksum_in_packet=947968839
+Updating window;
+Window state: [661(1), 662(1), 663(1), 664(1), 665(1), 666(1), 667(1), 668(1), 669(1), 670(1), ]
+Packet sent; type=DATA; seqNum=661;length=1456;checksum_in_packet=186874334
+Timeout for packet seqNum=661
+Packet received; type=ACK; seqNum=662;length=0;checksum_in_packet=2132844951
+Updating window;
+Window state: [662(1), 663(1), 664(1), 665(1), 666(1), 667(1), 668(1), 669(1), 670(1), 671(1), ]
+Packet sent; type=DATA; seqNum=662;length=1456;checksum_in_packet=1986962638
+Timeout for packet seqNum=662
+Packet received; type=ACK; seqNum=663;length=0;checksum_in_packet=1111525415
+Updating window;
+Window state: [663(1), 664(1), 665(1), 666(1), 667(1), 668(1), 669(1), 670(1), 671(1), 672(1), ]
+Packet sent; type=DATA; seqNum=663;length=1456;checksum_in_packet=186394149
+Packet received; type=ACK; seqNum=664;length=0;checksum_in_packet=3222282230
+Updating window;
+Window state: [664(1), 665(1), 666(1), 667(1), 668(1), 669(1), 670(1), 671(1), 672(1), 673(1), ]
+Packet sent; type=DATA; seqNum=664;length=1456;checksum_in_packet=1203672801
+Packet received; type=ACK; seqNum=665;length=0;checksum_in_packet=4251989574
+Updating window;
+Window state: [665(1), 666(1), 667(1), 668(1), 669(1), 670(1), 671(1), 672(1), 673(1), 674(1), ]
+Packet sent; type=DATA; seqNum=665;length=1456;checksum_in_packet=1616745995
+Packet received; type=ACK; seqNum=666;length=0;checksum_in_packet=3134213270
+Updating window;
+Window state: [666(1), 667(1), 668(1), 669(1), 670(1), 671(1), 672(1), 673(1), 674(1), 675(1), ]
+Packet sent; type=DATA; seqNum=666;length=1456;checksum_in_packet=746297866
+Packet received; type=ACK; seqNum=667;length=0;checksum_in_packet=2276484390
+Updating window;
+Window state: [667(1), 668(1), 669(1), 670(1), 671(1), 672(1), 673(1), 674(1), 675(1), 676(1), ]
+Packet sent; type=DATA; seqNum=667;length=1456;checksum_in_packet=772222857
+Packet received; type=ACK; seqNum=668;length=0;checksum_in_packet=898677046
+Updating window;
+Window state: [668(1), 669(1), 670(1), 671(1), 672(1), 673(1), 674(1), 675(1), 676(1), 677(1), ]
+Packet sent; type=DATA; seqNum=668;length=1456;checksum_in_packet=2980568522
+Packet received; type=ACK; seqNum=669;length=0;checksum_in_packet=149983366
+Updating window;
+Window state: [669(1), 670(1), 671(1), 672(1), 673(1), 674(1), 675(1), 676(1), 677(1), 678(1), ]
+Packet sent; type=DATA; seqNum=669;length=1456;checksum_in_packet=3877187920
+Packet received; type=ACK; seqNum=670;length=0;checksum_in_packet=1330702934
+Updating window;
+Window state: [670(1), 671(1), 672(1), 673(1), 674(1), 675(1), 676(1), 677(1), 678(1), 679(1), ]
+Packet sent; type=DATA; seqNum=670;length=1456;checksum_in_packet=3661836625
+Packet received; type=ACK; seqNum=671;length=0;checksum_in_packet=1915798502
+Updating window;
+Window state: [671(1), 672(1), 673(1), 674(1), 675(1), 676(1), 677(1), 678(1), 679(1), 680(1), ]
+Packet sent; type=DATA; seqNum=671;length=1456;checksum_in_packet=2097035265
+Packet received; type=ACK; seqNum=672;length=0;checksum_in_packet=1363274929
+Updating window;
+Window state: [672(1), 673(1), 674(1), 675(1), 676(1), 677(1), 678(1), 679(1), 680(1), 681(1), ]
+Packet sent; type=DATA; seqNum=672;length=1456;checksum_in_packet=947329096
+Packet received; type=ACK; seqNum=673;length=0;checksum_in_packet=1814152449
+Updating window;
+Window state: [673(1), 674(1), 675(1), 676(1), 677(1), 678(1), 679(1), 680(1), 681(1), 682(1), ]
+Packet sent; type=DATA; seqNum=673;length=1456;checksum_in_packet=1309284360
+Packet received; type=ACK; seqNum=674;length=0;checksum_in_packet=729923537
+Updating window;
+Window state: [674(1), 675(1), 676(1), 677(1), 678(1), 679(1), 680(1), 681(1), 682(1), 683(1), ]
+Packet sent; type=DATA; seqNum=674;length=1456;checksum_in_packet=713569308
+Packet received; type=ACK; seqNum=675;length=0;checksum_in_packet=383882849
+Updating window;
+Window state: [675(1), 676(1), 677(1), 678(1), 679(1), 680(1), 681(1), 682(1), 683(1), 684(1), ]
+Packet sent; type=DATA; seqNum=675;length=1456;checksum_in_packet=166648640
+Packet received; type=ACK; seqNum=676;length=0;checksum_in_packet=2764130929
+Updating window;
+Window state: [676(1), 677(1), 678(1), 679(1), 680(1), 681(1), 682(1), 683(1), 684(1), 685(1), ]
+Packet sent; type=DATA; seqNum=676;length=1456;checksum_in_packet=4088075506
+Packet received; type=ACK; seqNum=677;length=0;checksum_in_packet=2577490881
+Updating window;
+Window state: [677(1), 678(1), 679(1), 680(1), 681(1), 682(1), 683(1), 684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=677;length=1456;checksum_in_packet=1962340740
+Packet received; type=ACK; seqNum=678;length=0;checksum_in_packet=3724613905
+Updating window;
+Window state: [678(1), 679(1), 680(1), 681(1), 682(1), 683(1), 684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=678;length=1456;checksum_in_packet=1652487455
+Packet received; type=ACK; seqNum=679;length=0;checksum_in_packet=3814797473
+Updating window;
+Window state: [679(1), 680(1), 681(1), 682(1), 683(1), 684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=679;length=1456;checksum_in_packet=4066415012
+Packet received; type=ACK; seqNum=680;length=0;checksum_in_packet=1630644080
+Updating window;
+Window state: [680(1), 681(1), 682(1), 683(1), 684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=680;length=1456;checksum_in_packet=944728454
+Packet received; type=ACK; seqNum=681;length=0;checksum_in_packet=1548848832
+Updating window;
+Window state: [681(1), 682(1), 683(1), 684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=681;length=1456;checksum_in_packet=3637346947
+Packet received; type=ACK; seqNum=682;length=0;checksum_in_packet=468841488
+Updating window;
+Window state: [682(1), 683(1), 684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=682;length=1456;checksum_in_packet=982192613
+Packet received; type=ACK; seqNum=683;length=0;checksum_in_packet=647093664
+Updating window;
+Window state: [683(1), 684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=683;length=1456;checksum_in_packet=2594220440
+Packet received; type=ACK; seqNum=684;length=0;checksum_in_packet=2494628272
+Updating window;
+Window state: [684(1), 685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=684;length=1456;checksum_in_packet=2120958797
+Packet received; type=ACK; seqNum=685;length=0;checksum_in_packet=2849056768
+Updating window;
+Window state: [685(1), 686(1), ]
+Packet sent; type=DATA; seqNum=685;length=1456;checksum_in_packet=3309641281
+Packet received; type=ACK; seqNum=686;length=0;checksum_in_packet=4000404176
+Updating window;
+Window state: [686(1), ]
+Packet sent; type=DATA; seqNum=686;length=1184;checksum_in_packet=174436550
+Packet received; type=ACK; seqNum=687;length=0;checksum_in_packet=3541138272
+Updating window;
+Window state: []

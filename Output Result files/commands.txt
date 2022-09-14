@@ -1,0 +1,5 @@
+cd OneDrive\Desktop\CS455\PA2\starter-files\starter-files
+
+python3 MTPSender.py 127.0.0.1 23001 10 1MB.txt sender-log-file.txt
+
+python3 MTPReceiver.py 23001 output-file.txt receiver-log-file.txt

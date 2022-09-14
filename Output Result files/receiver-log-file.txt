@@ -1,0 +1,1465 @@
+Packet received; type=DATA; seqNum=0; length=1456; checksum_in_packet=1145476812; checksum_calculated =1145476812; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=1; length=1456; checksum_in_packet=1145476812;
+Packet received; type=DATA; seqNum=1; length=1456; checksum_in_packet=3521477015; checksum_calculated =3521477015; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=2; length=1456; checksum_in_packet=3521477015;
+Packet sent; type=ACK; seqNum=2; length=1456; checksum_in_packet=2957390641; checksum_calculated =2957390641; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=2; length=1456; checksum_in_packet=2700285281; checksum_calculated =2957390641; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=2; length=1456; checksum_in_packet=261485492; checksum_calculated =2957390641; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=2; length=1456; checksum_in_packet=2957390641; checksum_calculated =2957390641; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=2; length=1456; checksum_in_packet=2700285281; checksum_calculated =2957390641; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=2; length=1456; checksum_in_packet=1713364683; checksum_calculated =1713364683; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=3; length=1456; checksum_in_packet=1713364683;
+Packet sent; type=ACK; seqNum=3; length=1456; checksum_in_packet=1713364683; checksum_calculated =1713364683; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=3; length=1456; checksum_in_packet=1713364683; checksum_calculated =1713364683; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=3; length=1456; checksum_in_packet=2957390641; checksum_calculated =2957390641; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=4; length=1456; checksum_in_packet=2957390641;
+Packet received; type=DATA; seqNum=4; length=1456; checksum_in_packet=2700285281; checksum_calculated =2700285281; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=5; length=1456; checksum_in_packet=2700285281;
+Packet received; type=DATA; seqNum=5; length=1456; checksum_in_packet=261485492; checksum_calculated =261485492; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=6; length=1456; checksum_in_packet=261485492;
+Packet received; type=DATA; seqNum=6; length=1456; checksum_in_packet=3260308514; checksum_calculated =3260308514; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=7; length=1456; checksum_in_packet=3260308514;
+Packet received; type=DATA; seqNum=7; length=1456; checksum_in_packet=2836534623; checksum_calculated =2836534623; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=8; length=1456; checksum_in_packet=2836534623;
+Packet received; type=DATA; seqNum=8; length=1456; checksum_in_packet=2727185383; checksum_calculated =2727185383; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=9; length=1456; checksum_in_packet=2727185383;
+Packet received; type=DATA; seqNum=9; length=1456; checksum_in_packet=172239292; checksum_calculated =172239292; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=10; length=1456; checksum_in_packet=172239292;
+Packet received; type=DATA; seqNum=10; length=1456; checksum_in_packet=3956658460; checksum_calculated =3956658460; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=11; length=1456; checksum_in_packet=3956658460;
+Packet received; type=DATA; seqNum=11; length=1456; checksum_in_packet=1468903981; checksum_calculated =1468903981; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=12; length=1456; checksum_in_packet=1468903981;
+Packet received; type=DATA; seqNum=12; length=1456; checksum_in_packet=3745427828; checksum_calculated =3745427828; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=13; length=1456; checksum_in_packet=3745427828;
+Packet received; type=DATA; seqNum=13; length=1456; checksum_in_packet=92219049; checksum_calculated =92219049; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=14; length=1456; checksum_in_packet=92219049;
+Packet received; type=DATA; seqNum=14; length=1456; checksum_in_packet=24895066; checksum_calculated =24895066; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=15; length=1456; checksum_in_packet=24895066;
+Packet received; type=DATA; seqNum=15; length=1456; checksum_in_packet=1230372850; checksum_calculated =1230372850; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=16; length=1456; checksum_in_packet=1230372850;
+Packet received; type=DATA; seqNum=16; length=1456; checksum_in_packet=4110650530; checksum_calculated =4110650530; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=17; length=1456; checksum_in_packet=4110650530;
+Packet received; type=DATA; seqNum=17; length=1456; checksum_in_packet=4200172573; checksum_calculated =4200172573; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=18; length=1456; checksum_in_packet=4200172573;
+Packet received; type=DATA; seqNum=18; length=1456; checksum_in_packet=3254228200; checksum_calculated =3254228200; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=19; length=1456; checksum_in_packet=3254228200;
+Packet received; type=DATA; seqNum=19; length=1456; checksum_in_packet=2234741788; checksum_calculated =2234741788; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=20; length=1456; checksum_in_packet=2234741788;
+Packet received; type=DATA; seqNum=20; length=1456; checksum_in_packet=3071800985; checksum_calculated =3071800985; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=21; length=1456; checksum_in_packet=3071800985;
+Packet received; type=DATA; seqNum=21; length=1456; checksum_in_packet=2521378094; checksum_calculated =2521378094; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=22; length=1456; checksum_in_packet=2521378094;
+Packet received; type=DATA; seqNum=22; length=1456; checksum_in_packet=2870530380; checksum_calculated =2870530380; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=23; length=1456; checksum_in_packet=2870530380;
+Packet received; type=DATA; seqNum=23; length=1456; checksum_in_packet=1627336484; checksum_calculated =1627336484; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=24; length=1456; checksum_in_packet=1627336484;
+Packet received; type=DATA; seqNum=24; length=1456; checksum_in_packet=82873120; checksum_calculated =82873120; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=25; length=1456; checksum_in_packet=82873120;
+Packet received; type=DATA; seqNum=25; length=1456; checksum_in_packet=1487807461; checksum_calculated =1487807461; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=26; length=1456; checksum_in_packet=1487807461;
+Packet received; type=DATA; seqNum=26; length=1456; checksum_in_packet=468767401; checksum_calculated =468767401; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=27; length=1456; checksum_in_packet=468767401;
+Packet received; type=DATA; seqNum=27; length=1456; checksum_in_packet=346596040; checksum_calculated =346596040; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=28; length=1456; checksum_in_packet=346596040;
+Packet received; type=DATA; seqNum=28; length=1456; checksum_in_packet=2850626628; checksum_calculated =2850626628; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=29; length=1456; checksum_in_packet=2850626628;
+Packet received; type=DATA; seqNum=29; length=1456; checksum_in_packet=4112040053; checksum_calculated =4112040053; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=30; length=1456; checksum_in_packet=4112040053;
+Packet received; type=DATA; seqNum=30; length=1456; checksum_in_packet=1583943839; checksum_calculated =1583943839; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=31; length=1456; checksum_in_packet=1583943839;
+Packet received; type=DATA; seqNum=31; length=1456; checksum_in_packet=2193514607; checksum_calculated =2193514607; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=32; length=1456; checksum_in_packet=2193514607;
+Packet received; type=DATA; seqNum=32; length=1456; checksum_in_packet=1383405187; checksum_calculated =1383405187; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=33; length=1456; checksum_in_packet=1383405187;
+Packet received; type=DATA; seqNum=33; length=1456; checksum_in_packet=4265957224; checksum_calculated =4265957224; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=34; length=1456; checksum_in_packet=4265957224;
+Packet received; type=DATA; seqNum=34; length=1456; checksum_in_packet=3186097328; checksum_calculated =3186097328; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=35; length=1456; checksum_in_packet=3186097328;
+Packet received; type=DATA; seqNum=35; length=1456; checksum_in_packet=1704022708; checksum_calculated =1704022708; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=36; length=1456; checksum_in_packet=1704022708;
+Packet received; type=DATA; seqNum=36; length=1456; checksum_in_packet=4181620841; checksum_calculated =4181620841; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=37; length=1456; checksum_in_packet=4181620841;
+Packet received; type=DATA; seqNum=37; length=1456; checksum_in_packet=837449445; checksum_calculated =837449445; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=38; length=1456; checksum_in_packet=837449445;
+Packet received; type=DATA; seqNum=38; length=1456; checksum_in_packet=1178077480; checksum_calculated =1178077480; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=39; length=1456; checksum_in_packet=1178077480;
+Packet received; type=DATA; seqNum=39; length=1456; checksum_in_packet=424367535; checksum_calculated =424367535; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=40; length=1456; checksum_in_packet=424367535;
+Packet sent; type=ACK; seqNum=40; length=1456; checksum_in_packet=424367535; checksum_calculated =424367535; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=40; length=1456; checksum_in_packet=2921447648; checksum_calculated =2921447648; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=41; length=1456; checksum_in_packet=2921447648;
+Packet received; type=DATA; seqNum=41; length=1456; checksum_in_packet=1382439316; checksum_calculated =1382439316; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=42; length=1456; checksum_in_packet=1382439316;
+Packet received; type=DATA; seqNum=42; length=1456; checksum_in_packet=3761089082; checksum_calculated =3761089082; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=43; length=1456; checksum_in_packet=3761089082;
+Packet sent; type=ACK; seqNum=43; length=1456; checksum_in_packet=3761089082; checksum_calculated =3761089082; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=43; length=1456; checksum_in_packet=551674627; checksum_calculated =551674627; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=44; length=1456; checksum_in_packet=551674627;
+Packet received; type=DATA; seqNum=44; length=1456; checksum_in_packet=3141238712; checksum_calculated =3141238712; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=45; length=1456; checksum_in_packet=3141238712;
+Packet received; type=DATA; seqNum=45; length=1456; checksum_in_packet=3284892193; checksum_calculated =3284892193; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=46; length=1456; checksum_in_packet=3284892193;
+Packet received; type=DATA; seqNum=46; length=1456; checksum_in_packet=1885176205; checksum_calculated =1885176205; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=47; length=1456; checksum_in_packet=1885176205;
+Packet received; type=DATA; seqNum=47; length=1456; checksum_in_packet=4089093305; checksum_calculated =4089093305; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=48; length=1456; checksum_in_packet=4089093305;
+Packet received; type=DATA; seqNum=48; length=1456; checksum_in_packet=699751512; checksum_calculated =699751512; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=49; length=1456; checksum_in_packet=699751512;
+Packet received; type=DATA; seqNum=49; length=1456; checksum_in_packet=3524251299; checksum_calculated =3524251299; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=50; length=1456; checksum_in_packet=3524251299;
+Packet sent; type=ACK; seqNum=50; length=1456; checksum_in_packet=1574987565; checksum_calculated =3388341188; status=CORRUPT
+Packet received; type=DATA; seqNum=50; length=1456; checksum_in_packet=1574987565; checksum_calculated =1574987565; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=51; length=1456; checksum_in_packet=1574987565;
+Packet received; type=DATA; seqNum=51; length=1456; checksum_in_packet=1208600223; checksum_calculated =1208600223; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=52; length=1456; checksum_in_packet=1208600223;
+Packet received; type=DATA; seqNum=52; length=1456; checksum_in_packet=3727843483; checksum_calculated =3727843483; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=53; length=1456; checksum_in_packet=3727843483;
+Packet sent; type=ACK; seqNum=53; length=1456; checksum_in_packet=3942684657; checksum_calculated =3663399010; status=CORRUPT
+Packet received; type=DATA; seqNum=53; length=1456; checksum_in_packet=3942684657; checksum_calculated =3942684657; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=54; length=1456; checksum_in_packet=3942684657;
+Packet received; type=DATA; seqNum=54; length=1456; checksum_in_packet=3784926211; checksum_calculated =3784926211; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=55; length=1456; checksum_in_packet=3784926211;
+Packet received; type=DATA; seqNum=55; length=1456; checksum_in_packet=231507920; checksum_calculated =231507920; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=56; length=1456; checksum_in_packet=231507920;
+Packet received; type=DATA; seqNum=56; length=1456; checksum_in_packet=3688871937; checksum_calculated =3688871937; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=57; length=1456; checksum_in_packet=3688871937;
+Packet received; type=DATA; seqNum=57; length=1456; checksum_in_packet=3667556568; checksum_calculated =3667556568; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=58; length=1456; checksum_in_packet=3667556568;
+Packet received; type=DATA; seqNum=58; length=1456; checksum_in_packet=3148444117; checksum_calculated =3148444117; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=59; length=1456; checksum_in_packet=3148444117;
+Packet received; type=DATA; seqNum=59; length=1456; checksum_in_packet=3219442568; checksum_calculated =3219442568; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=60; length=1456; checksum_in_packet=3219442568;
+Packet received; type=DATA; seqNum=60; length=1456; checksum_in_packet=1991377132; checksum_calculated =1991377132; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=61; length=1456; checksum_in_packet=1991377132;
+Packet received; type=DATA; seqNum=61; length=1456; checksum_in_packet=2816015036; checksum_calculated =2816015036; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=62; length=1456; checksum_in_packet=2816015036;
+Packet received; type=DATA; seqNum=62; length=1456; checksum_in_packet=4058756257; checksum_calculated =4058756257; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=63; length=1456; checksum_in_packet=4058756257;
+Packet received; type=DATA; seqNum=63; length=1456; checksum_in_packet=3700506417; checksum_calculated =3700506417; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=64; length=1456; checksum_in_packet=3700506417;
+Packet received; type=DATA; seqNum=64; length=1456; checksum_in_packet=555359582; checksum_calculated =555359582; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=65; length=1456; checksum_in_packet=555359582;
+Packet received; type=DATA; seqNum=65; length=1456; checksum_in_packet=32847949; checksum_calculated =32847949; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=66; length=1456; checksum_in_packet=32847949;
+Packet received; type=DATA; seqNum=66; length=1456; checksum_in_packet=3452210787; checksum_calculated =3452210787; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=67; length=1456; checksum_in_packet=3452210787;
+Packet received; type=DATA; seqNum=67; length=1456; checksum_in_packet=894510127; checksum_calculated =894510127; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=68; length=1456; checksum_in_packet=894510127;
+Packet received; type=DATA; seqNum=68; length=1456; checksum_in_packet=2413951886; checksum_calculated =2413951886; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=69; length=1456; checksum_in_packet=2413951886;
+Packet received; type=DATA; seqNum=69; length=1456; checksum_in_packet=1104065241; checksum_calculated =1104065241; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=70; length=1456; checksum_in_packet=1104065241;
+Packet received; type=DATA; seqNum=70; length=1456; checksum_in_packet=2140621840; checksum_calculated =2140621840; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=71; length=1456; checksum_in_packet=2140621840;
+Packet received; type=DATA; seqNum=71; length=1456; checksum_in_packet=2793702487; checksum_calculated =2793702487; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=72; length=1456; checksum_in_packet=2793702487;
+Packet received; type=DATA; seqNum=72; length=1456; checksum_in_packet=1052125681; checksum_calculated =1052125681; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=73; length=1456; checksum_in_packet=1052125681;
+Packet received; type=DATA; seqNum=73; length=1456; checksum_in_packet=3333025150; checksum_calculated =3333025150; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=74; length=1456; checksum_in_packet=3333025150;
+Packet received; type=DATA; seqNum=74; length=1456; checksum_in_packet=2688992089; checksum_calculated =2688992089; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=75; length=1456; checksum_in_packet=2688992089;
+Packet received; type=DATA; seqNum=75; length=1456; checksum_in_packet=1836141518; checksum_calculated =1836141518; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=76; length=1456; checksum_in_packet=1836141518;
+Packet received; type=DATA; seqNum=76; length=1456; checksum_in_packet=1485647294; checksum_calculated =1485647294; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=77; length=1456; checksum_in_packet=1485647294;
+Packet sent; type=ACK; seqNum=77; length=1456; checksum_in_packet=1648458767; checksum_calculated =2483340844; status=CORRUPT
+Packet received; type=DATA; seqNum=77; length=1456; checksum_in_packet=1648458767; checksum_calculated =1648458767; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=78; length=1456; checksum_in_packet=1648458767;
+Packet received; type=DATA; seqNum=78; length=1456; checksum_in_packet=2887107898; checksum_calculated =2887107898; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=79; length=1456; checksum_in_packet=2887107898;
+Packet received; type=DATA; seqNum=79; length=1456; checksum_in_packet=1573908687; checksum_calculated =1573908687; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=80; length=1456; checksum_in_packet=1573908687;
+Packet sent; type=ACK; seqNum=80; length=1456; checksum_in_packet=1573908687; checksum_calculated =1573908687; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=80; length=1456; checksum_in_packet=2399600471; checksum_calculated =2399600471; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=81; length=1456; checksum_in_packet=2399600471;
+Packet sent; type=ACK; seqNum=81; length=1456; checksum_in_packet=2399600471; checksum_calculated =2399600471; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=81; length=1456; checksum_in_packet=3924017550; checksum_calculated =3924017550; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=82; length=1456; checksum_in_packet=3924017550;
+Packet received; type=DATA; seqNum=82; length=1456; checksum_in_packet=939461604; checksum_calculated =939461604; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=83; length=1456; checksum_in_packet=939461604;
+Packet received; type=DATA; seqNum=83; length=1456; checksum_in_packet=437425462; checksum_calculated =437425462; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=84; length=1456; checksum_in_packet=437425462;
+Packet received; type=DATA; seqNum=84; length=1456; checksum_in_packet=468640222; checksum_calculated =468640222; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=85; length=1456; checksum_in_packet=468640222;
+Packet sent; type=ACK; seqNum=85; length=1456; checksum_in_packet=607856497; checksum_calculated =2529714615; status=CORRUPT
+Packet received; type=DATA; seqNum=85; length=1456; checksum_in_packet=607856497; checksum_calculated =607856497; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=86; length=1456; checksum_in_packet=607856497;
+Packet received; type=DATA; seqNum=86; length=1456; checksum_in_packet=247074259; checksum_calculated =247074259; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=87; length=1456; checksum_in_packet=247074259;
+Packet received; type=DATA; seqNum=87; length=1456; checksum_in_packet=1643534617; checksum_calculated =1643534617; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=88; length=1456; checksum_in_packet=1643534617;
+Packet received; type=DATA; seqNum=88; length=1456; checksum_in_packet=979344765; checksum_calculated =979344765; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=89; length=1456; checksum_in_packet=979344765;
+Packet received; type=DATA; seqNum=89; length=1456; checksum_in_packet=267186098; checksum_calculated =267186098; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=90; length=1456; checksum_in_packet=267186098;
+Packet sent; type=ACK; seqNum=90; length=1456; checksum_in_packet=2848514142; checksum_calculated =1813893104; status=CORRUPT
+Packet received; type=DATA; seqNum=90; length=1456; checksum_in_packet=2848514142; checksum_calculated =2848514142; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=91; length=1456; checksum_in_packet=2848514142;
+Packet received; type=DATA; seqNum=91; length=1456; checksum_in_packet=1121691103; checksum_calculated =1121691103; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=92; length=1456; checksum_in_packet=1121691103;
+Packet received; type=DATA; seqNum=92; length=1456; checksum_in_packet=3450049490; checksum_calculated =3450049490; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=93; length=1456; checksum_in_packet=3450049490;
+Packet received; type=DATA; seqNum=93; length=1456; checksum_in_packet=3751015403; checksum_calculated =3751015403; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=94; length=1456; checksum_in_packet=3751015403;
+Packet received; type=DATA; seqNum=94; length=1456; checksum_in_packet=1049750285; checksum_calculated =1049750285; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=95; length=1456; checksum_in_packet=1049750285;
+Packet received; type=DATA; seqNum=95; length=1456; checksum_in_packet=509675006; checksum_calculated =509675006; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=96; length=1456; checksum_in_packet=509675006;
+Packet received; type=DATA; seqNum=96; length=1456; checksum_in_packet=725845934; checksum_calculated =725845934; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=97; length=1456; checksum_in_packet=725845934;
+Packet received; type=DATA; seqNum=97; length=1456; checksum_in_packet=429390899; checksum_calculated =429390899; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=98; length=1456; checksum_in_packet=429390899;
+Packet received; type=DATA; seqNum=98; length=1456; checksum_in_packet=821594971; checksum_calculated =821594971; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=99; length=1456; checksum_in_packet=821594971;
+Packet received; type=DATA; seqNum=99; length=1456; checksum_in_packet=3832827969; checksum_calculated =3832827969; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=100; length=1456; checksum_in_packet=3832827969;
+Packet sent; type=ACK; seqNum=100; length=1456; checksum_in_packet=3832827969; checksum_calculated =3832827969; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=100; length=1456; checksum_in_packet=3704318707; checksum_calculated =3704318707; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=101; length=1456; checksum_in_packet=3704318707;
+Packet received; type=DATA; seqNum=101; length=1456; checksum_in_packet=1229008915; checksum_calculated =1229008915; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=102; length=1456; checksum_in_packet=1229008915;
+Packet received; type=DATA; seqNum=102; length=1456; checksum_in_packet=680007337; checksum_calculated =680007337; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=103; length=1456; checksum_in_packet=680007337;
+Packet received; type=DATA; seqNum=103; length=1456; checksum_in_packet=1917339913; checksum_calculated =1917339913; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=104; length=1456; checksum_in_packet=1917339913;
+Packet received; type=DATA; seqNum=104; length=1456; checksum_in_packet=3660088890; checksum_calculated =3660088890; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=105; length=1456; checksum_in_packet=3660088890;
+Packet received; type=DATA; seqNum=105; length=1456; checksum_in_packet=4193612371; checksum_calculated =4193612371; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=106; length=1456; checksum_in_packet=4193612371;
+Packet received; type=DATA; seqNum=106; length=1456; checksum_in_packet=102375958; checksum_calculated =102375958; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=107; length=1456; checksum_in_packet=102375958;
+Packet received; type=DATA; seqNum=107; length=1456; checksum_in_packet=3679425121; checksum_calculated =3679425121; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=108; length=1456; checksum_in_packet=3679425121;
+Packet received; type=DATA; seqNum=108; length=1456; checksum_in_packet=3612458330; checksum_calculated =3612458330; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=109; length=1456; checksum_in_packet=3612458330;
+Packet received; type=DATA; seqNum=109; length=1456; checksum_in_packet=1920320928; checksum_calculated =1920320928; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=110; length=1456; checksum_in_packet=1920320928;
+Packet received; type=DATA; seqNum=110; length=1456; checksum_in_packet=3945194388; checksum_calculated =3945194388; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=111; length=1456; checksum_in_packet=3945194388;
+Packet received; type=DATA; seqNum=111; length=1456; checksum_in_packet=2191654879; checksum_calculated =2191654879; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=112; length=1456; checksum_in_packet=2191654879;
+Packet received; type=DATA; seqNum=112; length=1456; checksum_in_packet=723668972; checksum_calculated =723668972; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=113; length=1456; checksum_in_packet=723668972;
+Packet received; type=DATA; seqNum=113; length=1456; checksum_in_packet=3238331822; checksum_calculated =3238331822; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=114; length=1456; checksum_in_packet=3238331822;
+Packet received; type=DATA; seqNum=114; length=1456; checksum_in_packet=1609155700; checksum_calculated =1609155700; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=115; length=1456; checksum_in_packet=1609155700;
+Packet received; type=DATA; seqNum=115; length=1456; checksum_in_packet=3065277071; checksum_calculated =3065277071; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=116; length=1456; checksum_in_packet=3065277071;
+Packet received; type=DATA; seqNum=116; length=1456; checksum_in_packet=52790727; checksum_calculated =52790727; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=117; length=1456; checksum_in_packet=52790727;
+Packet received; type=DATA; seqNum=117; length=1456; checksum_in_packet=2910935617; checksum_calculated =2910935617; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=118; length=1456; checksum_in_packet=2910935617;
+Packet received; type=DATA; seqNum=118; length=1456; checksum_in_packet=1497108888; checksum_calculated =1497108888; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=119; length=1456; checksum_in_packet=1497108888;
+Packet received; type=DATA; seqNum=119; length=1456; checksum_in_packet=3219313780; checksum_calculated =3219313780; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=120; length=1456; checksum_in_packet=3219313780;
+Packet received; type=DATA; seqNum=120; length=1456; checksum_in_packet=2577861960; checksum_calculated =2577861960; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=121; length=1456; checksum_in_packet=2577861960;
+Packet received; type=DATA; seqNum=121; length=1456; checksum_in_packet=3152955404; checksum_calculated =3152955404; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=122; length=1456; checksum_in_packet=3152955404;
+Packet sent; type=ACK; seqNum=121; length=1456; checksum_in_packet=3152955404; checksum_calculated =1104699207; status=CORRUPT
+Packet received; type=DATA; seqNum=122; length=1456; checksum_in_packet=2240167941; checksum_calculated =2240167941; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=123; length=1456; checksum_in_packet=2240167941;
+Packet received; type=DATA; seqNum=123; length=1456; checksum_in_packet=3460104415; checksum_calculated =3460104415; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=124; length=1456; checksum_in_packet=3460104415;
+Packet received; type=DATA; seqNum=124; length=1456; checksum_in_packet=3211838392; checksum_calculated =3211838392; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=125; length=1456; checksum_in_packet=3211838392;
+Packet received; type=DATA; seqNum=125; length=1456; checksum_in_packet=4204666980; checksum_calculated =4204666980; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=126; length=1456; checksum_in_packet=4204666980;
+Packet received; type=DATA; seqNum=126; length=1456; checksum_in_packet=553650520; checksum_calculated =553650520; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=127; length=1456; checksum_in_packet=553650520;
+Packet received; type=DATA; seqNum=127; length=1456; checksum_in_packet=1046375408; checksum_calculated =1046375408; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=128; length=1456; checksum_in_packet=1046375408;
+Packet received; type=DATA; seqNum=128; length=1456; checksum_in_packet=3151608986; checksum_calculated =3151608986; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=129; length=1456; checksum_in_packet=3151608986;
+Packet sent; type=ACK; seqNum=129; length=1456; checksum_in_packet=3151608986; checksum_calculated =3151608986; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=129; length=1456; checksum_in_packet=821705769; checksum_calculated =821705769; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=130; length=1456; checksum_in_packet=821705769;
+Packet received; type=DATA; seqNum=130; length=1456; checksum_in_packet=933332216; checksum_calculated =933332216; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=131; length=1456; checksum_in_packet=933332216;
+Packet received; type=DATA; seqNum=131; length=1456; checksum_in_packet=2777536106; checksum_calculated =2777536106; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=132; length=1456; checksum_in_packet=2777536106;
+Packet received; type=DATA; seqNum=132; length=1456; checksum_in_packet=3304239623; checksum_calculated =3304239623; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=133; length=1456; checksum_in_packet=3304239623;
+Packet received; type=DATA; seqNum=133; length=1456; checksum_in_packet=3273975641; checksum_calculated =3273975641; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=134; length=1456; checksum_in_packet=3273975641;
+Packet received; type=DATA; seqNum=134; length=1456; checksum_in_packet=3613573342; checksum_calculated =3613573342; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=135; length=1456; checksum_in_packet=3613573342;
+Packet received; type=DATA; seqNum=135; length=1456; checksum_in_packet=1840402924; checksum_calculated =1840402924; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=136; length=1456; checksum_in_packet=1840402924;
+Packet received; type=DATA; seqNum=136; length=1456; checksum_in_packet=3711068191; checksum_calculated =3711068191; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=137; length=1456; checksum_in_packet=3711068191;
+Packet sent; type=ACK; seqNum=137; length=1456; checksum_in_packet=3277928163; checksum_calculated =3939244230; status=CORRUPT
+Packet received; type=DATA; seqNum=137; length=1456; checksum_in_packet=3277928163; checksum_calculated =3277928163; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=138; length=1456; checksum_in_packet=3277928163;
+Packet sent; type=ACK; seqNum=138; length=1456; checksum_in_packet=229330571; checksum_calculated =348357286; status=CORRUPT
+Packet received; type=DATA; seqNum=138; length=1456; checksum_in_packet=229330571; checksum_calculated =229330571; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=139; length=1456; checksum_in_packet=229330571;
+Packet received; type=DATA; seqNum=139; length=1456; checksum_in_packet=3375719913; checksum_calculated =3375719913; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=140; length=1456; checksum_in_packet=3375719913;
+Packet received; type=DATA; seqNum=140; length=1456; checksum_in_packet=1981569722; checksum_calculated =1981569722; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=141; length=1456; checksum_in_packet=1981569722;
+Packet received; type=DATA; seqNum=141; length=1456; checksum_in_packet=3617124168; checksum_calculated =3617124168; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=142; length=1456; checksum_in_packet=3617124168;
+Packet received; type=DATA; seqNum=142; length=1456; checksum_in_packet=1718238735; checksum_calculated =1718238735; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=143; length=1456; checksum_in_packet=1718238735;
+Packet received; type=DATA; seqNum=143; length=1456; checksum_in_packet=3942131737; checksum_calculated =3942131737; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=144; length=1456; checksum_in_packet=3942131737;
+Packet sent; type=ACK; seqNum=144; length=1456; checksum_in_packet=3942131737; checksum_calculated =3942131737; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=144; length=1456; checksum_in_packet=1012761802; checksum_calculated =2135086277; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=144; length=1456; checksum_in_packet=1012761802; checksum_calculated =1012761802; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=145; length=1456; checksum_in_packet=1012761802;
+Packet received; type=DATA; seqNum=145; length=1456; checksum_in_packet=3897129994; checksum_calculated =3897129994; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=146; length=1456; checksum_in_packet=3897129994;
+Packet sent; type=ACK; seqNum=146; length=1456; checksum_in_packet=3897129994; checksum_calculated =3897129994; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=146; length=1456; checksum_in_packet=1356357053; checksum_calculated =1356357053; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=147; length=1456; checksum_in_packet=1356357053;
+Packet received; type=DATA; seqNum=147; length=1456; checksum_in_packet=3500306894; checksum_calculated =3500306894; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=148; length=1456; checksum_in_packet=3500306894;
+Packet received; type=DATA; seqNum=148; length=1456; checksum_in_packet=4269421222; checksum_calculated =4269421222; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=149; length=1456; checksum_in_packet=4269421222;
+Packet received; type=DATA; seqNum=149; length=1456; checksum_in_packet=3738421920; checksum_calculated =3738421920; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=150; length=1456; checksum_in_packet=3738421920;
+Packet received; type=DATA; seqNum=150; length=1456; checksum_in_packet=3768886257; checksum_calculated =3768886257; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=151; length=1456; checksum_in_packet=3768886257;
+Packet received; type=DATA; seqNum=151; length=1456; checksum_in_packet=1565294048; checksum_calculated =1565294048; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=152; length=1456; checksum_in_packet=1565294048;
+Packet received; type=DATA; seqNum=152; length=1456; checksum_in_packet=1572979104; checksum_calculated =1572979104; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=153; length=1456; checksum_in_packet=1572979104;
+Packet received; type=DATA; seqNum=153; length=1456; checksum_in_packet=1971887399; checksum_calculated =1971887399; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=154; length=1456; checksum_in_packet=1971887399;
+Packet sent; type=ACK; seqNum=154; length=1456; checksum_in_packet=1971887399; checksum_calculated =1971887399; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=154; length=1456; checksum_in_packet=917005589; checksum_calculated =917005589; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=155; length=1456; checksum_in_packet=917005589;
+Packet received; type=DATA; seqNum=155; length=1456; checksum_in_packet=901747443; checksum_calculated =901747443; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=156; length=1456; checksum_in_packet=901747443;
+Packet received; type=DATA; seqNum=156; length=1456; checksum_in_packet=1279891819; checksum_calculated =1279891819; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=157; length=1456; checksum_in_packet=1279891819;
+Packet received; type=DATA; seqNum=157; length=1456; checksum_in_packet=344239543; checksum_calculated =344239543; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=158; length=1456; checksum_in_packet=344239543;
+Packet received; type=DATA; seqNum=158; length=1456; checksum_in_packet=3876351373; checksum_calculated =3876351373; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=159; length=1456; checksum_in_packet=3876351373;
+Packet received; type=DATA; seqNum=159; length=1456; checksum_in_packet=1561047561; checksum_calculated =1561047561; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=160; length=1456; checksum_in_packet=1561047561;
+Packet received; type=DATA; seqNum=160; length=1456; checksum_in_packet=2033885482; checksum_calculated =2033885482; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=161; length=1456; checksum_in_packet=2033885482;
+Packet received; type=DATA; seqNum=161; length=1456; checksum_in_packet=3278789882; checksum_calculated =3278789882; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=162; length=1456; checksum_in_packet=3278789882;
+Packet sent; type=ACK; seqNum=162; length=1456; checksum_in_packet=1728157904; checksum_calculated =643903301; status=CORRUPT
+Packet received; type=DATA; seqNum=162; length=1456; checksum_in_packet=1728157904; checksum_calculated =1728157904; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=163; length=1456; checksum_in_packet=1728157904;
+Packet received; type=DATA; seqNum=163; length=1456; checksum_in_packet=2715651805; checksum_calculated =2715651805; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=164; length=1456; checksum_in_packet=2715651805;
+Packet received; type=DATA; seqNum=164; length=1456; checksum_in_packet=2636555341; checksum_calculated =2636555341; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=165; length=1456; checksum_in_packet=2636555341;
+Packet received; type=DATA; seqNum=165; length=1456; checksum_in_packet=1198610286; checksum_calculated =1198610286; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=166; length=1456; checksum_in_packet=1198610286;
+Packet received; type=DATA; seqNum=166; length=1456; checksum_in_packet=547340188; checksum_calculated =547340188; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=167; length=1456; checksum_in_packet=547340188;
+Packet received; type=DATA; seqNum=167; length=1456; checksum_in_packet=467540537; checksum_calculated =467540537; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=168; length=1456; checksum_in_packet=467540537;
+Packet received; type=DATA; seqNum=168; length=1456; checksum_in_packet=2141698728; checksum_calculated =2141698728; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=169; length=1456; checksum_in_packet=2141698728;
+Packet received; type=DATA; seqNum=169; length=1456; checksum_in_packet=3687944704; checksum_calculated =3687944704; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=170; length=1456; checksum_in_packet=3687944704;
+Packet received; type=DATA; seqNum=170; length=1456; checksum_in_packet=994910814; checksum_calculated =994910814; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=171; length=1456; checksum_in_packet=994910814;
+Packet received; type=DATA; seqNum=171; length=1456; checksum_in_packet=3316982821; checksum_calculated =3316982821; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=172; length=1456; checksum_in_packet=3316982821;
+Packet received; type=DATA; seqNum=172; length=1456; checksum_in_packet=3892769509; checksum_calculated =3892769509; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=173; length=1456; checksum_in_packet=3892769509;
+Packet received; type=DATA; seqNum=173; length=1456; checksum_in_packet=3750707125; checksum_calculated =3750707125; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=174; length=1456; checksum_in_packet=3750707125;
+Packet received; type=DATA; seqNum=174; length=1456; checksum_in_packet=3879874011; checksum_calculated =3879874011; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=175; length=1456; checksum_in_packet=3879874011;
+Packet received; type=DATA; seqNum=175; length=1456; checksum_in_packet=814550435; checksum_calculated =814550435; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=176; length=1456; checksum_in_packet=814550435;
+Packet received; type=DATA; seqNum=176; length=1456; checksum_in_packet=3807412463; checksum_calculated =3807412463; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=177; length=1456; checksum_in_packet=3807412463;
+Packet received; type=DATA; seqNum=177; length=1456; checksum_in_packet=596555848; checksum_calculated =596555848; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=178; length=1456; checksum_in_packet=596555848;
+Packet received; type=DATA; seqNum=178; length=1456; checksum_in_packet=1071263377; checksum_calculated =1071263377; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=179; length=1456; checksum_in_packet=1071263377;
+Packet received; type=DATA; seqNum=179; length=1456; checksum_in_packet=3178908754; checksum_calculated =3178908754; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=180; length=1456; checksum_in_packet=3178908754;
+Packet received; type=DATA; seqNum=180; length=1456; checksum_in_packet=1908978091; checksum_calculated =1908978091; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=181; length=1456; checksum_in_packet=1908978091;
+Packet sent; type=ACK; seqNum=181; length=1456; checksum_in_packet=2799574705; checksum_calculated =3093088577; status=CORRUPT
+Packet received; type=DATA; seqNum=181; length=1456; checksum_in_packet=2799574705; checksum_calculated =2799574705; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=182; length=1456; checksum_in_packet=2799574705;
+Packet received; type=DATA; seqNum=182; length=1456; checksum_in_packet=100716535; checksum_calculated =100716535; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=183; length=1456; checksum_in_packet=100716535;
+Packet received; type=DATA; seqNum=183; length=1456; checksum_in_packet=1021447865; checksum_calculated =1021447865; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=184; length=1456; checksum_in_packet=1021447865;
+Packet received; type=DATA; seqNum=184; length=1456; checksum_in_packet=2640441423; checksum_calculated =2640441423; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=185; length=1456; checksum_in_packet=2640441423;
+Packet received; type=DATA; seqNum=185; length=1456; checksum_in_packet=147660236; checksum_calculated =147660236; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=186; length=1456; checksum_in_packet=147660236;
+Packet received; type=DATA; seqNum=186; length=1456; checksum_in_packet=3674006524; checksum_calculated =3674006524; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=187; length=1456; checksum_in_packet=3674006524;
+Packet received; type=DATA; seqNum=187; length=1456; checksum_in_packet=2770677679; checksum_calculated =2770677679; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=188; length=1456; checksum_in_packet=2770677679;
+Packet received; type=DATA; seqNum=188; length=1456; checksum_in_packet=3019811997; checksum_calculated =3019811997; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=189; length=1456; checksum_in_packet=3019811997;
+Packet received; type=DATA; seqNum=189; length=1456; checksum_in_packet=2316168805; checksum_calculated =2316168805; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=190; length=1456; checksum_in_packet=2316168805;
+Packet received; type=DATA; seqNum=190; length=1456; checksum_in_packet=697999633; checksum_calculated =697999633; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=191; length=1456; checksum_in_packet=697999633;
+Packet received; type=DATA; seqNum=191; length=1456; checksum_in_packet=1320476143; checksum_calculated =1320476143; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=192; length=1456; checksum_in_packet=1320476143;
+Packet received; type=DATA; seqNum=192; length=1456; checksum_in_packet=2981103340; checksum_calculated =2981103340; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=193; length=1456; checksum_in_packet=2981103340;
+Packet received; type=DATA; seqNum=193; length=1456; checksum_in_packet=936655468; checksum_calculated =936655468; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=194; length=1456; checksum_in_packet=936655468;
+Packet received; type=DATA; seqNum=194; length=1456; checksum_in_packet=1058946220; checksum_calculated =1058946220; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=195; length=1456; checksum_in_packet=1058946220;
+Packet received; type=DATA; seqNum=195; length=1456; checksum_in_packet=2679253540; checksum_calculated =2679253540; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=196; length=1456; checksum_in_packet=2679253540;
+Packet sent; type=ACK; seqNum=196; length=1456; checksum_in_packet=2679253540; checksum_calculated =2679253540; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=196; length=1456; checksum_in_packet=1070691696; checksum_calculated =1070691696; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=197; length=1456; checksum_in_packet=1070691696;
+Packet received; type=DATA; seqNum=197; length=1456; checksum_in_packet=3075246118; checksum_calculated =3075246118; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=198; length=1456; checksum_in_packet=3075246118;
+Packet sent; type=ACK; seqNum=198; length=1456; checksum_in_packet=4020019843; checksum_calculated =3223412215; status=CORRUPT
+Packet received; type=DATA; seqNum=198; length=1456; checksum_in_packet=4020019843; checksum_calculated =4020019843; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=199; length=1456; checksum_in_packet=4020019843;
+Packet received; type=DATA; seqNum=199; length=1456; checksum_in_packet=3726568742; checksum_calculated =3726568742; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=200; length=1456; checksum_in_packet=3726568742;
+Packet received; type=DATA; seqNum=200; length=1456; checksum_in_packet=3834361633; checksum_calculated =3834361633; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=201; length=1456; checksum_in_packet=3834361633;
+Packet received; type=DATA; seqNum=201; length=1456; checksum_in_packet=1731132597; checksum_calculated =1731132597; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=202; length=1456; checksum_in_packet=1731132597;
+Packet received; type=DATA; seqNum=202; length=1456; checksum_in_packet=490868454; checksum_calculated =490868454; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=203; length=1456; checksum_in_packet=490868454;
+Packet received; type=DATA; seqNum=203; length=1456; checksum_in_packet=1178588770; checksum_calculated =1178588770; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=204; length=1456; checksum_in_packet=1178588770;
+Packet received; type=DATA; seqNum=204; length=1456; checksum_in_packet=2033618091; checksum_calculated =2033618091; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=205; length=1456; checksum_in_packet=2033618091;
+Packet received; type=DATA; seqNum=205; length=1456; checksum_in_packet=3889080819; checksum_calculated =3889080819; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=206; length=1456; checksum_in_packet=3889080819;
+Packet received; type=DATA; seqNum=206; length=1456; checksum_in_packet=1858685523; checksum_calculated =1858685523; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=207; length=1456; checksum_in_packet=1858685523;
+Packet received; type=DATA; seqNum=207; length=1456; checksum_in_packet=242022348; checksum_calculated =242022348; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=208; length=1456; checksum_in_packet=242022348;
+Packet received; type=DATA; seqNum=208; length=1456; checksum_in_packet=1341936067; checksum_calculated =1341936067; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=209; length=1456; checksum_in_packet=1341936067;
+Packet received; type=DATA; seqNum=209; length=1456; checksum_in_packet=714387434; checksum_calculated =714387434; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=210; length=1456; checksum_in_packet=714387434;
+Packet sent; type=ACK; seqNum=210; length=1456; checksum_in_packet=714387434; checksum_calculated =714387434; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=210; length=1456; checksum_in_packet=179242754; checksum_calculated =179242754; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=211; length=1456; checksum_in_packet=179242754;
+Packet received; type=DATA; seqNum=211; length=1456; checksum_in_packet=2951177636; checksum_calculated =2951177636; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=212; length=1456; checksum_in_packet=2951177636;
+Packet sent; type=ACK; seqNum=212; length=1456; checksum_in_packet=2951177636; checksum_calculated =2951177636; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=212; length=1456; checksum_in_packet=446275084; checksum_calculated =446275084; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=213; length=1456; checksum_in_packet=446275084;
+Packet sent; type=ACK; seqNum=213; length=1456; checksum_in_packet=1802579180; checksum_calculated =718677894; status=CORRUPT
+Packet received; type=DATA; seqNum=213; length=1456; checksum_in_packet=1802579180; checksum_calculated =1802579180; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=214; length=1456; checksum_in_packet=1802579180;
+Packet received; type=DATA; seqNum=214; length=1456; checksum_in_packet=2199118606; checksum_calculated =2199118606; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=215; length=1456; checksum_in_packet=2199118606;
+Packet received; type=DATA; seqNum=215; length=1456; checksum_in_packet=2883577217; checksum_calculated =2883577217; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=216; length=1456; checksum_in_packet=2883577217;
+Packet received; type=DATA; seqNum=216; length=1456; checksum_in_packet=2453185909; checksum_calculated =2453185909; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=217; length=1456; checksum_in_packet=2453185909;
+Packet sent; type=ACK; seqNum=217; length=1456; checksum_in_packet=2453185909; checksum_calculated =2453185909; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=217; length=1456; checksum_in_packet=3557418199; checksum_calculated =3557418199; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=218; length=1456; checksum_in_packet=3557418199;
+Packet received; type=DATA; seqNum=218; length=1456; checksum_in_packet=4131151639; checksum_calculated =4131151639; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=219; length=1456; checksum_in_packet=4131151639;
+Packet received; type=DATA; seqNum=219; length=1456; checksum_in_packet=3193078261; checksum_calculated =3193078261; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=220; length=1456; checksum_in_packet=3193078261;
+Packet sent; type=ACK; seqNum=220; length=1456; checksum_in_packet=691249680; checksum_calculated =907882892; status=CORRUPT
+Packet received; type=DATA; seqNum=220; length=1456; checksum_in_packet=691249680; checksum_calculated =691249680; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=221; length=1456; checksum_in_packet=691249680;
+Packet received; type=DATA; seqNum=221; length=1456; checksum_in_packet=3931827825; checksum_calculated =3931827825; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=222; length=1456; checksum_in_packet=3931827825;
+Packet received; type=DATA; seqNum=222; length=1456; checksum_in_packet=1510448721; checksum_calculated =1510448721; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=223; length=1456; checksum_in_packet=1510448721;
+Packet received; type=DATA; seqNum=223; length=1456; checksum_in_packet=3285146958; checksum_calculated =3285146958; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=224; length=1456; checksum_in_packet=3285146958;
+Packet received; type=DATA; seqNum=224; length=1456; checksum_in_packet=1729092409; checksum_calculated =1729092409; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=225; length=1456; checksum_in_packet=1729092409;
+Packet received; type=DATA; seqNum=225; length=1456; checksum_in_packet=713523480; checksum_calculated =713523480; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=226; length=1456; checksum_in_packet=713523480;
+Packet received; type=DATA; seqNum=226; length=1456; checksum_in_packet=3978166689; checksum_calculated =3978166689; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=227; length=1456; checksum_in_packet=3978166689;
+Packet sent; type=ACK; seqNum=227; length=1456; checksum_in_packet=4215408902; checksum_calculated =653942640; status=CORRUPT
+Packet received; type=DATA; seqNum=227; length=1456; checksum_in_packet=4215408902; checksum_calculated =4215408902; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=228; length=1456; checksum_in_packet=4215408902;
+Packet received; type=DATA; seqNum=228; length=1456; checksum_in_packet=1874309294; checksum_calculated =1874309294; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=229; length=1456; checksum_in_packet=1874309294;
+Packet received; type=DATA; seqNum=229; length=1456; checksum_in_packet=16381002; checksum_calculated =16381002; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=230; length=1456; checksum_in_packet=16381002;
+Packet sent; type=ACK; seqNum=230; length=1456; checksum_in_packet=3169758021; checksum_calculated =3849056397; status=CORRUPT
+Packet received; type=DATA; seqNum=230; length=1456; checksum_in_packet=3169758021; checksum_calculated =3169758021; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=231; length=1456; checksum_in_packet=3169758021;
+Packet received; type=DATA; seqNum=231; length=1456; checksum_in_packet=4161273284; checksum_calculated =4161273284; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=232; length=1456; checksum_in_packet=4161273284;
+Packet received; type=DATA; seqNum=232; length=1456; checksum_in_packet=3305414655; checksum_calculated =3305414655; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=233; length=1456; checksum_in_packet=3305414655;
+Packet received; type=DATA; seqNum=233; length=1456; checksum_in_packet=437984438; checksum_calculated =437984438; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=234; length=1456; checksum_in_packet=437984438;
+Packet received; type=DATA; seqNum=234; length=1456; checksum_in_packet=2375616073; checksum_calculated =2375616073; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=235; length=1456; checksum_in_packet=2375616073;
+Packet received; type=DATA; seqNum=235; length=1456; checksum_in_packet=3812191932; checksum_calculated =3812191932; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=236; length=1456; checksum_in_packet=3812191932;
+Packet received; type=DATA; seqNum=236; length=1456; checksum_in_packet=3606807445; checksum_calculated =3606807445; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=237; length=1456; checksum_in_packet=3606807445;
+Packet received; type=DATA; seqNum=237; length=1456; checksum_in_packet=3634022213; checksum_calculated =3634022213; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=238; length=1456; checksum_in_packet=3634022213;
+Packet received; type=DATA; seqNum=238; length=1456; checksum_in_packet=2940259145; checksum_calculated =2940259145; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=239; length=1456; checksum_in_packet=2940259145;
+Packet received; type=DATA; seqNum=239; length=1456; checksum_in_packet=1364660101; checksum_calculated =1364660101; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=240; length=1456; checksum_in_packet=1364660101;
+Packet received; type=DATA; seqNum=240; length=1456; checksum_in_packet=4233303693; checksum_calculated =4233303693; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=241; length=1456; checksum_in_packet=4233303693;
+Packet received; type=DATA; seqNum=241; length=1456; checksum_in_packet=1571954324; checksum_calculated =1571954324; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=242; length=1456; checksum_in_packet=1571954324;
+Packet received; type=DATA; seqNum=242; length=1456; checksum_in_packet=964926061; checksum_calculated =964926061; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=243; length=1456; checksum_in_packet=964926061;
+Packet sent; type=ACK; seqNum=243; length=1456; checksum_in_packet=964926061; checksum_calculated =964926061; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=243; length=1456; checksum_in_packet=3928675715; checksum_calculated =3928675715; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=244; length=1456; checksum_in_packet=3928675715;
+Packet received; type=DATA; seqNum=244; length=1456; checksum_in_packet=1197891094; checksum_calculated =1197891094; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=245; length=1456; checksum_in_packet=1197891094;
+Packet received; type=DATA; seqNum=245; length=1456; checksum_in_packet=1525359608; checksum_calculated =1525359608; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=246; length=1456; checksum_in_packet=1525359608;
+Packet sent; type=ACK; seqNum=246; length=1456; checksum_in_packet=1525359608; checksum_calculated =1525359608; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=246; length=1456; checksum_in_packet=545241732; checksum_calculated =545241732; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=247; length=1456; checksum_in_packet=545241732;
+Packet received; type=DATA; seqNum=247; length=1456; checksum_in_packet=3240579448; checksum_calculated =3240579448; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=248; length=1456; checksum_in_packet=3240579448;
+Packet received; type=DATA; seqNum=248; length=1456; checksum_in_packet=2361204849; checksum_calculated =2361204849; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=249; length=1456; checksum_in_packet=2361204849;
+Packet received; type=DATA; seqNum=249; length=1456; checksum_in_packet=3227704045; checksum_calculated =3227704045; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=250; length=1456; checksum_in_packet=3227704045;
+Packet received; type=DATA; seqNum=250; length=1456; checksum_in_packet=2911163965; checksum_calculated =2911163965; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=251; length=1456; checksum_in_packet=2911163965;
+Packet received; type=DATA; seqNum=251; length=1456; checksum_in_packet=482766433; checksum_calculated =482766433; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=252; length=1456; checksum_in_packet=482766433;
+Packet received; type=DATA; seqNum=252; length=1456; checksum_in_packet=2343538481; checksum_calculated =2343538481; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=253; length=1456; checksum_in_packet=2343538481;
+Packet received; type=DATA; seqNum=253; length=1456; checksum_in_packet=51885517; checksum_calculated =51885517; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=254; length=1456; checksum_in_packet=51885517;
+Packet received; type=DATA; seqNum=254; length=1456; checksum_in_packet=2192350213; checksum_calculated =2192350213; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=255; length=1456; checksum_in_packet=2192350213;
+Packet received; type=DATA; seqNum=255; length=1456; checksum_in_packet=1870188655; checksum_calculated =1870188655; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=256; length=1456; checksum_in_packet=1870188655;
+Packet received; type=DATA; seqNum=256; length=1456; checksum_in_packet=3249661520; checksum_calculated =3249661520; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=257; length=1456; checksum_in_packet=3249661520;
+Packet received; type=DATA; seqNum=257; length=1456; checksum_in_packet=2577901601; checksum_calculated =2577901601; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=258; length=1456; checksum_in_packet=2577901601;
+Packet sent; type=ACK; seqNum=258; length=1456; checksum_in_packet=2577901601; checksum_calculated =2577901601; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=258; length=1456; checksum_in_packet=3713317110; checksum_calculated =2131768125; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=258; length=1456; checksum_in_packet=3713317110; checksum_calculated =3713317110; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=259; length=1456; checksum_in_packet=3713317110;
+Packet received; type=DATA; seqNum=259; length=1456; checksum_in_packet=3346210511; checksum_calculated =3346210511; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=260; length=1456; checksum_in_packet=3346210511;
+Packet received; type=DATA; seqNum=260; length=1456; checksum_in_packet=2247020787; checksum_calculated =2247020787; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=261; length=1456; checksum_in_packet=2247020787;
+Packet received; type=DATA; seqNum=261; length=1456; checksum_in_packet=671866831; checksum_calculated =671866831; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=262; length=1456; checksum_in_packet=671866831;
+Packet sent; type=ACK; seqNum=262; length=1456; checksum_in_packet=671866831; checksum_calculated =671866831; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=262; length=1456; checksum_in_packet=2130624558; checksum_calculated =2130624558; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=263; length=1456; checksum_in_packet=2130624558;
+Packet received; type=DATA; seqNum=263; length=1456; checksum_in_packet=981524246; checksum_calculated =981524246; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=264; length=1456; checksum_in_packet=981524246;
+Packet received; type=DATA; seqNum=264; length=1456; checksum_in_packet=1342363484; checksum_calculated =1342363484; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=265; length=1456; checksum_in_packet=1342363484;
+Packet received; type=DATA; seqNum=265; length=1456; checksum_in_packet=3483353465; checksum_calculated =3483353465; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=266; length=1456; checksum_in_packet=3483353465;
+Packet received; type=DATA; seqNum=266; length=1456; checksum_in_packet=2737187917; checksum_calculated =2737187917; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=267; length=1456; checksum_in_packet=2737187917;
+Packet received; type=DATA; seqNum=267; length=1456; checksum_in_packet=3095801343; checksum_calculated =3095801343; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=268; length=1456; checksum_in_packet=3095801343;
+Packet received; type=DATA; seqNum=268; length=1456; checksum_in_packet=3300238809; checksum_calculated =3300238809; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=269; length=1456; checksum_in_packet=3300238809;
+Packet received; type=DATA; seqNum=269; length=1456; checksum_in_packet=141840338; checksum_calculated =141840338; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=270; length=1456; checksum_in_packet=141840338;
+Packet received; type=DATA; seqNum=270; length=1456; checksum_in_packet=313192872; checksum_calculated =313192872; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=271; length=1456; checksum_in_packet=313192872;
+Packet sent; type=ACK; seqNum=271; length=1456; checksum_in_packet=2356021173; checksum_calculated =217001316; status=CORRUPT
+Packet received; type=DATA; seqNum=271; length=1456; checksum_in_packet=2356021173; checksum_calculated =2356021173; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=272; length=1456; checksum_in_packet=2356021173;
+Packet received; type=DATA; seqNum=272; length=1456; checksum_in_packet=536307786; checksum_calculated =536307786; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=273; length=1456; checksum_in_packet=536307786;
+Packet received; type=DATA; seqNum=273; length=1456; checksum_in_packet=3886703743; checksum_calculated =3886703743; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=274; length=1456; checksum_in_packet=3886703743;
+Packet received; type=DATA; seqNum=274; length=1456; checksum_in_packet=2954223346; checksum_calculated =2954223346; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=275; length=1456; checksum_in_packet=2954223346;
+Packet received; type=DATA; seqNum=275; length=1456; checksum_in_packet=2891965450; checksum_calculated =2891965450; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=276; length=1456; checksum_in_packet=2891965450;
+Packet sent; type=ACK; seqNum=276; length=1456; checksum_in_packet=2891965450; checksum_calculated =2891965450; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=276; length=1456; checksum_in_packet=1456903427; checksum_calculated =1640246715; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=276; length=1456; checksum_in_packet=1456903427; checksum_calculated =1456903427; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=277; length=1456; checksum_in_packet=1456903427;
+Packet sent; type=ACK; seqNum=277; length=1456; checksum_in_packet=3049322296; checksum_calculated =199129456; status=CORRUPT
+Packet sent; type=ACK; seqNum=277; length=1456; checksum_in_packet=3049322296; checksum_calculated =199129456; status=CORRUPT
+Packet received; type=DATA; seqNum=277; length=1456; checksum_in_packet=3049322296; checksum_calculated =3049322296; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=278; length=1456; checksum_in_packet=3049322296;
+Packet received; type=DATA; seqNum=278; length=1456; checksum_in_packet=75167031; checksum_calculated =75167031; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=279; length=1456; checksum_in_packet=75167031;
+Packet received; type=DATA; seqNum=279; length=1456; checksum_in_packet=3891561718; checksum_calculated =3891561718; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=280; length=1456; checksum_in_packet=3891561718;
+Packet received; type=DATA; seqNum=280; length=1456; checksum_in_packet=2256170146; checksum_calculated =2256170146; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=281; length=1456; checksum_in_packet=2256170146;
+Packet received; type=DATA; seqNum=281; length=1456; checksum_in_packet=3082150512; checksum_calculated =3082150512; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=282; length=1456; checksum_in_packet=3082150512;
+Packet received; type=DATA; seqNum=282; length=1456; checksum_in_packet=2087032072; checksum_calculated =2087032072; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=283; length=1456; checksum_in_packet=2087032072;
+Packet received; type=DATA; seqNum=283; length=1456; checksum_in_packet=3639659990; checksum_calculated =3639659990; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=284; length=1456; checksum_in_packet=3639659990;
+Packet received; type=DATA; seqNum=284; length=1456; checksum_in_packet=3442801627; checksum_calculated =3442801627; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=285; length=1456; checksum_in_packet=3442801627;
+Packet received; type=DATA; seqNum=285; length=1456; checksum_in_packet=1293030610; checksum_calculated =1293030610; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=286; length=1456; checksum_in_packet=1293030610;
+Packet received; type=DATA; seqNum=286; length=1456; checksum_in_packet=881191239; checksum_calculated =881191239; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=287; length=1456; checksum_in_packet=881191239;
+Packet sent; type=ACK; seqNum=287; length=1456; checksum_in_packet=816101904; checksum_calculated =4127634704; status=CORRUPT
+Packet received; type=DATA; seqNum=287; length=1456; checksum_in_packet=816101904; checksum_calculated =816101904; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=288; length=1456; checksum_in_packet=816101904;
+Packet received; type=DATA; seqNum=288; length=1456; checksum_in_packet=3631995703; checksum_calculated =3631995703; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=289; length=1456; checksum_in_packet=3631995703;
+Packet received; type=DATA; seqNum=289; length=1456; checksum_in_packet=3436573276; checksum_calculated =3436573276; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=290; length=1456; checksum_in_packet=3436573276;
+Packet received; type=DATA; seqNum=290; length=1456; checksum_in_packet=4094648061; checksum_calculated =4094648061; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=291; length=1456; checksum_in_packet=4094648061;
+Packet sent; type=ACK; seqNum=291; length=1456; checksum_in_packet=2173987344; checksum_calculated =3788432192; status=CORRUPT
+Packet received; type=DATA; seqNum=291; length=1456; checksum_in_packet=2173987344; checksum_calculated =2173987344; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=292; length=1456; checksum_in_packet=2173987344;
+Packet received; type=DATA; seqNum=292; length=1456; checksum_in_packet=785442782; checksum_calculated =785442782; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=293; length=1456; checksum_in_packet=785442782;
+Packet received; type=DATA; seqNum=293; length=1456; checksum_in_packet=1733945876; checksum_calculated =1733945876; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=294; length=1456; checksum_in_packet=1733945876;
+Packet received; type=DATA; seqNum=294; length=1456; checksum_in_packet=377837908; checksum_calculated =377837908; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=295; length=1456; checksum_in_packet=377837908;
+Packet received; type=DATA; seqNum=295; length=1456; checksum_in_packet=157952489; checksum_calculated =157952489; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=296; length=1456; checksum_in_packet=157952489;
+Packet received; type=DATA; seqNum=296; length=1456; checksum_in_packet=1955747433; checksum_calculated =1955747433; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=297; length=1456; checksum_in_packet=1955747433;
+Packet sent; type=ACK; seqNum=297; length=1456; checksum_in_packet=1896106681; checksum_calculated =1896106681; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=297; length=1456; checksum_in_packet=1573296913; checksum_calculated =1573296913; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=298; length=1456; checksum_in_packet=1573296913;
+Packet received; type=DATA; seqNum=298; length=1456; checksum_in_packet=1896106681; checksum_calculated =1896106681; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=299; length=1456; checksum_in_packet=1896106681;
+Packet sent; type=ACK; seqNum=299; length=1456; checksum_in_packet=1947985320; checksum_calculated =2036229403; status=CORRUPT
+Packet received; type=DATA; seqNum=299; length=1456; checksum_in_packet=1947985320; checksum_calculated =1947985320; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=300; length=1456; checksum_in_packet=1947985320;
+Packet received; type=DATA; seqNum=300; length=1456; checksum_in_packet=1487645326; checksum_calculated =1487645326; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=301; length=1456; checksum_in_packet=1487645326;
+Packet received; type=DATA; seqNum=301; length=1456; checksum_in_packet=2636138144; checksum_calculated =2636138144; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=302; length=1456; checksum_in_packet=2636138144;
+Packet received; type=DATA; seqNum=302; length=1456; checksum_in_packet=926781563; checksum_calculated =926781563; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=303; length=1456; checksum_in_packet=926781563;
+Packet sent; type=ACK; seqNum=303; length=1456; checksum_in_packet=926781563; checksum_calculated =926781563; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=303; length=1456; checksum_in_packet=1135763413; checksum_calculated =1135763413; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=304; length=1456; checksum_in_packet=1135763413;
+Packet received; type=DATA; seqNum=304; length=1456; checksum_in_packet=3524566393; checksum_calculated =3524566393; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=305; length=1456; checksum_in_packet=3524566393;
+Packet received; type=DATA; seqNum=305; length=1456; checksum_in_packet=799217907; checksum_calculated =799217907; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=306; length=1456; checksum_in_packet=799217907;
+Packet received; type=DATA; seqNum=306; length=1456; checksum_in_packet=1967535130; checksum_calculated =1967535130; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=307; length=1456; checksum_in_packet=1967535130;
+Packet received; type=DATA; seqNum=307; length=1456; checksum_in_packet=3280749351; checksum_calculated =3280749351; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=308; length=1456; checksum_in_packet=3280749351;
+Packet received; type=DATA; seqNum=308; length=1456; checksum_in_packet=3411815171; checksum_calculated =3411815171; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=309; length=1456; checksum_in_packet=3411815171;
+Packet received; type=DATA; seqNum=309; length=1456; checksum_in_packet=1960157272; checksum_calculated =1960157272; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=310; length=1456; checksum_in_packet=1960157272;
+Packet received; type=DATA; seqNum=310; length=1456; checksum_in_packet=444318244; checksum_calculated =444318244; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=311; length=1456; checksum_in_packet=444318244;
+Packet received; type=DATA; seqNum=311; length=1456; checksum_in_packet=1259937660; checksum_calculated =1259937660; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=312; length=1456; checksum_in_packet=1259937660;
+Packet received; type=DATA; seqNum=312; length=1456; checksum_in_packet=3718888977; checksum_calculated =3718888977; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=313; length=1456; checksum_in_packet=3718888977;
+Packet received; type=DATA; seqNum=313; length=1456; checksum_in_packet=3306103665; checksum_calculated =3306103665; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=314; length=1456; checksum_in_packet=3306103665;
+Packet sent; type=ACK; seqNum=314; length=1456; checksum_in_packet=3503587228; checksum_calculated =1470049567; status=CORRUPT
+Packet received; type=DATA; seqNum=314; length=1456; checksum_in_packet=3503587228; checksum_calculated =3503587228; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=315; length=1456; checksum_in_packet=3503587228;
+Packet received; type=DATA; seqNum=315; length=1456; checksum_in_packet=2356440680; checksum_calculated =2356440680; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=316; length=1456; checksum_in_packet=2356440680;
+Packet received; type=DATA; seqNum=316; length=1456; checksum_in_packet=3853503798; checksum_calculated =3853503798; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=317; length=1456; checksum_in_packet=3853503798;
+Packet received; type=DATA; seqNum=317; length=1456; checksum_in_packet=1014500217; checksum_calculated =1014500217; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=318; length=1456; checksum_in_packet=1014500217;
+Packet sent; type=ACK; seqNum=318; length=1456; checksum_in_packet=1014500217; checksum_calculated =1014500217; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=318; length=1456; checksum_in_packet=3279803434; checksum_calculated =3279803434; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=319; length=1456; checksum_in_packet=3279803434;
+Packet received; type=DATA; seqNum=319; length=1456; checksum_in_packet=175970242; checksum_calculated =175970242; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=320; length=1456; checksum_in_packet=175970242;
+Packet received; type=DATA; seqNum=320; length=1456; checksum_in_packet=545554175; checksum_calculated =545554175; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=321; length=1456; checksum_in_packet=545554175;
+Packet received; type=DATA; seqNum=321; length=1456; checksum_in_packet=542356882; checksum_calculated =542356882; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=322; length=1456; checksum_in_packet=542356882;
+Packet received; type=DATA; seqNum=322; length=1456; checksum_in_packet=1942743715; checksum_calculated =1942743715; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=323; length=1456; checksum_in_packet=1942743715;
+Packet received; type=DATA; seqNum=323; length=1456; checksum_in_packet=2485511313; checksum_calculated =2485511313; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=324; length=1456; checksum_in_packet=2485511313;
+Packet received; type=DATA; seqNum=324; length=1456; checksum_in_packet=32583688; checksum_calculated =32583688; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=325; length=1456; checksum_in_packet=32583688;
+Packet received; type=DATA; seqNum=325; length=1456; checksum_in_packet=3471003412; checksum_calculated =3471003412; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=326; length=1456; checksum_in_packet=3471003412;
+Packet received; type=DATA; seqNum=326; length=1456; checksum_in_packet=770205447; checksum_calculated =770205447; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=327; length=1456; checksum_in_packet=770205447;
+Packet received; type=DATA; seqNum=327; length=1456; checksum_in_packet=2765683638; checksum_calculated =2765683638; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=328; length=1456; checksum_in_packet=2765683638;
+Packet received; type=DATA; seqNum=328; length=1456; checksum_in_packet=2572479616; checksum_calculated =2572479616; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=329; length=1456; checksum_in_packet=2572479616;
+Packet sent; type=ACK; seqNum=329; length=1456; checksum_in_packet=2572479616; checksum_calculated =2572479616; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=329; length=1456; checksum_in_packet=1672566810; checksum_calculated =1672566810; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=330; length=1456; checksum_in_packet=1672566810;
+Packet received; type=DATA; seqNum=330; length=1456; checksum_in_packet=3825829436; checksum_calculated =3825829436; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=331; length=1456; checksum_in_packet=3825829436;
+Packet sent; type=ACK; seqNum=331; length=1456; checksum_in_packet=3825829436; checksum_calculated =3825829436; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=331; length=1456; checksum_in_packet=191646504; checksum_calculated =191646504; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=332; length=1456; checksum_in_packet=191646504;
+Packet received; type=DATA; seqNum=332; length=1456; checksum_in_packet=1733632243; checksum_calculated =1733632243; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=333; length=1456; checksum_in_packet=1733632243;
+Packet sent; type=ACK; seqNum=333; length=1456; checksum_in_packet=1733632243; checksum_calculated =1733632243; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=333; length=1456; checksum_in_packet=3509731147; checksum_calculated =3509731147; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=334; length=1456; checksum_in_packet=3509731147;
+Packet received; type=DATA; seqNum=334; length=1456; checksum_in_packet=2081865606; checksum_calculated =2081865606; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=335; length=1456; checksum_in_packet=2081865606;
+Packet received; type=DATA; seqNum=335; length=1456; checksum_in_packet=392883304; checksum_calculated =392883304; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=336; length=1456; checksum_in_packet=392883304;
+Packet received; type=DATA; seqNum=336; length=1456; checksum_in_packet=3769465696; checksum_calculated =3769465696; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=337; length=1456; checksum_in_packet=3769465696;
+Packet received; type=DATA; seqNum=337; length=1456; checksum_in_packet=373955355; checksum_calculated =373955355; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=338; length=1456; checksum_in_packet=373955355;
+Packet received; type=DATA; seqNum=338; length=1456; checksum_in_packet=1939143165; checksum_calculated =1939143165; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=339; length=1456; checksum_in_packet=1939143165;
+Packet received; type=DATA; seqNum=339; length=1456; checksum_in_packet=125292459; checksum_calculated =125292459; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=340; length=1456; checksum_in_packet=125292459;
+Packet received; type=DATA; seqNum=340; length=1456; checksum_in_packet=52414782; checksum_calculated =52414782; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=341; length=1456; checksum_in_packet=52414782;
+Packet received; type=DATA; seqNum=341; length=1456; checksum_in_packet=2754749414; checksum_calculated =2754749414; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=342; length=1456; checksum_in_packet=2754749414;
+Packet received; type=DATA; seqNum=342; length=1456; checksum_in_packet=1793362555; checksum_calculated =1793362555; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=343; length=1456; checksum_in_packet=1793362555;
+Packet received; type=DATA; seqNum=343; length=1456; checksum_in_packet=655339656; checksum_calculated =655339656; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=344; length=1456; checksum_in_packet=655339656;
+Packet received; type=DATA; seqNum=344; length=1456; checksum_in_packet=1703524434; checksum_calculated =1703524434; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=345; length=1456; checksum_in_packet=1703524434;
+Packet received; type=DATA; seqNum=345; length=1456; checksum_in_packet=3563445335; checksum_calculated =3563445335; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=346; length=1456; checksum_in_packet=3563445335;
+Packet received; type=DATA; seqNum=346; length=1456; checksum_in_packet=178974131; checksum_calculated =178974131; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=347; length=1456; checksum_in_packet=178974131;
+Packet received; type=DATA; seqNum=347; length=1456; checksum_in_packet=3692313447; checksum_calculated =3692313447; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=348; length=1456; checksum_in_packet=3692313447;
+Packet sent; type=ACK; seqNum=348; length=1456; checksum_in_packet=1682496577; checksum_calculated =2353814978; status=CORRUPT
+Packet received; type=DATA; seqNum=348; length=1456; checksum_in_packet=1682496577; checksum_calculated =1682496577; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=349; length=1456; checksum_in_packet=1682496577;
+Packet received; type=DATA; seqNum=349; length=1456; checksum_in_packet=1389307723; checksum_calculated =1389307723; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=350; length=1456; checksum_in_packet=1389307723;
+Packet received; type=DATA; seqNum=350; length=1456; checksum_in_packet=899721655; checksum_calculated =899721655; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=351; length=1456; checksum_in_packet=899721655;
+Packet received; type=DATA; seqNum=351; length=1456; checksum_in_packet=953732875; checksum_calculated =953732875; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=352; length=1456; checksum_in_packet=953732875;
+Packet sent; type=ACK; seqNum=352; length=1456; checksum_in_packet=953732875; checksum_calculated =953732875; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=352; length=1456; checksum_in_packet=2572173119; checksum_calculated =2572173119; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=353; length=1456; checksum_in_packet=2572173119;
+Packet received; type=DATA; seqNum=353; length=1456; checksum_in_packet=3826049499; checksum_calculated =3826049499; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=354; length=1456; checksum_in_packet=3826049499;
+Packet received; type=DATA; seqNum=354; length=1456; checksum_in_packet=1497149212; checksum_calculated =1497149212; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=355; length=1456; checksum_in_packet=1497149212;
+Packet received; type=DATA; seqNum=355; length=1456; checksum_in_packet=2975623011; checksum_calculated =2975623011; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=356; length=1456; checksum_in_packet=2975623011;
+Packet received; type=DATA; seqNum=356; length=1456; checksum_in_packet=1961139621; checksum_calculated =1961139621; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=357; length=1456; checksum_in_packet=1961139621;
+Packet received; type=DATA; seqNum=357; length=1456; checksum_in_packet=4069767714; checksum_calculated =4069767714; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=358; length=1456; checksum_in_packet=4069767714;
+Packet sent; type=ACK; seqNum=358; length=1456; checksum_in_packet=4088115595; checksum_calculated =1775095657; status=CORRUPT
+Packet received; type=DATA; seqNum=358; length=1456; checksum_in_packet=4088115595; checksum_calculated =4088115595; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=359; length=1456; checksum_in_packet=4088115595;
+Packet received; type=DATA; seqNum=359; length=1456; checksum_in_packet=559058573; checksum_calculated =559058573; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=360; length=1456; checksum_in_packet=559058573;
+Packet received; type=DATA; seqNum=360; length=1456; checksum_in_packet=1929722648; checksum_calculated =1929722648; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=361; length=1456; checksum_in_packet=1929722648;
+Packet received; type=DATA; seqNum=361; length=1456; checksum_in_packet=1284159293; checksum_calculated =1284159293; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=362; length=1456; checksum_in_packet=1284159293;
+Packet received; type=DATA; seqNum=362; length=1456; checksum_in_packet=2796692569; checksum_calculated =2796692569; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=363; length=1456; checksum_in_packet=2796692569;
+Packet received; type=DATA; seqNum=363; length=1456; checksum_in_packet=3775026934; checksum_calculated =3775026934; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=364; length=1456; checksum_in_packet=3775026934;
+Packet received; type=DATA; seqNum=364; length=1456; checksum_in_packet=2766984565; checksum_calculated =2766984565; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=365; length=1456; checksum_in_packet=2766984565;
+Packet received; type=DATA; seqNum=365; length=1456; checksum_in_packet=2836619566; checksum_calculated =2836619566; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=366; length=1456; checksum_in_packet=2836619566;
+Packet received; type=DATA; seqNum=366; length=1456; checksum_in_packet=3230459849; checksum_calculated =3230459849; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=367; length=1456; checksum_in_packet=3230459849;
+Packet received; type=DATA; seqNum=367; length=1456; checksum_in_packet=3013365723; checksum_calculated =3013365723; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=368; length=1456; checksum_in_packet=3013365723;
+Packet received; type=DATA; seqNum=368; length=1456; checksum_in_packet=2281180924; checksum_calculated =2281180924; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=369; length=1456; checksum_in_packet=2281180924;
+Packet received; type=DATA; seqNum=369; length=1456; checksum_in_packet=409404749; checksum_calculated =409404749; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=370; length=1456; checksum_in_packet=409404749;
+Packet received; type=DATA; seqNum=370; length=1456; checksum_in_packet=3894582256; checksum_calculated =3894582256; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=371; length=1456; checksum_in_packet=3894582256;
+Packet received; type=DATA; seqNum=371; length=1456; checksum_in_packet=2277866975; checksum_calculated =2277866975; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=372; length=1456; checksum_in_packet=2277866975;
+Packet received; type=DATA; seqNum=372; length=1456; checksum_in_packet=1730444077; checksum_calculated =1730444077; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=373; length=1456; checksum_in_packet=1730444077;
+Packet received; type=DATA; seqNum=373; length=1456; checksum_in_packet=4176679549; checksum_calculated =4176679549; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=374; length=1456; checksum_in_packet=4176679549;
+Packet received; type=DATA; seqNum=374; length=1456; checksum_in_packet=579341293; checksum_calculated =579341293; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=375; length=1456; checksum_in_packet=579341293;
+Packet received; type=DATA; seqNum=375; length=1456; checksum_in_packet=2193401798; checksum_calculated =2193401798; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=376; length=1456; checksum_in_packet=2193401798;
+Packet received; type=DATA; seqNum=376; length=1456; checksum_in_packet=3235958386; checksum_calculated =3235958386; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=377; length=1456; checksum_in_packet=3235958386;
+Packet sent; type=ACK; seqNum=377; length=1456; checksum_in_packet=3235958386; checksum_calculated =3235958386; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=377; length=1456; checksum_in_packet=1979689121; checksum_calculated =1979689121; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=378; length=1456; checksum_in_packet=1979689121;
+Packet received; type=DATA; seqNum=378; length=1456; checksum_in_packet=1111936555; checksum_calculated =1111936555; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=379; length=1456; checksum_in_packet=1111936555;
+Packet received; type=DATA; seqNum=379; length=1456; checksum_in_packet=578047642; checksum_calculated =578047642; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=380; length=1456; checksum_in_packet=578047642;
+Packet received; type=DATA; seqNum=380; length=1456; checksum_in_packet=72240816; checksum_calculated =72240816; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=381; length=1456; checksum_in_packet=72240816;
+Packet received; type=DATA; seqNum=381; length=1456; checksum_in_packet=1850219231; checksum_calculated =1850219231; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=382; length=1456; checksum_in_packet=1850219231;
+Packet received; type=DATA; seqNum=382; length=1456; checksum_in_packet=2138384750; checksum_calculated =2138384750; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=383; length=1456; checksum_in_packet=2138384750;
+Packet received; type=DATA; seqNum=383; length=1456; checksum_in_packet=1926615223; checksum_calculated =1926615223; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=384; length=1456; checksum_in_packet=1926615223;
+Packet received; type=DATA; seqNum=384; length=1456; checksum_in_packet=759906237; checksum_calculated =759906237; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=385; length=1456; checksum_in_packet=759906237;
+Packet received; type=DATA; seqNum=385; length=1456; checksum_in_packet=332064713; checksum_calculated =332064713; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=386; length=1456; checksum_in_packet=332064713;
+Packet received; type=DATA; seqNum=386; length=1456; checksum_in_packet=1767890186; checksum_calculated =1767890186; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=387; length=1456; checksum_in_packet=1767890186;
+Packet received; type=DATA; seqNum=387; length=1456; checksum_in_packet=1701328703; checksum_calculated =1701328703; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=388; length=1456; checksum_in_packet=1701328703;
+Packet received; type=DATA; seqNum=388; length=1456; checksum_in_packet=205685280; checksum_calculated =205685280; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=389; length=1456; checksum_in_packet=205685280;
+Packet received; type=DATA; seqNum=389; length=1456; checksum_in_packet=387093190; checksum_calculated =387093190; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=390; length=1456; checksum_in_packet=387093190;
+Packet received; type=DATA; seqNum=390; length=1456; checksum_in_packet=4053576545; checksum_calculated =4053576545; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=391; length=1456; checksum_in_packet=4053576545;
+Packet received; type=DATA; seqNum=391; length=1456; checksum_in_packet=1561317248; checksum_calculated =1561317248; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=392; length=1456; checksum_in_packet=1561317248;
+Packet received; type=DATA; seqNum=392; length=1456; checksum_in_packet=1789011356; checksum_calculated =1789011356; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=393; length=1456; checksum_in_packet=1789011356;
+Packet received; type=DATA; seqNum=393; length=1456; checksum_in_packet=584201266; checksum_calculated =584201266; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=394; length=1456; checksum_in_packet=584201266;
+Packet received; type=DATA; seqNum=394; length=1456; checksum_in_packet=3561792506; checksum_calculated =3561792506; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=395; length=1456; checksum_in_packet=3561792506;
+Packet received; type=DATA; seqNum=395; length=1456; checksum_in_packet=1074256073; checksum_calculated =1074256073; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=396; length=1456; checksum_in_packet=1074256073;
+Packet received; type=DATA; seqNum=396; length=1456; checksum_in_packet=684901192; checksum_calculated =684901192; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=397; length=1456; checksum_in_packet=684901192;
+Packet received; type=DATA; seqNum=397; length=1456; checksum_in_packet=2338749064; checksum_calculated =2338749064; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=398; length=1456; checksum_in_packet=2338749064;
+Packet received; type=DATA; seqNum=398; length=1456; checksum_in_packet=3815255213; checksum_calculated =3815255213; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=399; length=1456; checksum_in_packet=3815255213;
+Packet received; type=DATA; seqNum=399; length=1456; checksum_in_packet=296943942; checksum_calculated =296943942; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=400; length=1456; checksum_in_packet=296943942;
+Packet received; type=DATA; seqNum=400; length=1456; checksum_in_packet=3442016451; checksum_calculated =3442016451; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=401; length=1456; checksum_in_packet=3442016451;
+Packet received; type=DATA; seqNum=401; length=1456; checksum_in_packet=384069532; checksum_calculated =384069532; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=402; length=1456; checksum_in_packet=384069532;
+Packet received; type=DATA; seqNum=402; length=1456; checksum_in_packet=2301457827; checksum_calculated =2301457827; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=403; length=1456; checksum_in_packet=2301457827;
+Packet received; type=DATA; seqNum=403; length=1456; checksum_in_packet=1137833593; checksum_calculated =1137833593; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=404; length=1456; checksum_in_packet=1137833593;
+Packet received; type=DATA; seqNum=404; length=1456; checksum_in_packet=558659294; checksum_calculated =558659294; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=405; length=1456; checksum_in_packet=558659294;
+Packet received; type=DATA; seqNum=405; length=1456; checksum_in_packet=2109313954; checksum_calculated =2109313954; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=406; length=1456; checksum_in_packet=2109313954;
+Packet received; type=DATA; seqNum=406; length=1456; checksum_in_packet=786254763; checksum_calculated =786254763; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=407; length=1456; checksum_in_packet=786254763;
+Packet received; type=DATA; seqNum=407; length=1456; checksum_in_packet=3144036261; checksum_calculated =3144036261; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=408; length=1456; checksum_in_packet=3144036261;
+Packet sent; type=ACK; seqNum=408; length=1456; checksum_in_packet=2979217666; checksum_calculated =1620509344; status=CORRUPT
+Packet received; type=DATA; seqNum=408; length=1456; checksum_in_packet=2979217666; checksum_calculated =2979217666; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=409; length=1456; checksum_in_packet=2979217666;
+Packet received; type=DATA; seqNum=409; length=1456; checksum_in_packet=872988950; checksum_calculated =872988950; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=410; length=1456; checksum_in_packet=872988950;
+Packet received; type=DATA; seqNum=410; length=1456; checksum_in_packet=223030465; checksum_calculated =223030465; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=411; length=1456; checksum_in_packet=223030465;
+Packet received; type=DATA; seqNum=411; length=1456; checksum_in_packet=257069971; checksum_calculated =257069971; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=412; length=1456; checksum_in_packet=257069971;
+Packet received; type=DATA; seqNum=412; length=1456; checksum_in_packet=4151913156; checksum_calculated =4151913156; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=413; length=1456; checksum_in_packet=4151913156;
+Packet received; type=DATA; seqNum=413; length=1456; checksum_in_packet=2819206696; checksum_calculated =2819206696; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=414; length=1456; checksum_in_packet=2819206696;
+Packet received; type=DATA; seqNum=414; length=1456; checksum_in_packet=660105046; checksum_calculated =660105046; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=415; length=1456; checksum_in_packet=660105046;
+Packet received; type=DATA; seqNum=415; length=1456; checksum_in_packet=2733517794; checksum_calculated =2733517794; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=416; length=1456; checksum_in_packet=2733517794;
+Packet received; type=DATA; seqNum=416; length=1456; checksum_in_packet=1153654873; checksum_calculated =1153654873; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=417; length=1456; checksum_in_packet=1153654873;
+Packet received; type=DATA; seqNum=417; length=1456; checksum_in_packet=387054729; checksum_calculated =387054729; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=418; length=1456; checksum_in_packet=387054729;
+Packet received; type=DATA; seqNum=418; length=1456; checksum_in_packet=2555782246; checksum_calculated =2555782246; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=419; length=1456; checksum_in_packet=2555782246;
+Packet received; type=DATA; seqNum=419; length=1456; checksum_in_packet=1138012743; checksum_calculated =1138012743; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=420; length=1456; checksum_in_packet=1138012743;
+Packet received; type=DATA; seqNum=420; length=1456; checksum_in_packet=1432180561; checksum_calculated =1432180561; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=421; length=1456; checksum_in_packet=1432180561;
+Packet received; type=DATA; seqNum=421; length=1456; checksum_in_packet=1369781333; checksum_calculated =1369781333; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=422; length=1456; checksum_in_packet=1369781333;
+Packet received; type=DATA; seqNum=422; length=1456; checksum_in_packet=197887930; checksum_calculated =197887930; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=423; length=1456; checksum_in_packet=197887930;
+Packet received; type=DATA; seqNum=423; length=1456; checksum_in_packet=3541276239; checksum_calculated =3541276239; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=424; length=1456; checksum_in_packet=3541276239;
+Packet received; type=DATA; seqNum=424; length=1456; checksum_in_packet=555146305; checksum_calculated =555146305; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=425; length=1456; checksum_in_packet=555146305;
+Packet received; type=DATA; seqNum=425; length=1456; checksum_in_packet=3578023154; checksum_calculated =3578023154; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=426; length=1456; checksum_in_packet=3578023154;
+Packet received; type=DATA; seqNum=426; length=1456; checksum_in_packet=1340197821; checksum_calculated =1340197821; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=427; length=1456; checksum_in_packet=1340197821;
+Packet sent; type=ACK; seqNum=426; length=1456; checksum_in_packet=1340197821; checksum_calculated =908431276; status=CORRUPT
+Packet received; type=DATA; seqNum=427; length=1456; checksum_in_packet=2763832315; checksum_calculated =2763832315; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=428; length=1456; checksum_in_packet=2763832315;
+Packet received; type=DATA; seqNum=428; length=1456; checksum_in_packet=158298875; checksum_calculated =158298875; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=429; length=1456; checksum_in_packet=158298875;
+Packet received; type=DATA; seqNum=429; length=1456; checksum_in_packet=2676674086; checksum_calculated =2676674086; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=430; length=1456; checksum_in_packet=2676674086;
+Packet received; type=DATA; seqNum=430; length=1456; checksum_in_packet=445426370; checksum_calculated =445426370; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=431; length=1456; checksum_in_packet=445426370;
+Packet received; type=DATA; seqNum=431; length=1456; checksum_in_packet=564785359; checksum_calculated =564785359; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=432; length=1456; checksum_in_packet=564785359;
+Packet received; type=DATA; seqNum=432; length=1456; checksum_in_packet=468511136; checksum_calculated =468511136; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=433; length=1456; checksum_in_packet=468511136;
+Packet received; type=DATA; seqNum=433; length=1456; checksum_in_packet=3267318026; checksum_calculated =3267318026; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=434; length=1456; checksum_in_packet=3267318026;
+Packet received; type=DATA; seqNum=434; length=1456; checksum_in_packet=954743922; checksum_calculated =954743922; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=435; length=1456; checksum_in_packet=954743922;
+Packet received; type=DATA; seqNum=435; length=1456; checksum_in_packet=658665367; checksum_calculated =658665367; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=436; length=1456; checksum_in_packet=658665367;
+Packet received; type=DATA; seqNum=436; length=1456; checksum_in_packet=1862400380; checksum_calculated =1862400380; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=437; length=1456; checksum_in_packet=1862400380;
+Packet received; type=DATA; seqNum=437; length=1456; checksum_in_packet=3961994574; checksum_calculated =3961994574; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=438; length=1456; checksum_in_packet=3961994574;
+Packet received; type=DATA; seqNum=438; length=1456; checksum_in_packet=2479948694; checksum_calculated =2479948694; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=439; length=1456; checksum_in_packet=2479948694;
+Packet received; type=DATA; seqNum=439; length=1456; checksum_in_packet=2108899139; checksum_calculated =2108899139; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=440; length=1456; checksum_in_packet=2108899139;
+Packet sent; type=ACK; seqNum=440; length=1456; checksum_in_packet=3593140075; checksum_calculated =4055051242; status=CORRUPT
+Packet sent; type=ACK; seqNum=440; length=1456; checksum_in_packet=3593140075; checksum_calculated =4055051242; status=CORRUPT
+Packet received; type=DATA; seqNum=440; length=1456; checksum_in_packet=3593140075; checksum_calculated =3593140075; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=441; length=1456; checksum_in_packet=3593140075;
+Packet received; type=DATA; seqNum=441; length=1456; checksum_in_packet=2642991027; checksum_calculated =2642991027; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=442; length=1456; checksum_in_packet=2642991027;
+Packet received; type=DATA; seqNum=442; length=1456; checksum_in_packet=1505071255; checksum_calculated =1505071255; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=443; length=1456; checksum_in_packet=1505071255;
+Packet received; type=DATA; seqNum=443; length=1456; checksum_in_packet=2647057363; checksum_calculated =2647057363; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=444; length=1456; checksum_in_packet=2647057363;
+Packet received; type=DATA; seqNum=444; length=1456; checksum_in_packet=1208022892; checksum_calculated =1208022892; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=445; length=1456; checksum_in_packet=1208022892;
+Packet received; type=DATA; seqNum=445; length=1456; checksum_in_packet=3245160723; checksum_calculated =3245160723; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=446; length=1456; checksum_in_packet=3245160723;
+Packet received; type=DATA; seqNum=446; length=1456; checksum_in_packet=2305538088; checksum_calculated =2305538088; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=447; length=1456; checksum_in_packet=2305538088;
+Packet sent; type=ACK; seqNum=447; length=1456; checksum_in_packet=2305538088; checksum_calculated =2305538088; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=447; length=1456; checksum_in_packet=3221049428; checksum_calculated =3221049428; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=448; length=1456; checksum_in_packet=3221049428;
+Packet received; type=DATA; seqNum=448; length=1456; checksum_in_packet=794903061; checksum_calculated =794903061; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=449; length=1456; checksum_in_packet=794903061;
+Packet sent; type=ACK; seqNum=449; length=1456; checksum_in_packet=794903061; checksum_calculated =794903061; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=449; length=1456; checksum_in_packet=1054917025; checksum_calculated =1054917025; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=450; length=1456; checksum_in_packet=1054917025;
+Packet received; type=DATA; seqNum=450; length=1456; checksum_in_packet=1716936162; checksum_calculated =1716936162; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=451; length=1456; checksum_in_packet=1716936162;
+Packet received; type=DATA; seqNum=451; length=1456; checksum_in_packet=661999574; checksum_calculated =661999574; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=452; length=1456; checksum_in_packet=661999574;
+Packet sent; type=ACK; seqNum=452; length=1456; checksum_in_packet=661999574; checksum_calculated =661999574; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=452; length=1456; checksum_in_packet=3058106596; checksum_calculated =3058106596; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=453; length=1456; checksum_in_packet=3058106596;
+Packet received; type=DATA; seqNum=453; length=1456; checksum_in_packet=3755168844; checksum_calculated =3755168844; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=454; length=1456; checksum_in_packet=3755168844;
+Packet received; type=DATA; seqNum=454; length=1456; checksum_in_packet=2649996350; checksum_calculated =2649996350; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=455; length=1456; checksum_in_packet=2649996350;
+Packet received; type=DATA; seqNum=455; length=1456; checksum_in_packet=1547478237; checksum_calculated =1547478237; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=456; length=1456; checksum_in_packet=1547478237;
+Packet received; type=DATA; seqNum=456; length=1456; checksum_in_packet=3499358912; checksum_calculated =3499358912; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=457; length=1456; checksum_in_packet=3499358912;
+Packet received; type=DATA; seqNum=457; length=1456; checksum_in_packet=808674214; checksum_calculated =808674214; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=458; length=1456; checksum_in_packet=808674214;
+Packet received; type=DATA; seqNum=458; length=1456; checksum_in_packet=281115113; checksum_calculated =281115113; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=459; length=1456; checksum_in_packet=281115113;
+Packet sent; type=ACK; seqNum=459; length=1456; checksum_in_packet=1701026392; checksum_calculated =4162123993; status=CORRUPT
+Packet sent; type=ACK; seqNum=459; length=1456; checksum_in_packet=1701026392; checksum_calculated =4162123993; status=CORRUPT
+Packet received; type=DATA; seqNum=459; length=1456; checksum_in_packet=1701026392; checksum_calculated =1701026392; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=460; length=1456; checksum_in_packet=1701026392;
+Packet received; type=DATA; seqNum=460; length=1456; checksum_in_packet=4133545269; checksum_calculated =4133545269; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=461; length=1456; checksum_in_packet=4133545269;
+Packet received; type=DATA; seqNum=461; length=1456; checksum_in_packet=3971417712; checksum_calculated =3971417712; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=462; length=1456; checksum_in_packet=3971417712;
+Packet received; type=DATA; seqNum=462; length=1456; checksum_in_packet=3491841778; checksum_calculated =3491841778; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=463; length=1456; checksum_in_packet=3491841778;
+Packet sent; type=ACK; seqNum=463; length=1456; checksum_in_packet=3491841778; checksum_calculated =3491841778; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=463; length=1456; checksum_in_packet=1423330427; checksum_calculated =1423330427; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=464; length=1456; checksum_in_packet=1423330427;
+Packet received; type=DATA; seqNum=464; length=1456; checksum_in_packet=2833726615; checksum_calculated =2833726615; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=465; length=1456; checksum_in_packet=2833726615;
+Packet received; type=DATA; seqNum=465; length=1456; checksum_in_packet=2069118661; checksum_calculated =2069118661; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=466; length=1456; checksum_in_packet=2069118661;
+Packet received; type=DATA; seqNum=466; length=1456; checksum_in_packet=2595925559; checksum_calculated =2595925559; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=467; length=1456; checksum_in_packet=2595925559;
+Packet received; type=DATA; seqNum=467; length=1456; checksum_in_packet=1046837264; checksum_calculated =1046837264; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=468; length=1456; checksum_in_packet=1046837264;
+Packet received; type=DATA; seqNum=468; length=1456; checksum_in_packet=2607671833; checksum_calculated =2607671833; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=469; length=1456; checksum_in_packet=2607671833;
+Packet received; type=DATA; seqNum=469; length=1456; checksum_in_packet=2173677272; checksum_calculated =2173677272; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=470; length=1456; checksum_in_packet=2173677272;
+Packet received; type=DATA; seqNum=470; length=1456; checksum_in_packet=3104259547; checksum_calculated =3104259547; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=471; length=1456; checksum_in_packet=3104259547;
+Packet sent; type=ACK; seqNum=471; length=1456; checksum_in_packet=3104259547; checksum_calculated =3104259547; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=471; length=1456; checksum_in_packet=3668508520; checksum_calculated =3668508520; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=472; length=1456; checksum_in_packet=3668508520;
+Packet received; type=DATA; seqNum=472; length=1456; checksum_in_packet=3369434606; checksum_calculated =3369434606; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=473; length=1456; checksum_in_packet=3369434606;
+Packet received; type=DATA; seqNum=473; length=1456; checksum_in_packet=2966485340; checksum_calculated =2966485340; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=474; length=1456; checksum_in_packet=2966485340;
+Packet received; type=DATA; seqNum=474; length=1456; checksum_in_packet=2895206481; checksum_calculated =2895206481; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=475; length=1456; checksum_in_packet=2895206481;
+Packet received; type=DATA; seqNum=475; length=1456; checksum_in_packet=254027938; checksum_calculated =254027938; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=476; length=1456; checksum_in_packet=254027938;
+Packet received; type=DATA; seqNum=476; length=1456; checksum_in_packet=3030284435; checksum_calculated =3030284435; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=477; length=1456; checksum_in_packet=3030284435;
+Packet received; type=DATA; seqNum=477; length=1456; checksum_in_packet=2857327895; checksum_calculated =2857327895; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=478; length=1456; checksum_in_packet=2857327895;
+Packet received; type=DATA; seqNum=478; length=1456; checksum_in_packet=3091325291; checksum_calculated =3091325291; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=479; length=1456; checksum_in_packet=3091325291;
+Packet received; type=DATA; seqNum=479; length=1456; checksum_in_packet=3042822340; checksum_calculated =3042822340; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=480; length=1456; checksum_in_packet=3042822340;
+Packet received; type=DATA; seqNum=480; length=1456; checksum_in_packet=1795637356; checksum_calculated =1795637356; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=481; length=1456; checksum_in_packet=1795637356;
+Packet received; type=DATA; seqNum=481; length=1456; checksum_in_packet=1138428057; checksum_calculated =1138428057; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=482; length=1456; checksum_in_packet=1138428057;
+Packet received; type=DATA; seqNum=482; length=1456; checksum_in_packet=2606615970; checksum_calculated =2606615970; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=483; length=1456; checksum_in_packet=2606615970;
+Packet received; type=DATA; seqNum=483; length=1456; checksum_in_packet=2751048179; checksum_calculated =2751048179; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=484; length=1456; checksum_in_packet=2751048179;
+Packet received; type=DATA; seqNum=484; length=1456; checksum_in_packet=3456141556; checksum_calculated =3456141556; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=485; length=1456; checksum_in_packet=3456141556;
+Packet received; type=DATA; seqNum=485; length=1456; checksum_in_packet=779542554; checksum_calculated =779542554; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=486; length=1456; checksum_in_packet=779542554;
+Packet received; type=DATA; seqNum=486; length=1456; checksum_in_packet=2796803402; checksum_calculated =2796803402; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=487; length=1456; checksum_in_packet=2796803402;
+Packet received; type=DATA; seqNum=487; length=1456; checksum_in_packet=2870837710; checksum_calculated =2870837710; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=488; length=1456; checksum_in_packet=2870837710;
+Packet received; type=DATA; seqNum=488; length=1456; checksum_in_packet=3186747485; checksum_calculated =3186747485; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=489; length=1456; checksum_in_packet=3186747485;
+Packet received; type=DATA; seqNum=489; length=1456; checksum_in_packet=478345403; checksum_calculated =478345403; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=490; length=1456; checksum_in_packet=478345403;
+Packet received; type=DATA; seqNum=490; length=1456; checksum_in_packet=825303185; checksum_calculated =825303185; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=491; length=1456; checksum_in_packet=825303185;
+Packet received; type=DATA; seqNum=491; length=1456; checksum_in_packet=3137254259; checksum_calculated =3137254259; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=492; length=1456; checksum_in_packet=3137254259;
+Packet received; type=DATA; seqNum=492; length=1456; checksum_in_packet=4181267307; checksum_calculated =4181267307; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=493; length=1456; checksum_in_packet=4181267307;
+Packet received; type=DATA; seqNum=493; length=1456; checksum_in_packet=3745209505; checksum_calculated =3745209505; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=494; length=1456; checksum_in_packet=3745209505;
+Packet received; type=DATA; seqNum=494; length=1456; checksum_in_packet=1998461936; checksum_calculated =1998461936; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=495; length=1456; checksum_in_packet=1998461936;
+Packet received; type=DATA; seqNum=495; length=1456; checksum_in_packet=3633851700; checksum_calculated =3633851700; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=496; length=1456; checksum_in_packet=3633851700;
+Packet received; type=DATA; seqNum=496; length=1456; checksum_in_packet=1114483550; checksum_calculated =1114483550; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=497; length=1456; checksum_in_packet=1114483550;
+Packet received; type=DATA; seqNum=497; length=1456; checksum_in_packet=3044289104; checksum_calculated =3044289104; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=498; length=1456; checksum_in_packet=3044289104;
+Packet received; type=DATA; seqNum=498; length=1456; checksum_in_packet=295093787; checksum_calculated =295093787; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=499; length=1456; checksum_in_packet=295093787;
+Packet received; type=DATA; seqNum=499; length=1456; checksum_in_packet=1978104103; checksum_calculated =1978104103; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=500; length=1456; checksum_in_packet=1978104103;
+Packet received; type=DATA; seqNum=500; length=1456; checksum_in_packet=3265441531; checksum_calculated =3265441531; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=501; length=1456; checksum_in_packet=3265441531;
+Packet sent; type=ACK; seqNum=501; length=1456; checksum_in_packet=3265441531; checksum_calculated =3265441531; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=501; length=1456; checksum_in_packet=3536174879; checksum_calculated =3536174879; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=502; length=1456; checksum_in_packet=3536174879;
+Packet received; type=DATA; seqNum=502; length=1456; checksum_in_packet=2679861393; checksum_calculated =2679861393; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=503; length=1456; checksum_in_packet=2679861393;
+Packet sent; type=ACK; seqNum=503; length=1456; checksum_in_packet=2283804105; checksum_calculated =2868172361; status=CORRUPT
+Packet received; type=DATA; seqNum=503; length=1456; checksum_in_packet=2283804105; checksum_calculated =2283804105; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=504; length=1456; checksum_in_packet=2283804105;
+Packet received; type=DATA; seqNum=504; length=1456; checksum_in_packet=1727076250; checksum_calculated =1727076250; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=505; length=1456; checksum_in_packet=1727076250;
+Packet received; type=DATA; seqNum=505; length=1456; checksum_in_packet=4191919618; checksum_calculated =4191919618; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=506; length=1456; checksum_in_packet=4191919618;
+Packet received; type=DATA; seqNum=506; length=1456; checksum_in_packet=3586262377; checksum_calculated =3586262377; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=507; length=1456; checksum_in_packet=3586262377;
+Packet received; type=DATA; seqNum=507; length=1456; checksum_in_packet=1494555148; checksum_calculated =1494555148; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=508; length=1456; checksum_in_packet=1494555148;
+Packet received; type=DATA; seqNum=508; length=1456; checksum_in_packet=2080586049; checksum_calculated =2080586049; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=509; length=1456; checksum_in_packet=2080586049;
+Packet received; type=DATA; seqNum=509; length=1456; checksum_in_packet=622391911; checksum_calculated =622391911; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=510; length=1456; checksum_in_packet=622391911;
+Packet received; type=DATA; seqNum=510; length=1456; checksum_in_packet=3343473372; checksum_calculated =3343473372; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=511; length=1456; checksum_in_packet=3343473372;
+Packet received; type=DATA; seqNum=511; length=1456; checksum_in_packet=2055431640; checksum_calculated =2055431640; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=512; length=1456; checksum_in_packet=2055431640;
+Packet received; type=DATA; seqNum=512; length=1456; checksum_in_packet=333733196; checksum_calculated =333733196; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=513; length=1456; checksum_in_packet=333733196;
+Packet received; type=DATA; seqNum=513; length=1456; checksum_in_packet=2986230299; checksum_calculated =2986230299; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=514; length=1456; checksum_in_packet=2986230299;
+Packet received; type=DATA; seqNum=514; length=1456; checksum_in_packet=3557899465; checksum_calculated =3557899465; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=515; length=1456; checksum_in_packet=3557899465;
+Packet received; type=DATA; seqNum=515; length=1456; checksum_in_packet=45399526; checksum_calculated =45399526; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=516; length=1456; checksum_in_packet=45399526;
+Packet sent; type=ACK; seqNum=516; length=1456; checksum_in_packet=45399526; checksum_calculated =45399526; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=516; length=1456; checksum_in_packet=1705651522; checksum_calculated =1705651522; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=517; length=1456; checksum_in_packet=1705651522;
+Packet received; type=DATA; seqNum=517; length=1456; checksum_in_packet=3704726121; checksum_calculated =3704726121; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=518; length=1456; checksum_in_packet=3704726121;
+Packet sent; type=ACK; seqNum=518; length=1456; checksum_in_packet=3704726121; checksum_calculated =3704726121; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=518; length=1456; checksum_in_packet=1458232553; checksum_calculated =1458232553; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=519; length=1456; checksum_in_packet=1458232553;
+Packet received; type=DATA; seqNum=519; length=1456; checksum_in_packet=1002440330; checksum_calculated =1002440330; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=520; length=1456; checksum_in_packet=1002440330;
+Packet received; type=DATA; seqNum=520; length=1456; checksum_in_packet=376568564; checksum_calculated =376568564; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=521; length=1456; checksum_in_packet=376568564;
+Packet sent; type=ACK; seqNum=521; length=1456; checksum_in_packet=3407715584; checksum_calculated =2566420541; status=CORRUPT
+Packet received; type=DATA; seqNum=521; length=1456; checksum_in_packet=3407715584; checksum_calculated =3407715584; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=522; length=1456; checksum_in_packet=3407715584;
+Packet received; type=DATA; seqNum=522; length=1456; checksum_in_packet=2511221226; checksum_calculated =2511221226; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=523; length=1456; checksum_in_packet=2511221226;
+Packet received; type=DATA; seqNum=523; length=1456; checksum_in_packet=1840768645; checksum_calculated =1840768645; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=524; length=1456; checksum_in_packet=1840768645;
+Packet received; type=DATA; seqNum=524; length=1456; checksum_in_packet=2759930968; checksum_calculated =2759930968; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=525; length=1456; checksum_in_packet=2759930968;
+Packet received; type=DATA; seqNum=525; length=1456; checksum_in_packet=1490425254; checksum_calculated =1490425254; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=526; length=1456; checksum_in_packet=1490425254;
+Packet received; type=DATA; seqNum=526; length=1456; checksum_in_packet=2660807273; checksum_calculated =2660807273; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=527; length=1456; checksum_in_packet=2660807273;
+Packet received; type=DATA; seqNum=527; length=1456; checksum_in_packet=802297539; checksum_calculated =802297539; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=528; length=1456; checksum_in_packet=802297539;
+Packet received; type=DATA; seqNum=528; length=1456; checksum_in_packet=784527124; checksum_calculated =784527124; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=529; length=1456; checksum_in_packet=784527124;
+Packet sent; type=ACK; seqNum=529; length=1456; checksum_in_packet=4116460414; checksum_calculated =1098221588; status=CORRUPT
+Packet received; type=DATA; seqNum=529; length=1456; checksum_in_packet=4116460414; checksum_calculated =4116460414; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=530; length=1456; checksum_in_packet=4116460414;
+Packet received; type=DATA; seqNum=530; length=1456; checksum_in_packet=869484651; checksum_calculated =869484651; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=531; length=1456; checksum_in_packet=869484651;
+Packet received; type=DATA; seqNum=531; length=1456; checksum_in_packet=1094908532; checksum_calculated =1094908532; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=532; length=1456; checksum_in_packet=1094908532;
+Packet received; type=DATA; seqNum=532; length=1456; checksum_in_packet=1515304599; checksum_calculated =1515304599; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=533; length=1456; checksum_in_packet=1515304599;
+Packet received; type=DATA; seqNum=533; length=1456; checksum_in_packet=3491498863; checksum_calculated =3491498863; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=534; length=1456; checksum_in_packet=3491498863;
+Packet received; type=DATA; seqNum=534; length=1456; checksum_in_packet=4155889603; checksum_calculated =4155889603; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=535; length=1456; checksum_in_packet=4155889603;
+Packet received; type=DATA; seqNum=535; length=1456; checksum_in_packet=3719670875; checksum_calculated =3719670875; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=536; length=1456; checksum_in_packet=3719670875;
+Packet received; type=DATA; seqNum=536; length=1456; checksum_in_packet=4022644400; checksum_calculated =4022644400; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=537; length=1456; checksum_in_packet=4022644400;
+Packet received; type=DATA; seqNum=537; length=1456; checksum_in_packet=597811826; checksum_calculated =597811826; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=538; length=1456; checksum_in_packet=597811826;
+Packet received; type=DATA; seqNum=538; length=1456; checksum_in_packet=166632011; checksum_calculated =166632011; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=539; length=1456; checksum_in_packet=166632011;
+Packet received; type=DATA; seqNum=539; length=1456; checksum_in_packet=2018618545; checksum_calculated =2018618545; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=540; length=1456; checksum_in_packet=2018618545;
+Packet received; type=DATA; seqNum=540; length=1456; checksum_in_packet=2967587491; checksum_calculated =2967587491; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=541; length=1456; checksum_in_packet=2967587491;
+Packet received; type=DATA; seqNum=541; length=1456; checksum_in_packet=3347595783; checksum_calculated =3347595783; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=542; length=1456; checksum_in_packet=3347595783;
+Packet received; type=DATA; seqNum=542; length=1456; checksum_in_packet=4233490927; checksum_calculated =4233490927; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=543; length=1456; checksum_in_packet=4233490927;
+Packet received; type=DATA; seqNum=543; length=1456; checksum_in_packet=2753918248; checksum_calculated =2753918248; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=544; length=1456; checksum_in_packet=2753918248;
+Packet received; type=DATA; seqNum=544; length=1456; checksum_in_packet=3737515607; checksum_calculated =3737515607; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=545; length=1456; checksum_in_packet=3737515607;
+Packet received; type=DATA; seqNum=545; length=1456; checksum_in_packet=785324011; checksum_calculated =785324011; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=546; length=1456; checksum_in_packet=785324011;
+Packet received; type=DATA; seqNum=546; length=1456; checksum_in_packet=1346790960; checksum_calculated =1346790960; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=547; length=1456; checksum_in_packet=1346790960;
+Packet received; type=DATA; seqNum=547; length=1456; checksum_in_packet=1143261871; checksum_calculated =1143261871; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=548; length=1456; checksum_in_packet=1143261871;
+Packet received; type=DATA; seqNum=548; length=1456; checksum_in_packet=2879658471; checksum_calculated =2879658471; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=549; length=1456; checksum_in_packet=2879658471;
+Packet received; type=DATA; seqNum=549; length=1456; checksum_in_packet=1099424990; checksum_calculated =1099424990; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=550; length=1456; checksum_in_packet=1099424990;
+Packet received; type=DATA; seqNum=550; length=1456; checksum_in_packet=4274841434; checksum_calculated =4274841434; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=551; length=1456; checksum_in_packet=4274841434;
+Packet received; type=DATA; seqNum=551; length=1456; checksum_in_packet=4262745680; checksum_calculated =4262745680; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=552; length=1456; checksum_in_packet=4262745680;
+Packet received; type=DATA; seqNum=552; length=1456; checksum_in_packet=1198288413; checksum_calculated =1198288413; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=553; length=1456; checksum_in_packet=1198288413;
+Packet sent; type=ACK; seqNum=553; length=1456; checksum_in_packet=3423315550; checksum_calculated =3962738411; status=CORRUPT
+Packet received; type=DATA; seqNum=553; length=1456; checksum_in_packet=3423315550; checksum_calculated =3423315550; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=554; length=1456; checksum_in_packet=3423315550;
+Packet received; type=DATA; seqNum=554; length=1456; checksum_in_packet=1578027572; checksum_calculated =1578027572; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=555; length=1456; checksum_in_packet=1578027572;
+Packet received; type=DATA; seqNum=555; length=1456; checksum_in_packet=2636980890; checksum_calculated =2636980890; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=556; length=1456; checksum_in_packet=2636980890;
+Packet received; type=DATA; seqNum=556; length=1456; checksum_in_packet=1384981312; checksum_calculated =1384981312; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=557; length=1456; checksum_in_packet=1384981312;
+Packet received; type=DATA; seqNum=557; length=1456; checksum_in_packet=1281291271; checksum_calculated =1281291271; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=558; length=1456; checksum_in_packet=1281291271;
+Packet received; type=DATA; seqNum=558; length=1456; checksum_in_packet=1577189617; checksum_calculated =1577189617; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=559; length=1456; checksum_in_packet=1577189617;
+Packet sent; type=ACK; seqNum=559; length=1456; checksum_in_packet=1577189617; checksum_calculated =1577189617; status=OUT_OF_ORDER_PACKET
+Packet sent; type=ACK; seqNum=559; length=1456; checksum_in_packet=2802067990; checksum_calculated =2981046359; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=559; length=1456; checksum_in_packet=2802067990; checksum_calculated =2802067990; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=560; length=1456; checksum_in_packet=2802067990;
+Packet received; type=DATA; seqNum=560; length=1456; checksum_in_packet=199762195; checksum_calculated =199762195; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=561; length=1456; checksum_in_packet=199762195;
+Packet received; type=DATA; seqNum=561; length=1456; checksum_in_packet=3848941451; checksum_calculated =3848941451; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=562; length=1456; checksum_in_packet=3848941451;
+Packet received; type=DATA; seqNum=562; length=1456; checksum_in_packet=2524867386; checksum_calculated =2524867386; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=563; length=1456; checksum_in_packet=2524867386;
+Packet received; type=DATA; seqNum=563; length=1456; checksum_in_packet=1440428687; checksum_calculated =1440428687; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=564; length=1456; checksum_in_packet=1440428687;
+Packet received; type=DATA; seqNum=564; length=1456; checksum_in_packet=2993732565; checksum_calculated =2993732565; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=565; length=1456; checksum_in_packet=2993732565;
+Packet received; type=DATA; seqNum=565; length=1456; checksum_in_packet=1600735354; checksum_calculated =1600735354; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=566; length=1456; checksum_in_packet=1600735354;
+Packet received; type=DATA; seqNum=566; length=1456; checksum_in_packet=2139581423; checksum_calculated =2139581423; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=567; length=1456; checksum_in_packet=2139581423;
+Packet received; type=DATA; seqNum=567; length=1456; checksum_in_packet=3512926265; checksum_calculated =3512926265; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=568; length=1456; checksum_in_packet=3512926265;
+Packet received; type=DATA; seqNum=568; length=1456; checksum_in_packet=2913748848; checksum_calculated =2913748848; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=569; length=1456; checksum_in_packet=2913748848;
+Packet received; type=DATA; seqNum=569; length=1456; checksum_in_packet=103129349; checksum_calculated =103129349; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=570; length=1456; checksum_in_packet=103129349;
+Packet received; type=DATA; seqNum=570; length=1456; checksum_in_packet=2351131947; checksum_calculated =2351131947; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=571; length=1456; checksum_in_packet=2351131947;
+Packet sent; type=ACK; seqNum=571; length=1456; checksum_in_packet=4090968998; checksum_calculated =3689564423; status=CORRUPT
+Packet received; type=DATA; seqNum=571; length=1456; checksum_in_packet=4090968998; checksum_calculated =4090968998; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=572; length=1456; checksum_in_packet=4090968998;
+Packet received; type=DATA; seqNum=572; length=1456; checksum_in_packet=3606655502; checksum_calculated =3606655502; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=573; length=1456; checksum_in_packet=3606655502;
+Packet received; type=DATA; seqNum=573; length=1456; checksum_in_packet=686643615; checksum_calculated =686643615; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=574; length=1456; checksum_in_packet=686643615;
+Packet received; type=DATA; seqNum=574; length=1456; checksum_in_packet=3662647681; checksum_calculated =3662647681; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=575; length=1456; checksum_in_packet=3662647681;
+Packet received; type=DATA; seqNum=575; length=1456; checksum_in_packet=169968024; checksum_calculated =169968024; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=576; length=1456; checksum_in_packet=169968024;
+Packet received; type=DATA; seqNum=576; length=1456; checksum_in_packet=4180099267; checksum_calculated =4180099267; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=577; length=1456; checksum_in_packet=4180099267;
+Packet sent; type=ACK; seqNum=577; length=1456; checksum_in_packet=3661384634; checksum_calculated =2453974732; status=CORRUPT
+Packet received; type=DATA; seqNum=577; length=1456; checksum_in_packet=3661384634; checksum_calculated =3661384634; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=578; length=1456; checksum_in_packet=3661384634;
+Packet received; type=DATA; seqNum=578; length=1456; checksum_in_packet=1711801996; checksum_calculated =1711801996; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=579; length=1456; checksum_in_packet=1711801996;
+Packet received; type=DATA; seqNum=579; length=1456; checksum_in_packet=1705839306; checksum_calculated =1705839306; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=580; length=1456; checksum_in_packet=1705839306;
+Packet received; type=DATA; seqNum=580; length=1456; checksum_in_packet=8910527; checksum_calculated =8910527; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=581; length=1456; checksum_in_packet=8910527;
+Packet received; type=DATA; seqNum=581; length=1456; checksum_in_packet=4144333922; checksum_calculated =4144333922; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=582; length=1456; checksum_in_packet=4144333922;
+Packet received; type=DATA; seqNum=582; length=1456; checksum_in_packet=2391767385; checksum_calculated =2391767385; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=583; length=1456; checksum_in_packet=2391767385;
+Packet received; type=DATA; seqNum=583; length=1456; checksum_in_packet=290068111; checksum_calculated =290068111; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=584; length=1456; checksum_in_packet=290068111;
+Packet received; type=DATA; seqNum=584; length=1456; checksum_in_packet=2713113693; checksum_calculated =2713113693; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=585; length=1456; checksum_in_packet=2713113693;
+Packet received; type=DATA; seqNum=585; length=1456; checksum_in_packet=3481273077; checksum_calculated =3481273077; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=586; length=1456; checksum_in_packet=3481273077;
+Packet received; type=DATA; seqNum=586; length=1456; checksum_in_packet=1485553120; checksum_calculated =1485553120; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=587; length=1456; checksum_in_packet=1485553120;
+Packet received; type=DATA; seqNum=587; length=1456; checksum_in_packet=755854864; checksum_calculated =755854864; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=588; length=1456; checksum_in_packet=755854864;
+Packet received; type=DATA; seqNum=588; length=1456; checksum_in_packet=1028638362; checksum_calculated =1028638362; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=589; length=1456; checksum_in_packet=1028638362;
+Packet received; type=DATA; seqNum=589; length=1456; checksum_in_packet=405198507; checksum_calculated =405198507; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=590; length=1456; checksum_in_packet=405198507;
+Packet received; type=DATA; seqNum=590; length=1456; checksum_in_packet=2285402958; checksum_calculated =2285402958; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=591; length=1456; checksum_in_packet=2285402958;
+Packet received; type=DATA; seqNum=591; length=1456; checksum_in_packet=3010259742; checksum_calculated =3010259742; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=592; length=1456; checksum_in_packet=3010259742;
+Packet received; type=DATA; seqNum=592; length=1456; checksum_in_packet=1048043272; checksum_calculated =1048043272; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=593; length=1456; checksum_in_packet=1048043272;
+Packet received; type=DATA; seqNum=593; length=1456; checksum_in_packet=4218396592; checksum_calculated =4218396592; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=594; length=1456; checksum_in_packet=4218396592;
+Packet received; type=DATA; seqNum=594; length=1456; checksum_in_packet=539956317; checksum_calculated =539956317; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=595; length=1456; checksum_in_packet=539956317;
+Packet received; type=DATA; seqNum=595; length=1456; checksum_in_packet=1089695024; checksum_calculated =1089695024; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=596; length=1456; checksum_in_packet=1089695024;
+Packet received; type=DATA; seqNum=596; length=1456; checksum_in_packet=511049066; checksum_calculated =511049066; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=597; length=1456; checksum_in_packet=511049066;
+Packet received; type=DATA; seqNum=597; length=1456; checksum_in_packet=1617097260; checksum_calculated =1617097260; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=598; length=1456; checksum_in_packet=1617097260;
+Packet received; type=DATA; seqNum=598; length=1456; checksum_in_packet=1488230033; checksum_calculated =1488230033; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=599; length=1456; checksum_in_packet=1488230033;
+Packet received; type=DATA; seqNum=599; length=1456; checksum_in_packet=418706383; checksum_calculated =418706383; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=600; length=1456; checksum_in_packet=418706383;
+Packet received; type=DATA; seqNum=600; length=1456; checksum_in_packet=3238668804; checksum_calculated =3238668804; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=601; length=1456; checksum_in_packet=3238668804;
+Packet sent; type=ACK; seqNum=601; length=1456; checksum_in_packet=2444752780; checksum_calculated =296015669; status=CORRUPT
+Packet received; type=DATA; seqNum=601; length=1456; checksum_in_packet=2444752780; checksum_calculated =2444752780; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=602; length=1456; checksum_in_packet=2444752780;
+Packet received; type=DATA; seqNum=602; length=1456; checksum_in_packet=39334835; checksum_calculated =39334835; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=603; length=1456; checksum_in_packet=39334835;
+Packet received; type=DATA; seqNum=603; length=1456; checksum_in_packet=1788104958; checksum_calculated =1788104958; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=604; length=1456; checksum_in_packet=1788104958;
+Packet received; type=DATA; seqNum=604; length=1456; checksum_in_packet=3520730117; checksum_calculated =3520730117; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=605; length=1456; checksum_in_packet=3520730117;
+Packet received; type=DATA; seqNum=605; length=1456; checksum_in_packet=1042128846; checksum_calculated =1042128846; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=606; length=1456; checksum_in_packet=1042128846;
+Packet received; type=DATA; seqNum=606; length=1456; checksum_in_packet=3687250290; checksum_calculated =3687250290; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=607; length=1456; checksum_in_packet=3687250290;
+Packet sent; type=ACK; seqNum=607; length=1456; checksum_in_packet=3687250290; checksum_calculated =3687250290; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=607; length=1456; checksum_in_packet=1233863528; checksum_calculated =1233863528; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=608; length=1456; checksum_in_packet=1233863528;
+Packet received; type=DATA; seqNum=608; length=1456; checksum_in_packet=820178260; checksum_calculated =820178260; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=609; length=1456; checksum_in_packet=820178260;
+Packet received; type=DATA; seqNum=609; length=1456; checksum_in_packet=1325478953; checksum_calculated =1325478953; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=610; length=1456; checksum_in_packet=1325478953;
+Packet received; type=DATA; seqNum=610; length=1456; checksum_in_packet=2358792569; checksum_calculated =2358792569; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=611; length=1456; checksum_in_packet=2358792569;
+Packet received; type=DATA; seqNum=611; length=1456; checksum_in_packet=1817019564; checksum_calculated =1817019564; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=612; length=1456; checksum_in_packet=1817019564;
+Packet received; type=DATA; seqNum=612; length=1456; checksum_in_packet=3672106232; checksum_calculated =3672106232; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=613; length=1456; checksum_in_packet=3672106232;
+Packet received; type=DATA; seqNum=613; length=1456; checksum_in_packet=1055858467; checksum_calculated =1055858467; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=614; length=1456; checksum_in_packet=1055858467;
+Packet received; type=DATA; seqNum=614; length=1456; checksum_in_packet=2928546673; checksum_calculated =2928546673; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=615; length=1456; checksum_in_packet=2928546673;
+Packet received; type=DATA; seqNum=615; length=1456; checksum_in_packet=924534477; checksum_calculated =924534477; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=616; length=1456; checksum_in_packet=924534477;
+Packet received; type=DATA; seqNum=616; length=1456; checksum_in_packet=197656495; checksum_calculated =197656495; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=617; length=1456; checksum_in_packet=197656495;
+Packet received; type=DATA; seqNum=617; length=1456; checksum_in_packet=2393415817; checksum_calculated =2393415817; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=618; length=1456; checksum_in_packet=2393415817;
+Packet received; type=DATA; seqNum=618; length=1456; checksum_in_packet=134537811; checksum_calculated =134537811; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=619; length=1456; checksum_in_packet=134537811;
+Packet received; type=DATA; seqNum=619; length=1456; checksum_in_packet=4236322969; checksum_calculated =4236322969; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=620; length=1456; checksum_in_packet=4236322969;
+Packet received; type=DATA; seqNum=620; length=1456; checksum_in_packet=3647917811; checksum_calculated =3647917811; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=621; length=1456; checksum_in_packet=3647917811;
+Packet received; type=DATA; seqNum=621; length=1456; checksum_in_packet=113430084; checksum_calculated =113430084; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=622; length=1456; checksum_in_packet=113430084;
+Packet received; type=DATA; seqNum=622; length=1456; checksum_in_packet=1526275512; checksum_calculated =1526275512; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=623; length=1456; checksum_in_packet=1526275512;
+Packet received; type=DATA; seqNum=623; length=1456; checksum_in_packet=2884530517; checksum_calculated =2884530517; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=624; length=1456; checksum_in_packet=2884530517;
+Packet received; type=DATA; seqNum=624; length=1456; checksum_in_packet=3966929168; checksum_calculated =3966929168; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=625; length=1456; checksum_in_packet=3966929168;
+Packet sent; type=ACK; seqNum=625; length=1456; checksum_in_packet=2516019970; checksum_calculated =404470099; status=CORRUPT
+Packet received; type=DATA; seqNum=625; length=1456; checksum_in_packet=2516019970; checksum_calculated =2516019970; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=626; length=1456; checksum_in_packet=2516019970;
+Packet received; type=DATA; seqNum=626; length=1456; checksum_in_packet=357635928; checksum_calculated =357635928; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=627; length=1456; checksum_in_packet=357635928;
+Packet received; type=DATA; seqNum=627; length=1456; checksum_in_packet=3130456747; checksum_calculated =3130456747; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=628; length=1456; checksum_in_packet=3130456747;
+Packet received; type=DATA; seqNum=628; length=1456; checksum_in_packet=424808085; checksum_calculated =424808085; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=629; length=1456; checksum_in_packet=424808085;
+Packet received; type=DATA; seqNum=629; length=1456; checksum_in_packet=1880421106; checksum_calculated =1880421106; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=630; length=1456; checksum_in_packet=1880421106;
+Packet received; type=DATA; seqNum=630; length=1456; checksum_in_packet=3387324792; checksum_calculated =3387324792; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=631; length=1456; checksum_in_packet=3387324792;
+Packet received; type=DATA; seqNum=631; length=1456; checksum_in_packet=2428595369; checksum_calculated =2428595369; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=632; length=1456; checksum_in_packet=2428595369;
+Packet received; type=DATA; seqNum=632; length=1456; checksum_in_packet=3740657116; checksum_calculated =3740657116; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=633; length=1456; checksum_in_packet=3740657116;
+Packet received; type=DATA; seqNum=633; length=1456; checksum_in_packet=1197998363; checksum_calculated =1197998363; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=634; length=1456; checksum_in_packet=1197998363;
+Packet received; type=DATA; seqNum=634; length=1456; checksum_in_packet=2148030179; checksum_calculated =2148030179; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=635; length=1456; checksum_in_packet=2148030179;
+Packet received; type=DATA; seqNum=635; length=1456; checksum_in_packet=1582762874; checksum_calculated =1582762874; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=636; length=1456; checksum_in_packet=1582762874;
+Packet received; type=DATA; seqNum=636; length=1456; checksum_in_packet=466865751; checksum_calculated =466865751; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=637; length=1456; checksum_in_packet=466865751;
+Packet received; type=DATA; seqNum=637; length=1456; checksum_in_packet=1892837460; checksum_calculated =1892837460; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=638; length=1456; checksum_in_packet=1892837460;
+Packet received; type=DATA; seqNum=638; length=1456; checksum_in_packet=1799325891; checksum_calculated =1799325891; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=639; length=1456; checksum_in_packet=1799325891;
+Packet received; type=DATA; seqNum=639; length=1456; checksum_in_packet=3808973030; checksum_calculated =3808973030; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=640; length=1456; checksum_in_packet=3808973030;
+Packet received; type=DATA; seqNum=640; length=1456; checksum_in_packet=2704505411; checksum_calculated =2704505411; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=641; length=1456; checksum_in_packet=2704505411;
+Packet received; type=DATA; seqNum=641; length=1456; checksum_in_packet=1835527958; checksum_calculated =1835527958; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=642; length=1456; checksum_in_packet=1835527958;
+Packet received; type=DATA; seqNum=642; length=1456; checksum_in_packet=3645807797; checksum_calculated =3645807797; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=643; length=1456; checksum_in_packet=3645807797;
+Packet received; type=DATA; seqNum=643; length=1456; checksum_in_packet=1170582432; checksum_calculated =1170582432; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=644; length=1456; checksum_in_packet=1170582432;
+Packet received; type=DATA; seqNum=644; length=1456; checksum_in_packet=1221924561; checksum_calculated =1221924561; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=645; length=1456; checksum_in_packet=1221924561;
+Packet received; type=DATA; seqNum=645; length=1456; checksum_in_packet=1190155440; checksum_calculated =1190155440; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=646; length=1456; checksum_in_packet=1190155440;
+Packet received; type=DATA; seqNum=646; length=1456; checksum_in_packet=3904382526; checksum_calculated =3904382526; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=647; length=1456; checksum_in_packet=3904382526;
+Packet received; type=DATA; seqNum=647; length=1456; checksum_in_packet=1225016102; checksum_calculated =1225016102; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=648; length=1456; checksum_in_packet=1225016102;
+Packet received; type=DATA; seqNum=648; length=1456; checksum_in_packet=4058432590; checksum_calculated =4058432590; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=649; length=1456; checksum_in_packet=4058432590;
+Packet sent; type=ACK; seqNum=649; length=1456; checksum_in_packet=4014951450; checksum_calculated =2281297234; status=CORRUPT
+Packet received; type=DATA; seqNum=649; length=1456; checksum_in_packet=4014951450; checksum_calculated =4014951450; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=650; length=1456; checksum_in_packet=4014951450;
+Packet received; type=DATA; seqNum=650; length=1456; checksum_in_packet=2263111331; checksum_calculated =2263111331; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=651; length=1456; checksum_in_packet=2263111331;
+Packet sent; type=ACK; seqNum=651; length=1456; checksum_in_packet=2263111331; checksum_calculated =2263111331; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=651; length=1456; checksum_in_packet=1201271704; checksum_calculated =1201271704; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=652; length=1456; checksum_in_packet=1201271704;
+Packet received; type=DATA; seqNum=652; length=1456; checksum_in_packet=1694925905; checksum_calculated =1694925905; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=653; length=1456; checksum_in_packet=1694925905;
+Packet sent; type=ACK; seqNum=653; length=1456; checksum_in_packet=329369097; checksum_calculated =2376008342; status=CORRUPT
+Packet received; type=DATA; seqNum=653; length=1456; checksum_in_packet=329369097; checksum_calculated =329369097; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=654; length=1456; checksum_in_packet=329369097;
+Packet received; type=DATA; seqNum=654; length=1456; checksum_in_packet=1150712269; checksum_calculated =1150712269; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=655; length=1456; checksum_in_packet=1150712269;
+Packet received; type=DATA; seqNum=655; length=1456; checksum_in_packet=2470581960; checksum_calculated =2470581960; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=656; length=1456; checksum_in_packet=2470581960;
+Packet sent; type=ACK; seqNum=656; length=1456; checksum_in_packet=2470581960; checksum_calculated =2470581960; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=656; length=1456; checksum_in_packet=1837672650; checksum_calculated =1837672650; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=657; length=1456; checksum_in_packet=1837672650;
+Packet received; type=DATA; seqNum=657; length=1456; checksum_in_packet=3630370953; checksum_calculated =3630370953; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=658; length=1456; checksum_in_packet=3630370953;
+Packet sent; type=ACK; seqNum=658; length=1456; checksum_in_packet=3630370953; checksum_calculated =3630370953; status=OUT_OF_ORDER_PACKET
+Packet received; type=DATA; seqNum=658; length=1456; checksum_in_packet=7215123; checksum_calculated =7215123; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=659; length=1456; checksum_in_packet=7215123;
+Packet received; type=DATA; seqNum=659; length=1456; checksum_in_packet=2526591162; checksum_calculated =2526591162; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=660; length=1456; checksum_in_packet=2526591162;
+Packet received; type=DATA; seqNum=660; length=1456; checksum_in_packet=2002142873; checksum_calculated =2002142873; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=661; length=1456; checksum_in_packet=2002142873;
+Packet sent; type=ACK; seqNum=661; length=1456; checksum_in_packet=186874334; checksum_calculated =3802188260; status=CORRUPT
+Packet received; type=DATA; seqNum=661; length=1456; checksum_in_packet=186874334; checksum_calculated =186874334; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=662; length=1456; checksum_in_packet=186874334;
+Packet received; type=DATA; seqNum=662; length=1456; checksum_in_packet=1986962638; checksum_calculated =1986962638; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=663; length=1456; checksum_in_packet=1986962638;
+Packet received; type=DATA; seqNum=663; length=1456; checksum_in_packet=186394149; checksum_calculated =186394149; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=664; length=1456; checksum_in_packet=186394149;
+Packet received; type=DATA; seqNum=664; length=1456; checksum_in_packet=1203672801; checksum_calculated =1203672801; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=665; length=1456; checksum_in_packet=1203672801;
+Packet received; type=DATA; seqNum=665; length=1456; checksum_in_packet=1616745995; checksum_calculated =1616745995; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=666; length=1456; checksum_in_packet=1616745995;
+Packet received; type=DATA; seqNum=666; length=1456; checksum_in_packet=746297866; checksum_calculated =746297866; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=667; length=1456; checksum_in_packet=746297866;
+Packet received; type=DATA; seqNum=667; length=1456; checksum_in_packet=772222857; checksum_calculated =772222857; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=668; length=1456; checksum_in_packet=772222857;
+Packet received; type=DATA; seqNum=668; length=1456; checksum_in_packet=2980568522; checksum_calculated =2980568522; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=669; length=1456; checksum_in_packet=2980568522;
+Packet received; type=DATA; seqNum=669; length=1456; checksum_in_packet=3877187920; checksum_calculated =3877187920; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=670; length=1456; checksum_in_packet=3877187920;
+Packet received; type=DATA; seqNum=670; length=1456; checksum_in_packet=3661836625; checksum_calculated =3661836625; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=671; length=1456; checksum_in_packet=3661836625;
+Packet received; type=DATA; seqNum=671; length=1456; checksum_in_packet=2097035265; checksum_calculated =2097035265; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=672; length=1456; checksum_in_packet=2097035265;
+Packet received; type=DATA; seqNum=672; length=1456; checksum_in_packet=947329096; checksum_calculated =947329096; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=673; length=1456; checksum_in_packet=947329096;
+Packet received; type=DATA; seqNum=673; length=1456; checksum_in_packet=1309284360; checksum_calculated =1309284360; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=674; length=1456; checksum_in_packet=1309284360;
+Packet received; type=DATA; seqNum=674; length=1456; checksum_in_packet=713569308; checksum_calculated =713569308; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=675; length=1456; checksum_in_packet=713569308;
+Packet received; type=DATA; seqNum=675; length=1456; checksum_in_packet=166648640; checksum_calculated =166648640; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=676; length=1456; checksum_in_packet=166648640;
+Packet received; type=DATA; seqNum=676; length=1456; checksum_in_packet=4088075506; checksum_calculated =4088075506; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=677; length=1456; checksum_in_packet=4088075506;
+Packet received; type=DATA; seqNum=677; length=1456; checksum_in_packet=1962340740; checksum_calculated =1962340740; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=678; length=1456; checksum_in_packet=1962340740;
+Packet received; type=DATA; seqNum=678; length=1456; checksum_in_packet=1652487455; checksum_calculated =1652487455; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=679; length=1456; checksum_in_packet=1652487455;
+Packet received; type=DATA; seqNum=679; length=1456; checksum_in_packet=4066415012; checksum_calculated =4066415012; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=680; length=1456; checksum_in_packet=4066415012;
+Packet received; type=DATA; seqNum=680; length=1456; checksum_in_packet=944728454; checksum_calculated =944728454; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=681; length=1456; checksum_in_packet=944728454;
+Packet received; type=DATA; seqNum=681; length=1456; checksum_in_packet=3637346947; checksum_calculated =3637346947; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=682; length=1456; checksum_in_packet=3637346947;
+Packet received; type=DATA; seqNum=682; length=1456; checksum_in_packet=982192613; checksum_calculated =982192613; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=683; length=1456; checksum_in_packet=982192613;
+Packet received; type=DATA; seqNum=683; length=1456; checksum_in_packet=2594220440; checksum_calculated =2594220440; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=684; length=1456; checksum_in_packet=2594220440;
+Packet received; type=DATA; seqNum=684; length=1456; checksum_in_packet=2120958797; checksum_calculated =2120958797; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=685; length=1456; checksum_in_packet=2120958797;
+Packet received; type=DATA; seqNum=685; length=1456; checksum_in_packet=3309641281; checksum_calculated =3309641281; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=686; length=1456; checksum_in_packet=3309641281;
+Packet received; type=DATA; seqNum=686; length=1184; checksum_in_packet=174436550; checksum_calculated =174436550; status=NOT_CORRUPT
+Packet sent; type=ACK; seqNum=687; length=1184; checksum_in_packet=174436550;
